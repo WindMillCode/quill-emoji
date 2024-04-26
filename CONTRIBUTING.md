@@ -2,7 +2,7 @@
 
 ## Tools Required
 git
-node.jh
+node.js(used with v20 but should go as far back as nodejs v10)
 ## Setup
 *
 ```ps1
@@ -37,7 +37,14 @@ npm unlink @windmillcode/quill-emoji
 * in the package do
 ```ts
 cd dist;
-npm unlink -g 
+npm unlink -g
+```
+
+
+## Building
+
+```sh
+npm run build
 ```
 
 ## Maintainers
