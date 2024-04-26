@@ -1,0 +1,10 @@
+.DS_Store
+.classpath
+.project
+.idea/
+.vscode/
+
+node_modules
+*.log
+package-lock.json
+logs/

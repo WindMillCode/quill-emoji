@@ -1,0 +1,32 @@
+{
+  "name": "@windmillcode/quill-emoji",
+  "version": "0.0.0",
+  "description": "Quill Extension for Emoji Selection",
+  "main": "quill-emoji.js",
+  "dependencies": {
+    "emoji-data-css": "^1.0.1",
+    "fuse.js": "^7.0.0",
+    "parchment": "^3.0.0"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windmillcode/quill-emoji.git"
+  },
+  "keywords": [
+    "content",
+    "emoji",
+    "quill",
+    "editor",
+    "windmillcode"
+  ],
+  "author": "windmillcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/windmillcode/quill-emoji/issues"
+  },
+  "homepage": "https://github.com/windmillcode/quill-emoji#readme",
+  "peerDependencies": {
+    "quill": "^2.0.0"
+  }
+}
