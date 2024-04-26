@@ -1,7 +1,6 @@
 import Quill from 'quill';
 import Fuse from 'fuse.js';
 import emojiList from './emoji-list.js';
-console.log(Quill)
 const Module = Quill.default.import('core/module');
 
 

@@ -210,18 +210,14 @@ button.ql-table[value="append-col"]::after {
   top: 10px;
 }
 #textarea-emoji {
-  position: absolute;
-  right: 0px;
-  max-width: 250px;
-  z-index: 999;
-  border: 1px solid #66afe9;
+  left: 0;
+  top:0;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12);
   border-radius: 3px;
   border: 1px solid rgba(0, 0, 0, 0.15);
+
 }
-.ql-editor {
-  padding-right: 26px;
-}
+
 
 .i-activity {
   content: "";

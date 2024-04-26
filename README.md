@@ -8,6 +8,7 @@ version will be based on version starting with  2.0.0000
   meaning we only have 9 digits avaialble for major,minor and patch before we have to wait for qull library to update hopefully it does not come to that
   * for every new version of quill down to its patch there will be new release hopefully on the same day
 * there is no testing but minimal modification from quill emoji to get things to work with quill 2.0.0 feel free to add test cases and open a PR
+* cant copy emojis open a PR as necessary
 
 
 
@@ -16,6 +17,8 @@ Module extension for [Quill.js](https://github.com/quilljs/quill) that handles e
 
 ![Screenshot](/demo/screenshot.png)
 
+
+<!-- Needs fix -->
 To add an emoji via emoji code, type ``:`` followed by the first few letters, and an autocomplete menu will appear. You can then select or ``tab`` to the preferred emoji.
 
 
