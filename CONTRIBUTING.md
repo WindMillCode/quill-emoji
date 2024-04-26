@@ -1,23 +1,28 @@
 # Contributing
 
-## Building
-
-To build __quill-emoji__, run the following command:
-
-```sh
-yarn
-yarn build
+## Tools Required
+git
+node.jh
+## Setup
+*
+```ps1
+https://github.com/WindMillCode/quill-emoji.git
+npm install -s
 ```
 
-## Testing
+## Development
 
-Still need to add testing
+to run its preferred to use  our vscode launch.json "Run Development" Command or use
+```sh
+npm run start
+```
+the cd to the dist folder and do
+```sh
+npm link
+```
 
-## Releases
-
-Still need to come up with release schemes
+* in the consumer application do
 
 ## Maintainers
 
-__@yeminhtut__  
-__@himynameistimli__
+__@windmillcode__

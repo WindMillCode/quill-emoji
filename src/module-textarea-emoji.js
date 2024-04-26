@@ -150,9 +150,7 @@ function fn_emojiElementsToPanel(type,panel,quill){
         if (customButton) {
             customButton.addEventListener('click', function() {
 
-                // quill.insertText(range.index, customButton.innerHTML);
-                // quill.setSelection(range.index + customButton.innerHTML.length, 0);
-                // range.index = range.index + customButton.innerHTML.length;
+
                 quill.insertEmbed(range.index, 'emoji', emoji, Quill.default.sources.USER);
                 range.index += 1;
                 setTimeout(() => quill.setSelection(range.index + 1), 0);

@@ -5,8 +5,7 @@
   "main": "dist/quill-emoji.js",
   "dependencies": {
     "emoji-data-css": "^1.0.1",
-    "fuse.js": "^7.0.0",
-    "parchment": "^3.0.0"
+    "fuse.js": "^7.0.0"
   },
   "type": "module",
   "devDependencies": {
@@ -35,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/windmillcode/quill-emoji.git"
+    "url": "git+https://github.com/WindMillCode/quill-emoji.git"
   },
   "keywords": [
     "content",
@@ -47,9 +46,12 @@
   "author": "windmillcode",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/windmillcode/quill-emoji/issues"
+    "url": "https://github.com/WindMillCode/quill-emoji/issues"
   },
-  "homepage": "https://github.com/windmillcode/quill-emoji#readme",
+  "homepage": "https://github.com/WindMillCode/quill-emoji#readme",
+  "engines": {
+    "node": "18.x || 20.x"
+  },
   "peerDependencies": {
     "quill": "^2.0.0"
   }

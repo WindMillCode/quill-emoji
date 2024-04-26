@@ -1,4 +1,17 @@
-# Quill Emoji Selector
+# Notes
+* shorthand does not work make a PR to fix and make an option
+* everything seems to export as [name].default and all the usual properties exist on  [name].default need assistance in order to make truly tree shakable
+* built for Quill 2.0.0 lsb
+version will be based on version starting with  2.0.0000
+  * [2.0.0] - is the quill version
+  * [000] - is the major minor patch version of our library
+  meaning we only have 9 digits avaialble for major,minor and patch before we have to wait for qull library to update hopefully it does not come to that
+  * for every new version of quill down to its patch there will be new release hopefully on the same day
+* there is no testing but minimal modification from quill emoji to get things to work with quill 2.0.0 feel free to add test cases and open a PR
+
+
+
+# Windmillcode Quill Emoji Selector
 Module extension for [Quill.js](https://github.com/quilljs/quill) that handles emojis in the toolbar. Through this extension, you can add emojis through the toolbar at the top, or by typing the emoji code.
 
 ![Screenshot](/demo/screenshot.png)
@@ -9,48 +22,24 @@ To add an emoji via emoji code, type ``:`` followed by the first few letters, an
 ## Installation
 
 ```sh
-yarn add quill-emoji
+npm install  @windmillcode/quill-emoji
 ```
 
 ## Usage
-### Webpack/ES6
+
 
 ```javascript
-const toolbarOptions = {
-  container: [
-    ['bold', 'italic', 'underline', 'strike'],
-    ['emoji'],
-  ],
-  handlers: {'emoji': function() {}}
-}
-const quill = new Quill(editor, {
-  // ...
-  modules: {
-    // ...
-    toolbar: toolbarOptions,
-    "emoji-toolbar": true,
-    "emoji-textarea": true,
-  }
-});
-```
+// someone can contribute and make ShortNameEmoji work
+import * as Emoji from "@windmillcode/quill-emoji";
+let  {EmojiBlot,
+// ShortNameEmoji,
+ToolbarEmoji,
+TextAreaEmoji }= Emoji.default
 
-or
-
-```javascript
-import * as Emoji from "quill-emoji";
-Quill.register("modules/emoji", Emoji);
-
-<Quill
-  defaultValue=""
-  theme="snow"
-  modules={{
-    toolbar: toolbarOptions,
-    "emoji-toolbar": true,
-    "emoji-textarea": true,
-    "emoji-shortname": true,
-  }}
-  value={quill_data.delta}
-/>
+Quill.register(EmojiBlot)
+// Quill.register('modules/emoji-shortname', ShortNameEmoji,true)
+Quill.register('modules/emoji-toolbar', ToolbarEmoji,true)
+Quill.register('modules/emoji-textarea', TextAreaEmoji,true)
 ```
 
 ### Import styles
@@ -58,14 +47,11 @@ Quill.register("modules/emoji", Emoji);
 Styles are present under
 
 ```javascript
-import "quill-emoji/dist/quill-emoji.css";
+import "@windmillcode/quill-emoji/quill-emoji.css";
 ```
 
 
 
-### Examples
-- [Classic HTML/JS](demo/index.html)
-- [AngularJS](demo/angular.html) using [ng-quill](https://github.com/KillerCodeMonkey/ng-quill)
 
 ### Options
 See [emoji-list.js](src/emoji-list.js) for emoji list example
@@ -112,26 +98,9 @@ const quill = new Quill(editor, {
 ### Custom Emoji Blot
 If you need to display the emojis in a different way, you can customize the [emoji blot](src/format-emoji-blot.js) by creating a new blot or extending the default emoji blot.
 
-#### New emoji blot
-```javascript
-import Quill from 'quill';
 
-const Embed = Quill.import('blots/embed');
-
-class EmojiBlot extends Embed {
-    // Customized version of src/format-emoji-blot.js
-    // ...
-}
-
-EmojiBlot.blotName = 'emoji';
-EmojiBlot.tagName = 'span';
-
-Quill.register({
-    'formats/emoji': EmojiBlot
-}, true);
-```
 
 ## Contributing
 
 Please check out our [contributing guidelines](CONTRIBUTING.md).
-)
+
