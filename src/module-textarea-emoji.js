@@ -4,7 +4,6 @@ import emojiList from './emoji-list.js';
 
 
 
-const Delta = Quill.default.import('delta');
 const Module = Quill.default.import('core/module');
 
 class TextAreaEmoji extends Module {
