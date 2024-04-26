@@ -2,7 +2,7 @@ let emojiList = [
   {
     "name": "100",
     "unicode": "1f4af",
-    "shortname": ":100:",
+    // "shortname": ":100:",
     "code_decimal": "&#128175;",
     "category": "s",
     "emoji_order": "2119"
@@ -10,7 +10,7 @@ let emojiList = [
   {
     "name": "1234",
     "unicode": "1f522",
-    "shortname": ":1234:",
+    // "shortname": ":1234:",
     "code_decimal": "&#128290;",
     "category": "s",
     "emoji_order": "2122"
@@ -18,7 +18,7 @@ let emojiList = [
   {
     "name": "grinning",
     "unicode": "1f600",
-    "shortname": ":grinning:",
+    // "shortname": ":grinning:",
     "code_decimal": "&#128512;",
     "category": "p",
     "emoji_order": "1"
@@ -26,7 +26,7 @@ let emojiList = [
   {
     "name": "grin",
     "unicode": "1f601",
-    "shortname": ":grin:",
+    // "shortname": ":grin:",
     "code_decimal": "&#128513;",
     "category": "p",
     "emoji_order": "2"
@@ -34,7 +34,7 @@ let emojiList = [
   {
     "name": "joy",
     "unicode": "1f602",
-    "shortname": ":joy:",
+    // "shortname": ":joy:",
     "code_decimal": "&#128514;",
     "category": "p",
     "emoji_order": "3"
@@ -42,7 +42,7 @@ let emojiList = [
   /* ///@todo not found on image{
     "name": "rolling_on_the_floor_laughing",
     "unicode": "1f923",
-    "shortname": ":rofl:",
+    // "shortname": ":rofl:",
     "code_decimal": "&#129315;",
     "category": "p",
     "emoji_order": "4"
@@ -50,7 +50,7 @@ let emojiList = [
   {
     "name": "smiley",
     "unicode": "1f603",
-    "shortname": ":smiley:",
+    // "shortname": ":smiley:",
     "code_decimal": "&#128515;",
     "category": "p",
     "emoji_order": "5"
@@ -58,7 +58,7 @@ let emojiList = [
   {
     "name": "smile",
     "unicode": "1f604",
-    "shortname": ":smile:",
+    // "shortname": ":smile:",
     "code_decimal": "&#128516;",
     "category": "p",
     "emoji_order": "6"
@@ -66,7 +66,7 @@ let emojiList = [
   {
     "name": "sweat_smile",
     "unicode": "1f605",
-    "shortname": ":sweat_smile:",
+    // "shortname": ":sweat_smile:",
     "code_decimal": "&#128517;",
     "category": "p",
     "emoji_order": "7"
@@ -74,7 +74,7 @@ let emojiList = [
   {
     "name": "laughing",
     "unicode": "1f606",
-    "shortname": ":laughing:",
+    // "shortname": ":laughing:",
     "code_decimal": "&#128518;",
     "category": "p",
     "emoji_order": "8"
@@ -82,7 +82,7 @@ let emojiList = [
   {
     "name": "wink",
     "unicode": "1f609",
-    "shortname": ":wink:",
+    // "shortname": ":wink:",
     "code_decimal": "&#128521;",
     "category": "p",
     "emoji_order": "9"
@@ -90,7 +90,7 @@ let emojiList = [
   {
     "name": "blush",
     "unicode": "1f60a",
-    "shortname": ":blush:",
+    // "shortname": ":blush:",
     "code_decimal": "&#128522;",
     "category": "p",
     "emoji_order": "10"
@@ -98,7 +98,7 @@ let emojiList = [
   {
     "name": "yum",
     "unicode": "1f60b",
-    "shortname": ":yum:",
+    // "shortname": ":yum:",
     "code_decimal": "&#128523;",
     "category": "p",
     "emoji_order": "11"
@@ -106,7 +106,7 @@ let emojiList = [
   {
     "name": "sunglasses",
     "unicode": "1f60e",
-    "shortname": ":sunglasses:",
+    // "shortname": ":sunglasses:",
     "code_decimal": "&#128526;",
     "category": "p",
     "emoji_order": "12"
@@ -114,7 +114,7 @@ let emojiList = [
   {
     "name": "heart_eyes",
     "unicode": "1f60d",
-    "shortname": ":heart_eyes:",
+    // "shortname": ":heart_eyes:",
     "code_decimal": "&#128525;",
     "category": "p",
     "emoji_order": "13"
@@ -122,7 +122,7 @@ let emojiList = [
   {
     "name": "kissing_heart",
     "unicode": "1f618",
-    "shortname": ":kissing_heart:",
+    // "shortname": ":kissing_heart:",
     "code_decimal": "&#128536;",
     "category": "p",
     "emoji_order": "14"
@@ -130,7 +130,7 @@ let emojiList = [
   {
     "name": "kissing",
     "unicode": "1f617",
-    "shortname": ":kissing:",
+    // "shortname": ":kissing:",
     "code_decimal": "&#128535;",
     "category": "p",
     "emoji_order": "15"
@@ -138,7 +138,7 @@ let emojiList = [
   {
     "name": "kissing_smiling_eyes",
     "unicode": "1f619",
-    "shortname": ":kissing_smiling_eyes:",
+    // "shortname": ":kissing_smiling_eyes:",
     "code_decimal": "&#128537;",
     "category": "p",
     "emoji_order": "16"
@@ -146,7 +146,7 @@ let emojiList = [
   {
     "name": "kissing_closed_eyes",
     "unicode": "1f61a",
-    "shortname": ":kissing_closed_eyes:",
+    // "shortname": ":kissing_closed_eyes:",
     "code_decimal": "&#128538;",
     "category": "p",
     "emoji_order": "17"
@@ -154,7 +154,7 @@ let emojiList = [
   {
     "name": "slightly_smiling_face",
     "unicode": "1f642",
-    "shortname": ":slight_smile:",
+    // "shortname": ":slight_smile:",
     "code_decimal": "&#128578;",
     "category": "p",
     "emoji_order": "19"
@@ -162,7 +162,7 @@ let emojiList = [
   {
     "name": "hugging_face",
     "unicode": "1f917",
-    "shortname": ":hugging:",
+    // "shortname": ":hugging:",
     "code_decimal": "&#129303;",
     "category": "p",
     "emoji_order": "20"
@@ -170,7 +170,7 @@ let emojiList = [
   {
     "name": "thinking_face",
     "unicode": "1f914",
-    "shortname": ":thinking:",
+    // "shortname": ":thinking:",
     "code_decimal": "&#129300;",
     "category": "p",
     "emoji_order": "21"
@@ -178,7 +178,7 @@ let emojiList = [
   {
     "name": "neutral_face",
     "unicode": "1f610",
-    "shortname": ":neutral_face:",
+    // "shortname": ":neutral_face:",
     "code_decimal": "&#128528;",
     "category": "p",
     "emoji_order": "22"
@@ -186,7 +186,7 @@ let emojiList = [
   {
     "name": "expressionless",
     "unicode": "1f611",
-    "shortname": ":expressionless:",
+    // "shortname": ":expressionless:",
     "code_decimal": "&#128529;",
     "category": "p",
     "emoji_order": "23"
@@ -194,7 +194,7 @@ let emojiList = [
   {
     "name": "no_mouth",
     "unicode": "1f636",
-    "shortname": ":no_mouth:",
+    // "shortname": ":no_mouth:",
     "code_decimal": "&#128566;",
     "category": "p",
     "emoji_order": "24"
@@ -202,7 +202,7 @@ let emojiList = [
   {
     "name": "face_with_rolling_eyes",
     "unicode": "1f644",
-    "shortname": ":rolling_eyes:",
+    // "shortname": ":rolling_eyes:",
     "code_decimal": "&#128580;",
     "category": "p",
     "emoji_order": "25"
@@ -210,7 +210,7 @@ let emojiList = [
   {
     "name": "smirk",
     "unicode": "1f60f",
-    "shortname": ":smirk:",
+    // "shortname": ":smirk:",
     "code_decimal": "&#128527;",
     "category": "p",
     "emoji_order": "26"
@@ -218,7 +218,7 @@ let emojiList = [
   {
     "name": "persevere",
     "unicode": "1f623",
-    "shortname": ":persevere:",
+    // "shortname": ":persevere:",
     "code_decimal": "&#128547;",
     "category": "p",
     "emoji_order": "27"
@@ -226,7 +226,7 @@ let emojiList = [
   {
     "name": "disappointed_relieved",
     "unicode": "1f625",
-    "shortname": ":disappointed_relieved:",
+    // "shortname": ":disappointed_relieved:",
     "code_decimal": "&#128549;",
     "category": "p",
     "emoji_order": "28"
@@ -234,7 +234,7 @@ let emojiList = [
   {
     "name": "open_mouth",
     "unicode": "1f62e",
-    "shortname": ":open_mouth:",
+    // "shortname": ":open_mouth:",
     "code_decimal": "&#128558;",
     "category": "p",
     "emoji_order": "29"
@@ -242,7 +242,7 @@ let emojiList = [
   {
     "name": "zipper_mouth_face",
     "unicode": "1f910",
-    "shortname": ":zipper_mouth:",
+    // "shortname": ":zipper_mouth:",
     "code_decimal": "&#129296;",
     "category": "p",
     "emoji_order": "30"
@@ -250,7 +250,7 @@ let emojiList = [
   {
     "name": "hushed",
     "unicode": "1f62f",
-    "shortname": ":hushed:",
+    // "shortname": ":hushed:",
     "code_decimal": "&#128559;",
     "category": "p",
     "emoji_order": "31"
@@ -258,7 +258,7 @@ let emojiList = [
   {
     "name": "sleepy",
     "unicode": "1f62a",
-    "shortname": ":sleepy:",
+    // "shortname": ":sleepy:",
     "code_decimal": "&#128554;",
     "category": "p",
     "emoji_order": "32"
@@ -266,7 +266,7 @@ let emojiList = [
   {
     "name": "tired_face",
     "unicode": "1f62b",
-    "shortname": ":tired_face:",
+    // "shortname": ":tired_face:",
     "code_decimal": "&#128555;",
     "category": "p",
     "emoji_order": "33"
@@ -274,7 +274,7 @@ let emojiList = [
   {
     "name": "sleeping",
     "unicode": "1f634",
-    "shortname": ":sleeping:",
+    // "shortname": ":sleeping:",
     "code_decimal": "&#128564;",
     "category": "p",
     "emoji_order": "34"
@@ -282,7 +282,7 @@ let emojiList = [
   {
     "name": "relieved",
     "unicode": "1f60c",
-    "shortname": ":relieved:",
+    // "shortname": ":relieved:",
     "code_decimal": "&#128524;",
     "category": "p",
     "emoji_order": "35"
@@ -290,7 +290,7 @@ let emojiList = [
   {
     "name": "nerd_face",
     "unicode": "1f913",
-    "shortname": ":nerd:",
+    // "shortname": ":nerd:",
     "code_decimal": "&#129299;",
     "category": "p",
     "emoji_order": "36"
@@ -298,7 +298,7 @@ let emojiList = [
   {
     "name": "stuck_out_tongue",
     "unicode": "1f61b",
-    "shortname": ":stuck_out_tongue:",
+    // "shortname": ":stuck_out_tongue:",
     "code_decimal": "&#128539;",
     "category": "p",
     "emoji_order": "37"
@@ -306,7 +306,7 @@ let emojiList = [
   {
     "name": "stuck_out_tongue_winking_eye",
     "unicode": "1f61c",
-    "shortname": ":stuck_out_tongue_winking_eye:",
+    // "shortname": ":stuck_out_tongue_winking_eye:",
     "code_decimal": "&#128540;",
     "category": "p",
     "emoji_order": "38"
@@ -314,7 +314,7 @@ let emojiList = [
   {
     "name": "stuck_out_tongue_closed_eyes",
     "unicode": "1f61d",
-    "shortname": ":stuck_out_tongue_closed_eyes:",
+    // "shortname": ":stuck_out_tongue_closed_eyes:",
     "code_decimal": "&#128541;",
     "category": "p",
     "emoji_order": "39"
@@ -322,7 +322,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "drooling_face",
     "unicode": "1f924",
-    "shortname": ":drooling_face:",
+    // "shortname": ":drooling_face:",
     "code_decimal": "&#129316;",
     "category": "p",
     "emoji_order": "40"
@@ -330,7 +330,7 @@ let emojiList = [
   {
     "name": "unamused",
     "unicode": "1f612",
-    "shortname": ":unamused:",
+    // "shortname": ":unamused:",
     "code_decimal": "&#128530;",
     "category": "p",
     "emoji_order": "41"
@@ -338,7 +338,7 @@ let emojiList = [
   {
     "name": "sweat",
     "unicode": "1f613",
-    "shortname": ":sweat:",
+    // "shortname": ":sweat:",
     "code_decimal": "&#128531;",
     "category": "p",
     "emoji_order": "42"
@@ -346,7 +346,7 @@ let emojiList = [
   {
     "name": "pensive",
     "unicode": "1f614",
-    "shortname": ":pensive:",
+    // "shortname": ":pensive:",
     "code_decimal": "&#128532;",
     "category": "p",
     "emoji_order": "43"
@@ -354,7 +354,7 @@ let emojiList = [
   {
     "name": "confused",
     "unicode": "1f615",
-    "shortname": ":confused:",
+    // "shortname": ":confused:",
     "code_decimal": "&#128533;",
     "category": "p",
     "emoji_order": "44"
@@ -362,7 +362,7 @@ let emojiList = [
   {
     "name": "upside_down_face",
     "unicode": "1f643",
-    "shortname": ":upside_down:",
+    // "shortname": ":upside_down:",
     "code_decimal": "&#128579;",
     "category": "p",
     "emoji_order": "45"
@@ -370,7 +370,7 @@ let emojiList = [
   {
     "name": "money_mouth_face",
     "unicode": "1f911",
-    "shortname": ":money_mouth:",
+    // "shortname": ":money_mouth:",
     "code_decimal": "&#129297;",
     "category": "p",
     "emoji_order": "46"
@@ -378,7 +378,7 @@ let emojiList = [
   {
     "name": "astonished",
     "unicode": "1f632",
-    "shortname": ":astonished:",
+    // "shortname": ":astonished:",
     "code_decimal": "&#128562;",
     "category": "p",
     "emoji_order": "47"
@@ -386,7 +386,7 @@ let emojiList = [
   {
     "name": "slightly_frowning_face",
     "unicode": "1f641",
-    "shortname": ":slight_frown:",
+    // "shortname": ":slight_frown:",
     "code_decimal": "&#128577;",
     "category": "p",
     "emoji_order": "49"
@@ -394,7 +394,7 @@ let emojiList = [
   {
     "name": "confounded",
     "unicode": "1f616",
-    "shortname": ":confounded:",
+    // "shortname": ":confounded:",
     "code_decimal": "&#128534;",
     "category": "p",
     "emoji_order": "50"
@@ -402,7 +402,7 @@ let emojiList = [
   {
     "name": "disappointed",
     "unicode": "1f61e",
-    "shortname": ":disappointed:",
+    // "shortname": ":disappointed:",
     "code_decimal": "&#128542;",
     "category": "p",
     "emoji_order": "51"
@@ -410,7 +410,7 @@ let emojiList = [
   {
     "name": "worried",
     "unicode": "1f61f",
-    "shortname": ":worried:",
+    // "shortname": ":worried:",
     "code_decimal": "&#128543;",
     "category": "p",
     "emoji_order": "52"
@@ -418,7 +418,7 @@ let emojiList = [
   {
     "name": "triumph",
     "unicode": "1f624",
-    "shortname": ":triumph:",
+    // "shortname": ":triumph:",
     "code_decimal": "&#128548;",
     "category": "p",
     "emoji_order": "53"
@@ -426,7 +426,7 @@ let emojiList = [
   {
     "name": "cry",
     "unicode": "1f622",
-    "shortname": ":cry:",
+    // "shortname": ":cry:",
     "code_decimal": "&#128546;",
     "category": "p",
     "emoji_order": "54"
@@ -434,7 +434,7 @@ let emojiList = [
   {
     "name": "sob",
     "unicode": "1f62d",
-    "shortname": ":sob:",
+    // "shortname": ":sob:",
     "code_decimal": "&#128557;",
     "category": "p",
     "emoji_order": "55"
@@ -442,7 +442,7 @@ let emojiList = [
   {
     "name": "frowning",
     "unicode": "1f626",
-    "shortname": ":frowning:",
+    // "shortname": ":frowning:",
     "code_decimal": "&#128550;",
     "category": "p",
     "emoji_order": "56"
@@ -450,7 +450,7 @@ let emojiList = [
   {
     "name": "anguished",
     "unicode": "1f627",
-    "shortname": ":anguished:",
+    // "shortname": ":anguished:",
     "code_decimal": "&#128551;",
     "category": "p",
     "emoji_order": "57"
@@ -458,7 +458,7 @@ let emojiList = [
   {
     "name": "fearful",
     "unicode": "1f628",
-    "shortname": ":fearful:",
+    // "shortname": ":fearful:",
     "code_decimal": "&#128552;",
     "category": "p",
     "emoji_order": "58"
@@ -466,7 +466,7 @@ let emojiList = [
   {
     "name": "weary",
     "unicode": "1f629",
-    "shortname": ":weary:",
+    // "shortname": ":weary:",
     "code_decimal": "&#128553;",
     "category": "p",
     "emoji_order": "59"
@@ -474,7 +474,7 @@ let emojiList = [
   {
     "name": "grimacing",
     "unicode": "1f62c",
-    "shortname": ":grimacing:",
+    // "shortname": ":grimacing:",
     "code_decimal": "&#128556;",
     "category": "p",
     "emoji_order": "60"
@@ -482,7 +482,7 @@ let emojiList = [
   {
     "name": "cold_sweat",
     "unicode": "1f630",
-    "shortname": ":cold_sweat:",
+    // "shortname": ":cold_sweat:",
     "code_decimal": "&#128560;",
     "category": "p",
     "emoji_order": "61"
@@ -490,7 +490,7 @@ let emojiList = [
   {
     "name": "scream",
     "unicode": "1f631",
-    "shortname": ":scream:",
+    // "shortname": ":scream:",
     "code_decimal": "&#128561;",
     "category": "p",
     "emoji_order": "62"
@@ -498,7 +498,7 @@ let emojiList = [
   {
     "name": "flushed",
     "unicode": "1f633",
-    "shortname": ":flushed:",
+    // "shortname": ":flushed:",
     "code_decimal": "&#128563;",
     "category": "p",
     "emoji_order": "63"
@@ -506,7 +506,7 @@ let emojiList = [
   {
     "name": "dizzy_face",
     "unicode": "1f635",
-    "shortname": ":dizzy_face:",
+    // "shortname": ":dizzy_face:",
     "code_decimal": "&#128565;",
     "category": "p",
     "emoji_order": "64"
@@ -514,7 +514,7 @@ let emojiList = [
   {
     "name": "rage",
     "unicode": "1f621",
-    "shortname": ":rage:",
+    // "shortname": ":rage:",
     "code_decimal": "&#128545;",
     "category": "p",
     "emoji_order": "65"
@@ -522,7 +522,7 @@ let emojiList = [
   {
     "name": "angry",
     "unicode": "1f620",
-    "shortname": ":angry:",
+    // "shortname": ":angry:",
     "code_decimal": "&#128544;",
     "category": "p",
     "emoji_order": "66"
@@ -530,7 +530,7 @@ let emojiList = [
   {
     "name": "innocent",
     "unicode": "1f607",
-    "shortname": ":innocent:",
+    // "shortname": ":innocent:",
     "code_decimal": "&#128519;",
     "category": "p",
     "emoji_order": "67"
@@ -538,7 +538,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "face_with_cowboy_hat",
     "unicode": "1f920",
-    "shortname": ":cowboy:",
+    // "shortname": ":cowboy:",
     "code_decimal": "&#129312;",
     "category": "p",
     "emoji_order": "68"
@@ -546,7 +546,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "clown_face",
     "unicode": "1f921",
-    "shortname": ":clown:",
+    // "shortname": ":clown:",
     "code_decimal": "&#129313;",
     "category": "p",
     "emoji_order": "69"
@@ -554,7 +554,7 @@ let emojiList = [
   /*{ //@todo not founf on image
     "name": "lying_face",
     "unicode": "1f925",
-    "shortname": ":lying_face:",
+    // "shortname": ":lying_face:",
     "code_decimal": "&#129317;",
     "category": "p",
     "emoji_order": "70"
@@ -562,7 +562,7 @@ let emojiList = [
   {
     "name": "mask",
     "unicode": "1f637",
-    "shortname": ":mask:",
+    // "shortname": ":mask:",
     "code_decimal": "&#128567;",
     "category": "p",
     "emoji_order": "71"
@@ -570,7 +570,7 @@ let emojiList = [
   {
     "name": "face_with_thermometer",
     "unicode": "1f912",
-    "shortname": ":thermometer_face:",
+    // "shortname": ":thermometer_face:",
     "code_decimal": "&#129298;",
     "category": "p",
     "emoji_order": "72"
@@ -578,7 +578,7 @@ let emojiList = [
   {
     "name": "face_with_head_bandage",
     "unicode": "1f915",
-    "shortname": ":head_bandage:",
+    // "shortname": ":head_bandage:",
     "code_decimal": "&#129301;",
     "category": "p",
     "emoji_order": "73"
@@ -586,7 +586,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "nauseated_face",
     "unicode": "1f922",
-    "shortname": ":nauseated_face:",
+    // "shortname": ":nauseated_face:",
     "code_decimal": "&#129314;",
     "category": "p",
     "emoji_order": "74"
@@ -594,7 +594,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "sneezing_face",
     "unicode": "1f927",
-    "shortname": ":sneezing_face:",
+    // "shortname": ":sneezing_face:",
     "code_decimal": "&#129319;",
     "category": "p",
     "emoji_order": "75"
@@ -602,7 +602,7 @@ let emojiList = [
   {
     "name": "smiling_imp",
     "unicode": "1f608",
-    "shortname": ":smiling_imp:",
+    // "shortname": ":smiling_imp:",
     "code_decimal": "&#128520;",
     "category": "p",
     "emoji_order": "76"
@@ -610,7 +610,7 @@ let emojiList = [
   {
     "name": "imp",
     "unicode": "1f47f",
-    "shortname": ":imp:",
+    // "shortname": ":imp:",
     "code_decimal": "&#128127;",
     "category": "p",
     "emoji_order": "77"
@@ -618,7 +618,7 @@ let emojiList = [
   {
     "name": "japanese_ogre",
     "unicode": "1f479",
-    "shortname": ":japanese_ogre:",
+    // "shortname": ":japanese_ogre:",
     "code_decimal": "&#128121;",
     "category": "p",
     "emoji_order": "78"
@@ -626,7 +626,7 @@ let emojiList = [
   {
     "name": "japanese_goblin",
     "unicode": "1f47a",
-    "shortname": ":japanese_goblin:",
+    // "shortname": ":japanese_goblin:",
     "code_decimal": "&#128122;",
     "category": "p",
     "emoji_order": "79"
@@ -634,7 +634,7 @@ let emojiList = [
   {
     "name": "skull",
     "unicode": "1f480",
-    "shortname": ":skull:",
+    // "shortname": ":skull:",
     "code_decimal": "&#128128;",
     "category": "p",
     "emoji_order": "80"
@@ -642,7 +642,7 @@ let emojiList = [
   {
     "name": "skull_and_crossbones",
     "unicode": "2620",
-    "shortname": ":skull_crossbones:",
+    // "shortname": ":skull_crossbones:",
     "code_decimal": "&#9760;",
     "category": "o",
     "emoji_order": "81"
@@ -650,7 +650,7 @@ let emojiList = [
   {
     "name": "ghost",
     "unicode": "1f47b",
-    "shortname": ":ghost:",
+    // "shortname": ":ghost:",
     "code_decimal": "&#128123;",
     "category": "p",
     "emoji_order": "82"
@@ -658,7 +658,7 @@ let emojiList = [
   {
     "name": "alien",
     "unicode": "1f47d",
-    "shortname": ":alien:",
+    // "shortname": ":alien:",
     "code_decimal": "&#128125;",
     "category": "p",
     "emoji_order": "83"
@@ -666,7 +666,7 @@ let emojiList = [
   {
     "name": "space_invader",
     "unicode": "1f47e",
-    "shortname": ":space_invader:",
+    // "shortname": ":space_invader:",
     "code_decimal": "&#128126;",
     "category": "a",
     "emoji_order": "84"
@@ -674,7 +674,7 @@ let emojiList = [
   {
     "name": "robot_face",
     "unicode": "1f916",
-    "shortname": ":robot:",
+    // "shortname": ":robot:",
     "code_decimal": "&#129302;",
     "category": "p",
     "emoji_order": "85"
@@ -682,7 +682,7 @@ let emojiList = [
   {
     "name": "hankey",
     "unicode": "1f4a9",
-    "shortname": ":poop:",
+    // "shortname": ":poop:",
     "code_decimal": "&#128169;",
     "category": "p",
     "emoji_order": "86"
@@ -690,7 +690,7 @@ let emojiList = [
   {
     "name": "smiley_cat",
     "unicode": "1f63a",
-    "shortname": ":smiley_cat:",
+    // "shortname": ":smiley_cat:",
     "code_decimal": "&#128570;",
     "category": "p",
     "emoji_order": "87"
@@ -698,7 +698,7 @@ let emojiList = [
   {
     "name": "smile_cat",
     "unicode": "1f638",
-    "shortname": ":smile_cat:",
+    // "shortname": ":smile_cat:",
     "code_decimal": "&#128568;",
     "category": "p",
     "emoji_order": "88"
@@ -706,7 +706,7 @@ let emojiList = [
   {
     "name": "joy_cat",
     "unicode": "1f639",
-    "shortname": ":joy_cat:",
+    // "shortname": ":joy_cat:",
     "code_decimal": "&#128569;",
     "category": "p",
     "emoji_order": "89"
@@ -714,7 +714,7 @@ let emojiList = [
   {
     "name": "heart_eyes_cat",
     "unicode": "1f63b",
-    "shortname": ":heart_eyes_cat:",
+    // "shortname": ":heart_eyes_cat:",
     "code_decimal": "&#128571;",
     "category": "p",
     "emoji_order": "90"
@@ -722,7 +722,7 @@ let emojiList = [
   {
     "name": "smirk_cat",
     "unicode": "1f63c",
-    "shortname": ":smirk_cat:",
+    // "shortname": ":smirk_cat:",
     "code_decimal": "&#128572;",
     "category": "p",
     "emoji_order": "91"
@@ -730,7 +730,7 @@ let emojiList = [
   {
     "name": "kissing_cat",
     "unicode": "1f63d",
-    "shortname": ":kissing_cat:",
+    // "shortname": ":kissing_cat:",
     "code_decimal": "&#128573;",
     "category": "p",
     "emoji_order": "92"
@@ -738,7 +738,7 @@ let emojiList = [
   {
     "name": "scream_cat",
     "unicode": "1f640",
-    "shortname": ":scream_cat:",
+    // "shortname": ":scream_cat:",
     "code_decimal": "&#128576;",
     "category": "p",
     "emoji_order": "93"
@@ -746,7 +746,7 @@ let emojiList = [
   {
     "name": "crying_cat_face",
     "unicode": "1f63f",
-    "shortname": ":crying_cat_face:",
+    // "shortname": ":crying_cat_face:",
     "code_decimal": "&#128575;",
     "category": "p",
     "emoji_order": "94"
@@ -754,7 +754,7 @@ let emojiList = [
   {
     "name": "pouting_cat",
     "unicode": "1f63e",
-    "shortname": ":pouting_cat:",
+    // "shortname": ":pouting_cat:",
     "code_decimal": "&#128574;",
     "category": "p",
     "emoji_order": "95"
@@ -762,7 +762,7 @@ let emojiList = [
   {
     "name": "see_no_evil",
     "unicode": "1f648",
-    "shortname": ":see_no_evil:",
+    // "shortname": ":see_no_evil:",
     "code_decimal": "&#128584;",
     "category": "n",
     "emoji_order": "96"
@@ -770,7 +770,7 @@ let emojiList = [
   {
     "name": "hear_no_evil",
     "unicode": "1f649",
-    "shortname": ":hear_no_evil:",
+    // "shortname": ":hear_no_evil:",
     "code_decimal": "&#128585;",
     "category": "n",
     "emoji_order": "97"
@@ -778,7 +778,7 @@ let emojiList = [
   {
     "name": "speak_no_evil",
     "unicode": "1f64a",
-    "shortname": ":speak_no_evil:",
+    // "shortname": ":speak_no_evil:",
     "code_decimal": "&#128586;",
     "category": "n",
     "emoji_order": "98"
@@ -786,7 +786,7 @@ let emojiList = [
   {
     "name": "boy",
     "unicode": "1f466",
-    "shortname": ":boy:",
+    // "shortname": ":boy:",
     "code_decimal": "&#128102;",
     "category": "p",
     "emoji_order": "99"
@@ -794,7 +794,7 @@ let emojiList = [
   {
     "name": "girl",
     "unicode": "1f467",
-    "shortname": ":girl:",
+    // "shortname": ":girl:",
     "code_decimal": "&#128103;",
     "category": "p",
     "emoji_order": "105"
@@ -802,7 +802,7 @@ let emojiList = [
   {
     "name": "man",
     "unicode": "1f468",
-    "shortname": ":man:",
+    // "shortname": ":man:",
     "code_decimal": "&#128104;",
     "category": "p",
     "emoji_order": "111"
@@ -810,7 +810,7 @@ let emojiList = [
   {
     "name": "woman",
     "unicode": "1f469",
-    "shortname": ":woman:",
+    // "shortname": ":woman:",
     "code_decimal": "&#128105;",
     "category": "p",
     "emoji_order": "117"
@@ -818,7 +818,7 @@ let emojiList = [
   {
     "name": "older_man",
     "unicode": "1f474",
-    "shortname": ":older_man:",
+    // "shortname": ":older_man:",
     "code_decimal": "&#128116;",
     "category": "p",
     "emoji_order": "123"
@@ -826,7 +826,7 @@ let emojiList = [
   {
     "name": "older_woman",
     "unicode": "1f475",
-    "shortname": ":older_woman:",
+    // "shortname": ":older_woman:",
     "code_decimal": "&#128117;",
     "category": "p",
     "emoji_order": "129"
@@ -834,7 +834,7 @@ let emojiList = [
   {
     "name": "baby",
     "unicode": "1f476",
-    "shortname": ":baby:",
+    // "shortname": ":baby:",
     "code_decimal": "&#128118;",
     "category": "p",
     "emoji_order": "135"
@@ -842,7 +842,7 @@ let emojiList = [
   {
     "name": "angel",
     "unicode": "1f47c",
-    "shortname": ":angel:",
+    // "shortname": ":angel:",
     "code_decimal": "&#128124;",
     "category": "p",
     "emoji_order": "141"
@@ -850,7 +850,7 @@ let emojiList = [
   {
     "name": "cop",
     "unicode": "1f46e",
-    "shortname": ":cop:",
+    // "shortname": ":cop:",
     "code_decimal": "&#128110;",
     "category": "p",
     "emoji_order": "339"
@@ -858,7 +858,7 @@ let emojiList = [
   {
     "name": "sleuth_or_spy",
     "unicode": "1f575",
-    "shortname": ":spy:",
+    // "shortname": ":spy:",
     "code_decimal": "&#128373;",
     "category": "p",
     "emoji_order": "357"
@@ -866,7 +866,7 @@ let emojiList = [
   {
     "name": "guardsman",
     "unicode": "1f482",
-    "shortname": ":guardsman:",
+    // "shortname": ":guardsman:",
     "code_decimal": "&#128130;",
     "category": "p",
     "emoji_order": "375"
@@ -874,7 +874,7 @@ let emojiList = [
   {
     "name": "construction_worker",
     "unicode": "1f477",
-    "shortname": ":construction_worker:",
+    // "shortname": ":construction_worker:",
     "code_decimal": "&#128119;",
     "category": "p",
     "emoji_order": "393"
@@ -882,7 +882,7 @@ let emojiList = [
   {
     "name": "man_with_turban",
     "unicode": "1f473",
-    "shortname": ":man_with_turban:",
+    // "shortname": ":man_with_turban:",
     "code_decimal": "&#128115;",
     "category": "p",
     "emoji_order": "411"
@@ -890,7 +890,7 @@ let emojiList = [
   {
     "name": "person_with_blond_hair",
     "unicode": "1f471",
-    "shortname": ":person_with_blond_hair:",
+    // "shortname": ":person_with_blond_hair:",
     "code_decimal": "&#128113;",
     "category": "p",
     "emoji_order": "429"
@@ -898,7 +898,7 @@ let emojiList = [
   {
     "name": "santa",
     "unicode": "1f385",
-    "shortname": ":santa:",
+    // "shortname": ":santa:",
     "code_decimal": "&#127877;",
     "category": "p",
     "emoji_order": "447"
@@ -906,7 +906,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "mrs_claus",
     "unicode": "1f936",
-    "shortname": ":mrs_claus:",
+    // "shortname": ":mrs_claus:",
     "code_decimal": "&#129334;",
     "category": "p",
     "emoji_order": "453"
@@ -914,7 +914,7 @@ let emojiList = [
   {
     "name": "princess",
     "unicode": "1f478",
-    "shortname": ":princess:",
+    // "shortname": ":princess:",
     "code_decimal": "&#128120;",
     "category": "p",
     "emoji_order": "459"
@@ -922,7 +922,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "prince",
     "unicode": "1f934",
-    "shortname": ":prince:",
+    // "shortname": ":prince:",
     "code_decimal": "&#129332;",
     "category": "p",
     "emoji_order": "465"
@@ -930,7 +930,7 @@ let emojiList = [
   {
     "name": "bride_with_veil",
     "unicode": "1f470",
-    "shortname": ":bride_with_veil:",
+    // "shortname": ":bride_with_veil:",
     "code_decimal": "&#128112;",
     "category": "p",
     "emoji_order": "471"
@@ -938,7 +938,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "man_in_tuxedo",
     "unicode": "1f935",
-    "shortname": ":man_in_tuxedo:",
+    // "shortname": ":man_in_tuxedo:",
     "code_decimal": "&#129333;",
     "category": "p",
     "emoji_order": "477"
@@ -946,7 +946,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "pregnant_woman",
     "unicode": "1f930",
-    "shortname": ":pregnant_woman:",
+    // "shortname": ":pregnant_woman:",
     "code_decimal": "&#129328;",
     "category": "p",
     "emoji_order": "483"
@@ -954,7 +954,7 @@ let emojiList = [
   {
     "name": "man_with_gua_pi_mao",
     "unicode": "1f472",
-    "shortname": ":man_with_gua_pi_mao:",
+    // "shortname": ":man_with_gua_pi_mao:",
     "code_decimal": "&#128114;",
     "category": "p",
     "emoji_order": "489"
@@ -962,7 +962,7 @@ let emojiList = [
   {
     "name": "person_frowning",
     "unicode": "1f64d",
-    "shortname": ":person_frowning:",
+    // "shortname": ":person_frowning:",
     "code_decimal": "&#128589;",
     "category": "p",
     "emoji_order": "495"
@@ -970,7 +970,7 @@ let emojiList = [
   {
     "name": "person_with_pouting_face",
     "unicode": "1f64e",
-    "shortname": ":person_with_pouting_face:",
+    // "shortname": ":person_with_pouting_face:",
     "code_decimal": "&#128590;",
     "category": "p",
     "emoji_order": "513"
@@ -978,7 +978,7 @@ let emojiList = [
   {
     "name": "no_good",
     "unicode": "1f645",
-    "shortname": ":no_good:",
+    // "shortname": ":no_good:",
     "code_decimal": "&#128581;",
     "category": "p",
     "emoji_order": "531"
@@ -986,7 +986,7 @@ let emojiList = [
   {
     "name": "ok_woman",
     "unicode": "1f646",
-    "shortname": ":ok_woman:",
+    // "shortname": ":ok_woman:",
     "code_decimal": "&#128582;",
     "category": "p",
     "emoji_order": "549"
@@ -994,7 +994,7 @@ let emojiList = [
   {
     "name": "information_desk_person",
     "unicode": "1f481",
-    "shortname": ":information_desk_person:",
+    // "shortname": ":information_desk_person:",
     "code_decimal": "&#128129;",
     "category": "p",
     "emoji_order": "567"
@@ -1002,7 +1002,7 @@ let emojiList = [
   {
     "name": "raising_hand",
     "unicode": "1f64b",
-    "shortname": ":raising_hand:",
+    // "shortname": ":raising_hand:",
     "code_decimal": "&#128587;",
     "category": "p",
     "emoji_order": "585"
@@ -1010,7 +1010,7 @@ let emojiList = [
   {
     "name": "bow",
     "unicode": "1f647",
-    "shortname": ":bow:",
+    // "shortname": ":bow:",
     "code_decimal": "&#128583;",
     "category": "p",
     "emoji_order": "603"
@@ -1018,7 +1018,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "face_palm",
     "unicode": "1f926",
-    "shortname": ":face_palm:",
+    // "shortname": ":face_palm:",
     "code_decimal": "&#129318;",
     "category": "p",
     "emoji_order": "621"
@@ -1026,7 +1026,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "shrug",
     "unicode": "1f937",
-    "shortname": ":shrug:",
+    // "shortname": ":shrug:",
     "code_decimal": "&#129335;",
     "category": "p",
     "emoji_order": "639"
@@ -1034,7 +1034,7 @@ let emojiList = [
   {
     "name": "massage",
     "unicode": "1f486",
-    "shortname": ":massage:",
+    // "shortname": ":massage:",
     "code_decimal": "&#128134;",
     "category": "p",
     "emoji_order": "657"
@@ -1042,7 +1042,7 @@ let emojiList = [
   {
     "name": "haircut",
     "unicode": "1f487",
-    "shortname": ":haircut:",
+    // "shortname": ":haircut:",
     "code_decimal": "&#128135;",
     "category": "p",
     "emoji_order": "675"
@@ -1050,7 +1050,7 @@ let emojiList = [
   {
     "name": "walking",
     "unicode": "1f6b6",
-    "shortname": ":walking:",
+    // "shortname": ":walking:",
     "code_decimal": "&#128694;",
     "category": "p",
     "emoji_order": "693"
@@ -1058,7 +1058,7 @@ let emojiList = [
   {
     "name": "runner",
     "unicode": "1f3c3",
-    "shortname": ":runner:",
+    // "shortname": ":runner:",
     "code_decimal": "&#127939;",
     "category": "p",
     "emoji_order": "711"
@@ -1066,7 +1066,7 @@ let emojiList = [
   {
     "name": "dancer",
     "unicode": "1f483",
-    "shortname": ":dancer:",
+    // "shortname": ":dancer:",
     "code_decimal": "&#128131;",
     "category": "p",
     "emoji_order": "729"
@@ -1074,7 +1074,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "man_dancing",
     "unicode": "1f57a",
-    "shortname": ":man_dancing:",
+    // "shortname": ":man_dancing:",
     "code_decimal": "&#128378;",
     "category": "p",
     "emoji_order": "735"
@@ -1082,7 +1082,7 @@ let emojiList = [
   {
     "name": "dancers",
     "unicode": "1f46f",
-    "shortname": ":dancers:",
+    // "shortname": ":dancers:",
     "code_decimal": "&#128111;",
     "category": "p",
     "emoji_order": "741"
@@ -1090,7 +1090,7 @@ let emojiList = [
   {
     "name": "man_in_business_suit_levitating",
     "unicode": "1f574",
-    "shortname": ":levitate:",
+    // "shortname": ":levitate:",
     "code_decimal": "&#128372;",
     "category": "a",
     "emoji_order": "759"
@@ -1098,7 +1098,7 @@ let emojiList = [
   {
     "name": "speaking_head_in_silhouette",
     "unicode": "1f5e3",
-    "shortname": ":speaking_head:",
+    // "shortname": ":speaking_head:",
     "code_decimal": "&#128483;",
     "category": "p",
     "emoji_order": "765"
@@ -1106,7 +1106,7 @@ let emojiList = [
   {
     "name": "bust_in_silhouette",
     "unicode": "1f464",
-    "shortname": ":bust_in_silhouette:",
+    // "shortname": ":bust_in_silhouette:",
     "code_decimal": "&#128100;",
     "category": "p",
     "emoji_order": "766"
@@ -1114,7 +1114,7 @@ let emojiList = [
   {
     "name": "busts_in_silhouette",
     "unicode": "1f465",
-    "shortname": ":busts_in_silhouette:",
+    // "shortname": ":busts_in_silhouette:",
     "code_decimal": "&#128101;",
     "category": "p",
     "emoji_order": "767"
@@ -1122,7 +1122,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "fencer",
     "unicode": "1f93a",
-    "shortname": ":fencer:",
+    // "shortname": ":fencer:",
     "code_decimal": "&#129338;",
     "category": "a",
     "emoji_order": "768"
@@ -1130,7 +1130,7 @@ let emojiList = [
   {
     "name": "horse_racing",
     "unicode": "1f3c7",
-    "shortname": ":horse_racing:",
+    // "shortname": ":horse_racing:",
     "code_decimal": "&#127943;",
     "category": "a",
     "emoji_order": "769"
@@ -1138,7 +1138,7 @@ let emojiList = [
   {
     "name": "skier",
     "unicode": "26f7",
-    "shortname": ":skier:",
+    // "shortname": ":skier:",
     "code_decimal": "&#9975;",
     "category": "a",
     "emoji_order": "775"
@@ -1146,7 +1146,7 @@ let emojiList = [
   {
     "name": "snowboarder",
     "unicode": "1f3c2",
-    "shortname": ":snowboarder:",
+    // "shortname": ":snowboarder:",
     "code_decimal": "&#127938;",
     "category": "a",
     "emoji_order": "776"
@@ -1154,7 +1154,7 @@ let emojiList = [
   {
     "name": "golfer",
     "unicode": "1f3cc",
-    "shortname": ":golfer:",
+    // "shortname": ":golfer:",
     "code_decimal": "&#127948;",
     "category": "a",
     "emoji_order": "782"
@@ -1162,7 +1162,7 @@ let emojiList = [
   {
     "name": "surfer",
     "unicode": "1f3c4",
-    "shortname": ":surfer:",
+    // "shortname": ":surfer:",
     "code_decimal": "&#127940;",
     "category": "a",
     "emoji_order": "800"
@@ -1170,7 +1170,7 @@ let emojiList = [
   {
     "name": "rowboat",
     "unicode": "1f6a3",
-    "shortname": ":rowboat:",
+    // "shortname": ":rowboat:",
     "code_decimal": "&#128675;",
     "category": "a",
     "emoji_order": "818"
@@ -1178,7 +1178,7 @@ let emojiList = [
   {
     "name": "swimmer",
     "unicode": "1f3ca",
-    "shortname": ":swimmer:",
+    // "shortname": ":swimmer:",
     "code_decimal": "&#127946;",
     "category": "a",
     "emoji_order": "836"
@@ -1186,7 +1186,7 @@ let emojiList = [
   {
     "name": "person_with_ball",
     "unicode": "26f9",
-    "shortname": ":basketball_player:",
+    // "shortname": ":basketball_player:",
     "code_decimal": "&#9977;",
     "category": "a",
     "emoji_order": "854"
@@ -1194,7 +1194,7 @@ let emojiList = [
   {
     "name": "weight_lifter",
     "unicode": "1f3cb",
-    "shortname": ":lifter:",
+    // "shortname": ":lifter:",
     "code_decimal": "&#127947;",
     "category": "a",
     "emoji_order": "872"
@@ -1202,7 +1202,7 @@ let emojiList = [
   {
     "name": "bicyclist",
     "unicode": "1f6b4",
-    "shortname": ":bicyclist:",
+    // "shortname": ":bicyclist:",
     "code_decimal": "&#128692;",
     "category": "a",
     "emoji_order": "890"
@@ -1210,7 +1210,7 @@ let emojiList = [
   {
     "name": "mountain_bicyclist",
     "unicode": "1f6b5",
-    "shortname": ":mountain_bicyclist:",
+    // "shortname": ":mountain_bicyclist:",
     "code_decimal": "&#128693;",
     "category": "a",
     "emoji_order": "908"
@@ -1218,7 +1218,7 @@ let emojiList = [
   {
     "name": "racing_car",
     "unicode": "1f3ce",
-    "shortname": ":race_car:",
+    // "shortname": ":race_car:",
     "code_decimal": "&#127950;",
     "category": "t",
     "emoji_order": "926"
@@ -1226,7 +1226,7 @@ let emojiList = [
   {
     "name": "racing_motorcycle",
     "unicode": "1f3cd",
-    "shortname": ":motorcycle:",
+    // "shortname": ":motorcycle:",
     "code_decimal": "&#127949;",
     "category": "t",
     "emoji_order": "927"
@@ -1234,7 +1234,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "cartwheel",
     "unicode": "1f938",
-    "shortname": ":cartwheel:",
+    // "shortname": ":cartwheel:",
     "code_decimal": "&#129336;",
     "category": "a",
     "emoji_order": "928"
@@ -1242,7 +1242,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "wrestlers",
     "unicode": "1f93c",
-    "shortname": ":wrestlers:",
+    // "shortname": ":wrestlers:",
     "code_decimal": "&#129340;",
     "category": "a",
     "emoji_order": "946"
@@ -1250,7 +1250,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "water_polo",
     "unicode": "1f93d",
-    "shortname": ":water_polo:",
+    // "shortname": ":water_polo:",
     "code_decimal": "&#129341;",
     "category": "a",
     "emoji_order": "964"
@@ -1258,7 +1258,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "handball",
     "unicode": "1f93e",
-    "shortname": ":handball:",
+    // "shortname": ":handball:",
     "code_decimal": "&#129342;",
     "category": "a",
     "emoji_order": "982"
@@ -1266,7 +1266,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "juggling",
     "unicode": "1f939",
-    "shortname": ":juggling:",
+    // "shortname": ":juggling:",
     "code_decimal": "&#129337;",
     "category": "a",
     "emoji_order": "1000"
@@ -1274,7 +1274,7 @@ let emojiList = [
   {
     "name": "couple",
     "unicode": "1f46b",
-    "shortname": ":couple:",
+    // "shortname": ":couple:",
     "code_decimal": "&#128107;",
     "category": "p",
     "emoji_order": "1018"
@@ -1282,7 +1282,7 @@ let emojiList = [
   {
     "name": "two_men_holding_hands",
     "unicode": "1f46c",
-    "shortname": ":two_men_holding_hands:",
+    // "shortname": ":two_men_holding_hands:",
     "code_decimal": "&#128108;",
     "category": "p",
     "emoji_order": "1024"
@@ -1290,7 +1290,7 @@ let emojiList = [
   {
     "name": "two_women_holding_hands",
     "unicode": "1f46d",
-    "shortname": ":two_women_holding_hands:",
+    // "shortname": ":two_women_holding_hands:",
     "code_decimal": "&#128109;",
     "category": "p",
     "emoji_order": "1030"
@@ -1298,7 +1298,7 @@ let emojiList = [
   {
     "name": "couplekiss",
     "unicode": "1f48f",
-    "shortname": ":couplekiss:",
+    // "shortname": ":couplekiss:",
     "code_decimal": "&#128143;",
     "category": "p",
     "emoji_order": "1036"
@@ -1307,7 +1307,7 @@ let emojiList = [
   {
     "name": "couple_with_heart",
     "unicode": "1f491",
-    "shortname": ":couple_with_heart:",
+    // "shortname": ":couple_with_heart:",
     "code_decimal": "&#128145;",
     "category": "p",
     "emoji_order": "1040"
@@ -1315,7 +1315,7 @@ let emojiList = [
   {
     "name": "family",
     "unicode": "1f46a",
-    "shortname": ":family:",
+    // "shortname": ":family:",
     "code_decimal": "&#128106;",
     "category": "p",
     "emoji_order": "1044"
@@ -1323,7 +1323,7 @@ let emojiList = [
   {
     "name": "muscle",
     "unicode": "1f4aa",
-    "shortname": ":muscle:",
+    // "shortname": ":muscle:",
     "code_decimal": "&#128170;",
     "category": "p",
     "emoji_order": "1080"
@@ -1331,7 +1331,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "selfie",
     "unicode": "1f933",
-    "shortname": ":selfie:",
+    // "shortname": ":selfie:",
     "code_decimal": "&#129331;",
     "category": "p",
     "emoji_order": "1086"
@@ -1339,7 +1339,7 @@ let emojiList = [
   {
     "name": "point_left",
     "unicode": "1f448",
-    "shortname": ":point_left:",
+    // "shortname": ":point_left:",
     "code_decimal": "&#128072;",
     "category": "p",
     "emoji_order": "1092"
@@ -1347,7 +1347,7 @@ let emojiList = [
   {
     "name": "point_right",
     "unicode": "1f449",
-    "shortname": ":point_right:",
+    // "shortname": ":point_right:",
     "code_decimal": "&#128073;",
     "category": "p",
     "emoji_order": "1098"
@@ -1355,7 +1355,7 @@ let emojiList = [
   {
     "name": "point_up",
     "unicode": "261d",
-    "shortname": ":point_up:",
+    // "shortname": ":point_up:",
     "code_decimal": "&#9757;",
     "category": "p",
     "emoji_order": "1104"
@@ -1363,7 +1363,7 @@ let emojiList = [
   {
     "name": "point_up_2",
     "unicode": "1f446",
-    "shortname": ":point_up_2:",
+    // "shortname": ":point_up_2:",
     "code_decimal": "&#128070;",
     "category": "p",
     "emoji_order": "1110"
@@ -1371,7 +1371,7 @@ let emojiList = [
   {
     "name": "middle_finger",
     "unicode": "1f595",
-    "shortname": ":middle_finger:",
+    // "shortname": ":middle_finger:",
     "code_decimal": "&#128405;",
     "category": "p",
     "emoji_order": "1116"
@@ -1379,7 +1379,7 @@ let emojiList = [
   {
     "name": "point_down",
     "unicode": "1f447",
-    "shortname": ":point_down:",
+    // "shortname": ":point_down:",
     "code_decimal": "&#128071;",
     "category": "p",
     "emoji_order": "1122"
@@ -1387,7 +1387,7 @@ let emojiList = [
   {
     "name": "v",
     "unicode": "270c",
-    "shortname": ":v:",
+    // "shortname": ":v:",
     "code_decimal": "&#9996;",
     "category": "p",
     "emoji_order": "1128"
@@ -1395,7 +1395,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "fingers_crossed",
     "unicode": "1f91e",
-    "shortname": ":fingers_crossed:",
+    // "shortname": ":fingers_crossed:",
     "code_decimal": "&#129310;",
     "category": "p",
     "emoji_order": "1134"
@@ -1403,7 +1403,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "vulcan",
     "unicode": "1f596",
-    "shortname": ":vulcan:",
+    // "shortname": ":vulcan:",
     "code_decimal": "&#128406;",
     "category": "p",
     "emoji_order": "1140"
@@ -1411,7 +1411,7 @@ let emojiList = [
   {
     "name": "the_horns",
     "unicode": "1f918",
-    "shortname": ":metal_tone2:",
+    // "shortname": ":metal_tone2:",
     "code_decimal": "&#129304;",
     "category": "p",
     "emoji_order": "1146"
@@ -1419,7 +1419,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "call_me",
     "unicode": "1f919",
-    "shortname": ":call_me:",
+    // "shortname": ":call_me:",
     "code_decimal": "&#129305;",
     "category": "p",
     "emoji_order": "1152"
@@ -1427,7 +1427,7 @@ let emojiList = [
   {
     "name": "raised_hand_with_fingers_splayed",
     "unicode": "1f590",
-    "shortname": ":hand_splayed:",
+    // "shortname": ":hand_splayed:",
     "code_decimal": "&#128400;",
     "category": "p",
     "emoji_order": "1158"
@@ -1435,7 +1435,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "raised_hand",
     "unicode": "270b",
-    "shortname": ":raised_hand:",
+    // "shortname": ":raised_hand:",
     "code_decimal": "&#9995;",
     "category": "p",
     "emoji_order": "1164"
@@ -1443,7 +1443,7 @@ let emojiList = [
   {
     "name": "ok_hand",
     "unicode": "1f44c",
-    "shortname": ":ok_hand:",
+    // "shortname": ":ok_hand:",
     "code_decimal": "&#128076;",
     "category": "p",
     "emoji_order": "1170"
@@ -1451,7 +1451,7 @@ let emojiList = [
   {
     "name": "thumbsup",
     "unicode": "1f44d",
-    "shortname": ":thumbsup:",
+    // "shortname": ":thumbsup:",
     "code_decimal": "&#128077;",
     "category": "p",
     "emoji_order": "1176"
@@ -1459,7 +1459,7 @@ let emojiList = [
   {
     "name": "thumbsdown",
     "unicode": "1f44e",
-    "shortname": ":thumbsdown:",
+    // "shortname": ":thumbsdown:",
     "code_decimal": "&#128078;",
     "category": "p",
     "emoji_order": "1182"
@@ -1467,7 +1467,7 @@ let emojiList = [
   {
     "name": "fist",
     "unicode": "270a",
-    "shortname": ":fist:",
+    // "shortname": ":fist:",
     "code_decimal": "&#9994;",
     "category": "p",
     "emoji_order": "1188"
@@ -1475,7 +1475,7 @@ let emojiList = [
   {
     "name": "facepunch",
     "unicode": "1f44a",
-    "shortname": ":punch:",
+    // "shortname": ":punch:",
     "code_decimal": "&#128074;",
     "category": "p",
     "emoji_order": "1194"
@@ -1483,7 +1483,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "left_facing_fist",
     "unicode": "1f91b",
-    "shortname": ":left_facing_fist:",
+    // "shortname": ":left_facing_fist:",
     "code_decimal": "&#129307;",
     "category": "p",
     "emoji_order": "1200"
@@ -1491,7 +1491,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "right_facing_fist",
     "unicode": "1f91c",
-    "shortname": ":right_facing_fist:",
+    // "shortname": ":right_facing_fist:",
     "code_decimal": "&#129308;",
     "category": "p",
     "emoji_order": "1206"
@@ -1499,7 +1499,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "raised_back_of_hand",
     "unicode": "1f91a",
-    "shortname": ":raised_back_of_hand:",
+    // "shortname": ":raised_back_of_hand:",
     "code_decimal": "&#129306;",
     "category": "p",
     "emoji_order": "1212"
@@ -1507,7 +1507,7 @@ let emojiList = [
   {
     "name": "wave",
     "unicode": "1f44b",
-    "shortname": ":wave:",
+    // "shortname": ":wave:",
     "code_decimal": "&#128075;",
     "category": "p",
     "emoji_order": "1218"
@@ -1515,7 +1515,7 @@ let emojiList = [
   {
     "name": "clap",
     "unicode": "1f44f",
-    "shortname": ":clap:",
+    // "shortname": ":clap:",
     "code_decimal": "&#128079;",
     "category": "p",
     "emoji_order": "1224"
@@ -1523,7 +1523,7 @@ let emojiList = [
   {
     "name": "writing_hand",
     "unicode": "270d",
-    "shortname": ":writing_hand:",
+    // "shortname": ":writing_hand:",
     "code_decimal": "&#9997;",
     "category": "p",
     "emoji_order": "1230"
@@ -1531,7 +1531,7 @@ let emojiList = [
   {
     "name": "open_hands",
     "unicode": "1f450",
-    "shortname": ":open_hands:",
+    // "shortname": ":open_hands:",
     "code_decimal": "&#128080;",
     "category": "p",
     "emoji_order": "1236"
@@ -1539,7 +1539,7 @@ let emojiList = [
   {
     "name": "raised_hands",
     "unicode": "1f64c",
-    "shortname": ":raised_hands:",
+    // "shortname": ":raised_hands:",
     "code_decimal": "&#128588;",
     "category": "p",
     "emoji_order": "1242"
@@ -1547,7 +1547,7 @@ let emojiList = [
   {
     "name": "pray",
     "unicode": "1f64f",
-    "shortname": ":pray:",
+    // "shortname": ":pray:",
     "code_decimal": "&#128591;",
     "category": "p",
     "emoji_order": "1248"
@@ -1555,7 +1555,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "handshake",
     "unicode": "1f91d",
-    "shortname": ":handshake:",
+    // "shortname": ":handshake:",
     "code_decimal": "&#129309;",
     "category": "p",
     "emoji_order": "1254"
@@ -1563,7 +1563,7 @@ let emojiList = [
   {
     "name": "nail_care",
     "unicode": "1f485",
-    "shortname": ":nail_care:",
+    // "shortname": ":nail_care:",
     "code_decimal": "&#128133;",
     "category": "p",
     "emoji_order": "1260"
@@ -1571,7 +1571,7 @@ let emojiList = [
   {
     "name": "ear",
     "unicode": "1f442",
-    "shortname": ":ear:",
+    // "shortname": ":ear:",
     "code_decimal": "&#128066;",
     "category": "p",
     "emoji_order": "1266"
@@ -1579,7 +1579,7 @@ let emojiList = [
   {
     "name": "nose",
     "unicode": "1f443",
-    "shortname": ":nose:",
+    // "shortname": ":nose:",
     "code_decimal": "&#128067;",
     "category": "p",
     "emoji_order": "1272"
@@ -1587,7 +1587,7 @@ let emojiList = [
   {
     "name": "footprints",
     "unicode": "1f463",
-    "shortname": ":footprints:",
+    // "shortname": ":footprints:",
     "code_decimal": "&#128099;",
     "category": "p",
     "emoji_order": "1278"
@@ -1595,7 +1595,7 @@ let emojiList = [
   {
     "name": "eyes",
     "unicode": "1f440",
-    "shortname": ":eyes:",
+    // "shortname": ":eyes:",
     "code_decimal": "&#128064;",
     "category": "p",
     "emoji_order": "1279"
@@ -1603,7 +1603,7 @@ let emojiList = [
   {
     "name": "eye",
     "unicode": "1f441",
-    "shortname": ":eye:",
+    // "shortname": ":eye:",
     "code_decimal": "&#128065;",
     "category": "p",
     "emoji_order": "1280"
@@ -1611,7 +1611,7 @@ let emojiList = [
   {
     "name": "tongue",
     "unicode": "1f445",
-    "shortname": ":tongue:",
+    // "shortname": ":tongue:",
     "code_decimal": "&#128069;",
     "category": "p",
     "emoji_order": "1282"
@@ -1619,7 +1619,7 @@ let emojiList = [
   {
     "name": "lips",
     "unicode": "1f444",
-    "shortname": ":lips:",
+    // "shortname": ":lips:",
     "code_decimal": "&#128068;",
     "category": "p",
     "emoji_order": "1283"
@@ -1627,7 +1627,7 @@ let emojiList = [
   {
     "name": "kiss",
     "unicode": "1f48b",
-    "shortname": ":kiss:",
+    // "shortname": ":kiss:",
     "code_decimal": "&#128139;",
     "category": "p",
     "emoji_order": "1284"
@@ -1635,7 +1635,7 @@ let emojiList = [
   {
     "name": "cupid",
     "unicode": "1f498",
-    "shortname": ":cupid:",
+    // "shortname": ":cupid:",
     "code_decimal": "&#128152;",
     "category": "s",
     "emoji_order": "1285"
@@ -1643,7 +1643,7 @@ let emojiList = [
   {
     "name": "heart",
     "unicode": "2764",
-    "shortname": ":heart:",
+    // "shortname": ":heart:",
     "code_decimal": "&#10084;",
     "category": "s",
     "emoji_order": "1286"
@@ -1651,7 +1651,7 @@ let emojiList = [
   {
     "name": "heartbeat",
     "unicode": "1f493",
-    "shortname": ":heartbeat:",
+    // "shortname": ":heartbeat:",
     "code_decimal": "&#128147;",
     "category": "s",
     "emoji_order": "1287"
@@ -1659,7 +1659,7 @@ let emojiList = [
   {
     "name": "broken_heart",
     "unicode": "1f494",
-    "shortname": ":broken_heart:",
+    // "shortname": ":broken_heart:",
     "code_decimal": "&#128148;",
     "category": "s",
     "emoji_order": "1288"
@@ -1667,7 +1667,7 @@ let emojiList = [
   {
     "name": "two_hearts",
     "unicode": "1f495",
-    "shortname": ":two_hearts:",
+    // "shortname": ":two_hearts:",
     "code_decimal": "&#128149;",
     "category": "s",
     "emoji_order": "1289"
@@ -1675,7 +1675,7 @@ let emojiList = [
   {
     "name": "sparkling_heart",
     "unicode": "1f496",
-    "shortname": ":sparkling_heart:",
+    // "shortname": ":sparkling_heart:",
     "code_decimal": "&#128150;",
     "category": "s",
     "emoji_order": "1290"
@@ -1683,7 +1683,7 @@ let emojiList = [
   {
     "name": "heartpulse",
     "unicode": "1f497",
-    "shortname": ":heartpulse:",
+    // "shortname": ":heartpulse:",
     "code_decimal": "&#128151;",
     "category": "s",
     "emoji_order": "1291"
@@ -1691,7 +1691,7 @@ let emojiList = [
   {
     "name": "blue_heart",
     "unicode": "1f499",
-    "shortname": ":blue_heart:",
+    // "shortname": ":blue_heart:",
     "code_decimal": "&#128153;",
     "category": "s",
     "emoji_order": "1292"
@@ -1699,7 +1699,7 @@ let emojiList = [
   {
     "name": "green_heart",
     "unicode": "1f49a",
-    "shortname": ":green_heart:",
+    // "shortname": ":green_heart:",
     "code_decimal": "&#128154;",
     "category": "s",
     "emoji_order": "1293"
@@ -1707,7 +1707,7 @@ let emojiList = [
   {
     "name": "yellow_heart",
     "unicode": "1f49b",
-    "shortname": ":yellow_heart:",
+    // "shortname": ":yellow_heart:",
     "code_decimal": "&#128155;",
     "category": "s",
     "emoji_order": "1294"
@@ -1715,7 +1715,7 @@ let emojiList = [
   {
     "name": "purple_heart",
     "unicode": "1f49c",
-    "shortname": ":purple_heart:",
+    // "shortname": ":purple_heart:",
     "code_decimal": "&#128156;",
     "category": "s",
     "emoji_order": "1295"
@@ -1723,7 +1723,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "black_heart",
     "unicode": "1f5a4",
-    "shortname": ":black_heart:",
+    // "shortname": ":black_heart:",
     "code_decimal": "&#128420;",
     "category": "s",
     "emoji_order": "1296"
@@ -1731,7 +1731,7 @@ let emojiList = [
   {
     "name": "gift_heart",
     "unicode": "1f49d",
-    "shortname": ":gift_heart:",
+    // "shortname": ":gift_heart:",
     "code_decimal": "&#128157;",
     "category": "s",
     "emoji_order": "1297"
@@ -1739,7 +1739,7 @@ let emojiList = [
   {
     "name": "revolving_hearts",
     "unicode": "1f49e",
-    "shortname": ":revolving_hearts:",
+    // "shortname": ":revolving_hearts:",
     "code_decimal": "&#128158;",
     "category": "s",
     "emoji_order": "1298"
@@ -1747,7 +1747,7 @@ let emojiList = [
   {
     "name": "heart_decoration",
     "unicode": "1f49f",
-    "shortname": ":heart_decoration:",
+    // "shortname": ":heart_decoration:",
     "code_decimal": "&#128159;",
     "category": "s",
     "emoji_order": "1299"
@@ -1755,7 +1755,7 @@ let emojiList = [
   {
     "name": "heart_exclamation",
     "unicode": "2763",
-    "shortname": ":heart_exclamation:",
+    // "shortname": ":heart_exclamation:",
     "code_decimal": "&#10083;",
     "category": "s",
     "emoji_order": "1300"
@@ -1763,7 +1763,7 @@ let emojiList = [
   {
     "name": "love_letter",
     "unicode": "1f48c",
-    "shortname": ":love_letter:",
+    // "shortname": ":love_letter:",
     "code_decimal": "&#128140;",
     "category": "o",
     "emoji_order": "1301"
@@ -1771,7 +1771,7 @@ let emojiList = [
   {
     "name": "zzz",
     "unicode": "1f4a4",
-    "shortname": ":zzz:",
+    // "shortname": ":zzz:",
     "code_decimal": "&#128164;",
     "category": "p",
     "emoji_order": "1302"
@@ -1779,7 +1779,7 @@ let emojiList = [
   {
     "name": "anger",
     "unicode": "1f4a2",
-    "shortname": ":anger:",
+    // "shortname": ":anger:",
     "code_decimal": "&#128162;",
     "category": "s",
     "emoji_order": "1303"
@@ -1787,7 +1787,7 @@ let emojiList = [
   {
     "name": "bomb",
     "unicode": "1f4a3",
-    "shortname": ":bomb:",
+    // "shortname": ":bomb:",
     "code_decimal": "&#128163;",
     "category": "o",
     "emoji_order": "1304"
@@ -1795,7 +1795,7 @@ let emojiList = [
   {
     "name": "boom",
     "unicode": "1f4a5",
-    "shortname": ":boom:",
+    // "shortname": ":boom:",
     "code_decimal": "&#128165;",
     "category": "s",
     "emoji_order": "1305"
@@ -1803,7 +1803,7 @@ let emojiList = [
   {
     "name": "sweat_drops",
     "unicode": "1f4a6",
-    "shortname": ":sweat_drops:",
+    // "shortname": ":sweat_drops:",
     "code_decimal": "&#128166;",
     "category": "n",
     "emoji_order": "1306"
@@ -1811,7 +1811,7 @@ let emojiList = [
   {
     "name": "dash",
     "unicode": "1f4a8",
-    "shortname": ":dash:",
+    // "shortname": ":dash:",
     "code_decimal": "&#128168;",
     "category": "n",
     "emoji_order": "1307"
@@ -1819,7 +1819,7 @@ let emojiList = [
   {
     "name": "dizzy",
     "unicode": "1f4ab",
-    "shortname": ":dizzy:",
+    // "shortname": ":dizzy:",
     "code_decimal": "&#128171;",
     "category": "s",
     "emoji_order": "1308"
@@ -1827,7 +1827,7 @@ let emojiList = [
   {
     "name": "speech_balloon",
     "unicode": "1f4ac",
-    "shortname": ":speech_balloon:",
+    // "shortname": ":speech_balloon:",
     "code_decimal": "&#128172;",
     "category": "s",
     "emoji_order": "1309"
@@ -1835,7 +1835,7 @@ let emojiList = [
   {
     "name": "left_speech_bubble",
     "unicode": "1f5e8",
-    "shortname": ":speech_left:",
+    // "shortname": ":speech_left:",
     "code_decimal": "&#128488;",
     "category": "s",
     "emoji_order": "1310"
@@ -1843,7 +1843,7 @@ let emojiList = [
   {
     "name": "right_anger_bubble",
     "unicode": "1f5ef",
-    "shortname": ":anger_right:",
+    // "shortname": ":anger_right:",
     "code_decimal": "&#128495;",
     "category": "s",
     "emoji_order": "1311"
@@ -1851,7 +1851,7 @@ let emojiList = [
   {
     "name": "thought_balloon",
     "unicode": "1f4ad",
-    "shortname": ":thought_balloon:",
+    // "shortname": ":thought_balloon:",
     "code_decimal": "&#128173;",
     "category": "s",
     "emoji_order": "1312"
@@ -1859,7 +1859,7 @@ let emojiList = [
   {
     "name": "hole",
     "unicode": "1f573",
-    "shortname": ":hole:",
+    // "shortname": ":hole:",
     "code_decimal": "&#128371;",
     "category": "o",
     "emoji_order": "1313"
@@ -1867,7 +1867,7 @@ let emojiList = [
   {
     "name": "eyeglasses",
     "unicode": "1f453",
-    "shortname": ":eyeglasses:",
+    // "shortname": ":eyeglasses:",
     "code_decimal": "&#128083;",
     "category": "p",
     "emoji_order": "1314"
@@ -1875,7 +1875,7 @@ let emojiList = [
   {
     "name": "dark_sunglasses",
     "unicode": "1f576",
-    "shortname": ":dark_sunglasses:",
+    // "shortname": ":dark_sunglasses:",
     "code_decimal": "&#128374;",
     "category": "p",
     "emoji_order": "1315"
@@ -1883,7 +1883,7 @@ let emojiList = [
   {
     "name": "necktie",
     "unicode": "1f454",
-    "shortname": ":necktie:",
+    // "shortname": ":necktie:",
     "code_decimal": "&#128084;",
     "category": "p",
     "emoji_order": "1316"
@@ -1891,7 +1891,7 @@ let emojiList = [
   {
     "name": "shirt",
     "unicode": "1f455",
-    "shortname": ":shirt:",
+    // "shortname": ":shirt:",
     "code_decimal": "&#128085;",
     "category": "p",
     "emoji_order": "1317"
@@ -1899,7 +1899,7 @@ let emojiList = [
   {
     "name": "jeans",
     "unicode": "1f456",
-    "shortname": ":jeans:",
+    // "shortname": ":jeans:",
     "code_decimal": "&#128086;",
     "category": "p",
     "emoji_order": "1318"
@@ -1907,7 +1907,7 @@ let emojiList = [
   {
     "name": "dress",
     "unicode": "1f457",
-    "shortname": ":dress:",
+    // "shortname": ":dress:",
     "code_decimal": "&#128087;",
     "category": "p",
     "emoji_order": "1319"
@@ -1915,7 +1915,7 @@ let emojiList = [
   {
     "name": "kimono",
     "unicode": "1f458",
-    "shortname": ":kimono:",
+    // "shortname": ":kimono:",
     "code_decimal": "&#128088;",
     "category": "p",
     "emoji_order": "1320"
@@ -1923,7 +1923,7 @@ let emojiList = [
   {
     "name": "bikini",
     "unicode": "1f459",
-    "shortname": ":bikini:",
+    // "shortname": ":bikini:",
     "code_decimal": "&#128089;",
     "category": "p",
     "emoji_order": "1321"
@@ -1931,7 +1931,7 @@ let emojiList = [
   {
     "name": "womans_clothes",
     "unicode": "1f45a",
-    "shortname": ":womans_clothes:",
+    // "shortname": ":womans_clothes:",
     "code_decimal": "&#128090;",
     "category": "p",
     "emoji_order": "1322"
@@ -1939,7 +1939,7 @@ let emojiList = [
   {
     "name": "purse",
     "unicode": "1f45b",
-    "shortname": ":purse:",
+    // "shortname": ":purse:",
     "code_decimal": "&#128091;",
     "category": "p",
     "emoji_order": "1323"
@@ -1947,7 +1947,7 @@ let emojiList = [
   {
     "name": "handbag",
     "unicode": "1f45c",
-    "shortname": ":handbag:",
+    // "shortname": ":handbag:",
     "code_decimal": "&#128092;",
     "category": "p",
     "emoji_order": "1324"
@@ -1955,7 +1955,7 @@ let emojiList = [
   {
     "name": "pouch",
     "unicode": "1f45d",
-    "shortname": ":pouch:",
+    // "shortname": ":pouch:",
     "code_decimal": "&#128093;",
     "category": "p",
     "emoji_order": "1325"
@@ -1963,7 +1963,7 @@ let emojiList = [
   {
     "name": "shopping_bags",
     "unicode": "1f6cd",
-    "shortname": ":shopping_bags:",
+    // "shortname": ":shopping_bags:",
     "code_decimal": "&#128717;",
     "category": "o",
     "emoji_order": "1326"
@@ -1971,7 +1971,7 @@ let emojiList = [
   {
     "name": "school_satchel",
     "unicode": "1f392",
-    "shortname": ":school_satchel:",
+    // "shortname": ":school_satchel:",
     "code_decimal": "&#127890;",
     "category": "p",
     "emoji_order": "1327"
@@ -1979,7 +1979,7 @@ let emojiList = [
   {
     "name": "mans_shoe",
     "unicode": "1f45e",
-    "shortname": ":mans_shoe:",
+    // "shortname": ":mans_shoe:",
     "code_decimal": "&#128094;",
     "category": "p",
     "emoji_order": "1328"
@@ -1987,7 +1987,7 @@ let emojiList = [
   {
     "name": "athletic_shoe",
     "unicode": "1f45f",
-    "shortname": ":athletic_shoe:",
+    // "shortname": ":athletic_shoe:",
     "code_decimal": "&#128095;",
     "category": "p",
     "emoji_order": "1329"
@@ -1995,7 +1995,7 @@ let emojiList = [
   {
     "name": "high_heel",
     "unicode": "1f460",
-    "shortname": ":high_heel:",
+    // "shortname": ":high_heel:",
     "code_decimal": "&#128096;",
     "category": "p",
     "emoji_order": "1330"
@@ -2003,7 +2003,7 @@ let emojiList = [
   {
     "name": "sandal",
     "unicode": "1f461",
-    "shortname": ":sandal:",
+    // "shortname": ":sandal:",
     "code_decimal": "&#128097;",
     "category": "p",
     "emoji_order": "1331"
@@ -2011,7 +2011,7 @@ let emojiList = [
   {
     "name": "boot",
     "unicode": "1f462",
-    "shortname": ":boot:",
+    // "shortname": ":boot:",
     "code_decimal": "&#128098;",
     "category": "p",
     "emoji_order": "1332"
@@ -2019,7 +2019,7 @@ let emojiList = [
   {
     "name": "crown",
     "unicode": "1f451",
-    "shortname": ":crown:",
+    // "shortname": ":crown:",
     "code_decimal": "&#128081;",
     "category": "p",
     "emoji_order": "1333"
@@ -2027,7 +2027,7 @@ let emojiList = [
   {
     "name": "womans_hat",
     "unicode": "1f452",
-    "shortname": ":womans_hat:",
+    // "shortname": ":womans_hat:",
     "code_decimal": "&#128082;",
     "category": "p",
     "emoji_order": "1334"
@@ -2035,7 +2035,7 @@ let emojiList = [
   {
     "name": "tophat",
     "unicode": "1f3a9",
-    "shortname": ":tophat:",
+    // "shortname": ":tophat:",
     "code_decimal": "&#127913;",
     "category": "p",
     "emoji_order": "1335"
@@ -2043,7 +2043,7 @@ let emojiList = [
   {
     "name": "mortar_board",
     "unicode": "1f393",
-    "shortname": ":mortar_board:",
+    // "shortname": ":mortar_board:",
     "code_decimal": "&#127891;",
     "category": "p",
     "emoji_order": "1336"
@@ -2051,7 +2051,7 @@ let emojiList = [
   {
     "name": "helmet_with_white_cross",
     "unicode": "26d1",
-    "shortname": ":helmet_with_cross:",
+    // "shortname": ":helmet_with_cross:",
     "code_decimal": "&#9937;",
     "category": "p",
     "emoji_order": "1337"
@@ -2059,7 +2059,7 @@ let emojiList = [
   {
     "name": "prayer_beads",
     "unicode": "1f4ff",
-    "shortname": ":prayer_beads:",
+    // "shortname": ":prayer_beads:",
     "code_decimal": "&#128255;",
     "category": "o",
     "emoji_order": "1338"
@@ -2067,7 +2067,7 @@ let emojiList = [
   {
     "name": "lipstick",
     "unicode": "1f484",
-    "shortname": ":lipstick:",
+    // "shortname": ":lipstick:",
     "code_decimal": "&#128132;",
     "category": "p",
     "emoji_order": "1339"
@@ -2075,7 +2075,7 @@ let emojiList = [
   {
     "name": "ring",
     "unicode": "1f48d",
-    "shortname": ":ring:",
+    // "shortname": ":ring:",
     "code_decimal": "&#128141;",
     "category": "p",
     "emoji_order": "1340"
@@ -2083,7 +2083,7 @@ let emojiList = [
   {
     "name": "gem",
     "unicode": "1f48e",
-    "shortname": ":gem:",
+    // "shortname": ":gem:",
     "code_decimal": "&#128142;",
     "category": "o",
     "emoji_order": "1341"
@@ -2091,7 +2091,7 @@ let emojiList = [
   {
     "name": "monkey_face",
     "unicode": "1f435",
-    "shortname": ":monkey_face:",
+    // "shortname": ":monkey_face:",
     "code_decimal": "&#128053;",
     "category": "n",
     "emoji_order": "1342"
@@ -2099,7 +2099,7 @@ let emojiList = [
   {
     "name": "monkey",
     "unicode": "1f412",
-    "shortname": ":monkey:",
+    // "shortname": ":monkey:",
     "code_decimal": "&#128018;",
     "category": "n",
     "emoji_order": "1343"
@@ -2107,7 +2107,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "gorilla",
     "unicode": "1f98d",
-    "shortname": ":gorilla:",
+    // "shortname": ":gorilla:",
     "code_decimal": "&#129421;",
     "category": "n",
     "emoji_order": "1344"
@@ -2115,7 +2115,7 @@ let emojiList = [
   {
     "name": "dog",
     "unicode": "1f436",
-    "shortname": ":dog:",
+    // "shortname": ":dog:",
     "code_decimal": "&#128054;",
     "category": "n",
     "emoji_order": "1345"
@@ -2123,7 +2123,7 @@ let emojiList = [
   {
     "name": "dog2",
     "unicode": "1f415",
-    "shortname": ":dog2:",
+    // "shortname": ":dog2:",
     "code_decimal": "&#128021;",
     "category": "n",
     "emoji_order": "1346"
@@ -2131,7 +2131,7 @@ let emojiList = [
   {
     "name": "poodle",
     "unicode": "1f429",
-    "shortname": ":poodle:",
+    // "shortname": ":poodle:",
     "code_decimal": "&#128041;",
     "category": "n",
     "emoji_order": "1347"
@@ -2139,7 +2139,7 @@ let emojiList = [
   {
     "name": "wolf",
     "unicode": "1f43a",
-    "shortname": ":wolf:",
+    // "shortname": ":wolf:",
     "code_decimal": "&#128058;",
     "category": "n",
     "emoji_order": "1348"
@@ -2147,7 +2147,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "fox",
     "unicode": "1f98a",
-    "shortname": ":fox:",
+    // "shortname": ":fox:",
     "code_decimal": "&#129418;",
     "category": "n",
     "emoji_order": "1349"
@@ -2155,7 +2155,7 @@ let emojiList = [
   {
     "name": "cat",
     "unicode": "1f431",
-    "shortname": ":cat:",
+    // "shortname": ":cat:",
     "code_decimal": "&#128049;",
     "category": "n",
     "emoji_order": "1350"
@@ -2163,7 +2163,7 @@ let emojiList = [
   {
     "name": "cat2",
     "unicode": "1f408",
-    "shortname": ":cat2:",
+    // "shortname": ":cat2:",
     "code_decimal": "&#128008;",
     "category": "n",
     "emoji_order": "1351"
@@ -2171,7 +2171,7 @@ let emojiList = [
   {
     "name": "lion_face",
     "unicode": "1f981",
-    "shortname": ":lion_face:",
+    // "shortname": ":lion_face:",
     "code_decimal": "&#129409;",
     "category": "n",
     "emoji_order": "1352"
@@ -2179,7 +2179,7 @@ let emojiList = [
   {
     "name": "tiger",
     "unicode": "1f42f",
-    "shortname": ":tiger:",
+    // "shortname": ":tiger:",
     "code_decimal": "&#128047;",
     "category": "n",
     "emoji_order": "1353"
@@ -2187,7 +2187,7 @@ let emojiList = [
   {
     "name": "tiger2",
     "unicode": "1f405",
-    "shortname": ":tiger2:",
+    // "shortname": ":tiger2:",
     "code_decimal": "&#128005;",
     "category": "n",
     "emoji_order": "1354"
@@ -2195,7 +2195,7 @@ let emojiList = [
   {
     "name": "leopard",
     "unicode": "1f406",
-    "shortname": ":leopard:",
+    // "shortname": ":leopard:",
     "code_decimal": "&#128006;",
     "category": "n",
     "emoji_order": "1355"
@@ -2203,7 +2203,7 @@ let emojiList = [
   {
     "name": "horse",
     "unicode": "1f434",
-    "shortname": ":horse:",
+    // "shortname": ":horse:",
     "code_decimal": "&#128052;",
     "category": "n",
     "emoji_order": "1356"
@@ -2211,7 +2211,7 @@ let emojiList = [
   {
     "name": "racehorse",
     "unicode": "1f40e",
-    "shortname": ":racehorse:",
+    // "shortname": ":racehorse:",
     "code_decimal": "&#128014;",
     "category": "n",
     "emoji_order": "1357"
@@ -2219,7 +2219,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "deer",
     "unicode": "1f98c",
-    "shortname": ":deer:",
+    // "shortname": ":deer:",
     "code_decimal": "&#129420;",
     "category": "n",
     "emoji_order": "1358"
@@ -2227,7 +2227,7 @@ let emojiList = [
   {
     "name": "unicorn_face",
     "unicode": "1f984",
-    "shortname": ":unicorn:",
+    // "shortname": ":unicorn:",
     "code_decimal": "&#129412;",
     "category": "n",
     "emoji_order": "1359"
@@ -2235,7 +2235,7 @@ let emojiList = [
   {
     "name": "cow",
     "unicode": "1f42e",
-    "shortname": ":cow:",
+    // "shortname": ":cow:",
     "code_decimal": "&#128046;",
     "category": "n",
     "emoji_order": "1360"
@@ -2243,7 +2243,7 @@ let emojiList = [
   {
     "name": "ox",
     "unicode": "1f402",
-    "shortname": ":ox:",
+    // "shortname": ":ox:",
     "code_decimal": "&#128002;",
     "category": "n",
     "emoji_order": "1361"
@@ -2251,7 +2251,7 @@ let emojiList = [
   {
     "name": "water_buffalo",
     "unicode": "1f403",
-    "shortname": ":water_buffalo:",
+    // "shortname": ":water_buffalo:",
     "code_decimal": "&#128003;",
     "category": "n",
     "emoji_order": "1362"
@@ -2259,7 +2259,7 @@ let emojiList = [
   {
     "name": "cow2",
     "unicode": "1f404",
-    "shortname": ":cow2:",
+    // "shortname": ":cow2:",
     "code_decimal": "&#128004;",
     "category": "n",
     "emoji_order": "1363"
@@ -2267,7 +2267,7 @@ let emojiList = [
   {
     "name": "pig",
     "unicode": "1f437",
-    "shortname": ":pig:",
+    // "shortname": ":pig:",
     "code_decimal": "&#128055;",
     "category": "n",
     "emoji_order": "1364"
@@ -2275,7 +2275,7 @@ let emojiList = [
   {
     "name": "pig2",
     "unicode": "1f416",
-    "shortname": ":pig2:",
+    // "shortname": ":pig2:",
     "code_decimal": "&#128022;",
     "category": "n",
     "emoji_order": "1365"
@@ -2283,7 +2283,7 @@ let emojiList = [
   {
     "name": "boar",
     "unicode": "1f417",
-    "shortname": ":boar:",
+    // "shortname": ":boar:",
     "code_decimal": "&#128023;",
     "category": "n",
     "emoji_order": "1366"
@@ -2291,7 +2291,7 @@ let emojiList = [
   {
     "name": "pig_nose",
     "unicode": "1f43d",
-    "shortname": ":pig_nose:",
+    // "shortname": ":pig_nose:",
     "code_decimal": "&#128061;",
     "category": "n",
     "emoji_order": "1367"
@@ -2299,7 +2299,7 @@ let emojiList = [
   {
     "name": "ram",
     "unicode": "1f40f",
-    "shortname": ":ram:",
+    // "shortname": ":ram:",
     "code_decimal": "&#128015;",
     "category": "n",
     "emoji_order": "1368"
@@ -2307,7 +2307,7 @@ let emojiList = [
   {
     "name": "sheep",
     "unicode": "1f411",
-    "shortname": ":sheep:",
+    // "shortname": ":sheep:",
     "code_decimal": "&#128017;",
     "category": "n",
     "emoji_order": "1369"
@@ -2315,7 +2315,7 @@ let emojiList = [
   {
     "name": "goat",
     "unicode": "1f410",
-    "shortname": ":goat:",
+    // "shortname": ":goat:",
     "code_decimal": "&#128016;",
     "category": "n",
     "emoji_order": "1370"
@@ -2323,7 +2323,7 @@ let emojiList = [
   {
     "name": "dromedary_camel",
     "unicode": "1f42a",
-    "shortname": ":dromedary_camel:",
+    // "shortname": ":dromedary_camel:",
     "code_decimal": "&#128042;",
     "category": "n",
     "emoji_order": "1371"
@@ -2331,7 +2331,7 @@ let emojiList = [
   {
     "name": "camel",
     "unicode": "1f42b",
-    "shortname": ":camel:",
+    // "shortname": ":camel:",
     "code_decimal": "&#128043;",
     "category": "n",
     "emoji_order": "1372"
@@ -2339,7 +2339,7 @@ let emojiList = [
   {
     "name": "elephant",
     "unicode": "1f418",
-    "shortname": ":elephant:",
+    // "shortname": ":elephant:",
     "code_decimal": "&#128024;",
     "category": "n",
     "emoji_order": "1373"
@@ -2347,7 +2347,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "rhino",
     "unicode": "1f98f",
-    "shortname": ":rhino:",
+    // "shortname": ":rhino:",
     "code_decimal": "&#129423;",
     "category": "n",
     "emoji_order": "1374"
@@ -2355,7 +2355,7 @@ let emojiList = [
   {
     "name": "mouse",
     "unicode": "1f42d",
-    "shortname": ":mouse:",
+    // "shortname": ":mouse:",
     "code_decimal": "&#128045;",
     "category": "n",
     "emoji_order": "1375"
@@ -2363,7 +2363,7 @@ let emojiList = [
   {
     "name": "mouse2",
     "unicode": "1f401",
-    "shortname": ":mouse2:",
+    // "shortname": ":mouse2:",
     "code_decimal": "&#128001;",
     "category": "n",
     "emoji_order": "1376"
@@ -2371,7 +2371,7 @@ let emojiList = [
   {
     "name": "rat",
     "unicode": "1f400",
-    "shortname": ":rat:",
+    // "shortname": ":rat:",
     "code_decimal": "&#128000;",
     "category": "n",
     "emoji_order": "1377"
@@ -2379,7 +2379,7 @@ let emojiList = [
   {
     "name": "hamster",
     "unicode": "1f439",
-    "shortname": ":hamster:",
+    // "shortname": ":hamster:",
     "code_decimal": "&#128057;",
     "category": "n",
     "emoji_order": "1378"
@@ -2387,7 +2387,7 @@ let emojiList = [
   {
     "name": "rabbit",
     "unicode": "1f430",
-    "shortname": ":rabbit:",
+    // "shortname": ":rabbit:",
     "code_decimal": "&#128048;",
     "category": "n",
     "emoji_order": "1379"
@@ -2395,7 +2395,7 @@ let emojiList = [
   {
     "name": "rabbit2",
     "unicode": "1f407",
-    "shortname": ":rabbit2:",
+    // "shortname": ":rabbit2:",
     "code_decimal": "&#128007;",
     "category": "n",
     "emoji_order": "1380"
@@ -2403,7 +2403,7 @@ let emojiList = [
   {
     "name": "chipmunk",
     "unicode": "1f43f",
-    "shortname": ":chipmunk:",
+    // "shortname": ":chipmunk:",
     "code_decimal": "&#128063;",
     "category": "n",
     "emoji_order": "1381"
@@ -2411,7 +2411,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "bat",
     "unicode": "1f987",
-    "shortname": ":bat:",
+    // "shortname": ":bat:",
     "code_decimal": "&#129415;",
     "category": "n",
     "emoji_order": "1382"
@@ -2419,7 +2419,7 @@ let emojiList = [
   {
     "name": "bear",
     "unicode": "1f43b",
-    "shortname": ":bear:",
+    // "shortname": ":bear:",
     "code_decimal": "&#128059;",
     "category": "n",
     "emoji_order": "1383"
@@ -2427,7 +2427,7 @@ let emojiList = [
   {
     "name": "koala",
     "unicode": "1f428",
-    "shortname": ":koala:",
+    // "shortname": ":koala:",
     "code_decimal": "&#128040;",
     "category": "n",
     "emoji_order": "1384"
@@ -2435,7 +2435,7 @@ let emojiList = [
   {
     "name": "panda_face",
     "unicode": "1f43c",
-    "shortname": ":panda_face:",
+    // "shortname": ":panda_face:",
     "code_decimal": "&#128060;",
     "category": "n",
     "emoji_order": "1385"
@@ -2443,7 +2443,7 @@ let emojiList = [
   {
     "name": "feet",
     "unicode": "1f43e",
-    "shortname": ":feet:",
+    // "shortname": ":feet:",
     "code_decimal": "&#128062;",
     "category": "n",
     "emoji_order": "1386"
@@ -2451,7 +2451,7 @@ let emojiList = [
   {
     "name": "turkey",
     "unicode": "1f983",
-    "shortname": ":turkey:",
+    // "shortname": ":turkey:",
     "code_decimal": "&#129411;",
     "category": "n",
     "emoji_order": "1387"
@@ -2459,7 +2459,7 @@ let emojiList = [
   {
     "name": "chicken",
     "unicode": "1f414",
-    "shortname": ":chicken:",
+    // "shortname": ":chicken:",
     "code_decimal": "&#128020;",
     "category": "n",
     "emoji_order": "1388"
@@ -2467,7 +2467,7 @@ let emojiList = [
   {
     "name": "rooster",
     "unicode": "1f413",
-    "shortname": ":rooster:",
+    // "shortname": ":rooster:",
     "code_decimal": "&#128019;",
     "category": "n",
     "emoji_order": "1389"
@@ -2475,7 +2475,7 @@ let emojiList = [
   {
     "name": "hatching_chick",
     "unicode": "1f423",
-    "shortname": ":hatching_chick:",
+    // "shortname": ":hatching_chick:",
     "code_decimal": "&#128035;",
     "category": "n",
     "emoji_order": "1390"
@@ -2483,7 +2483,7 @@ let emojiList = [
   {
     "name": "baby_chick",
     "unicode": "1f424",
-    "shortname": ":baby_chick:",
+    // "shortname": ":baby_chick:",
     "code_decimal": "&#128036;",
     "category": "n",
     "emoji_order": "1391"
@@ -2491,7 +2491,7 @@ let emojiList = [
   {
     "name": "hatched_chick",
     "unicode": "1f425",
-    "shortname": ":hatched_chick:",
+    // "shortname": ":hatched_chick:",
     "code_decimal": "&#128037;",
     "category": "n",
     "emoji_order": "1392"
@@ -2499,7 +2499,7 @@ let emojiList = [
   {
     "name": "bird",
     "unicode": "1f426",
-    "shortname": ":bird:",
+    // "shortname": ":bird:",
     "code_decimal": "&#128038;",
     "category": "n",
     "emoji_order": "1393"
@@ -2507,7 +2507,7 @@ let emojiList = [
   {
     "name": "penguin",
     "unicode": "1f427",
-    "shortname": ":penguin:",
+    // "shortname": ":penguin:",
     "code_decimal": "&#128039;",
     "category": "n",
     "emoji_order": "1394"
@@ -2515,7 +2515,7 @@ let emojiList = [
   {
     "name": "dove_of_peace",
     "unicode": "1f54a",
-    "shortname": ":dove:",
+    // "shortname": ":dove:",
     "code_decimal": "&#128330;",
     "category": "n",
     "emoji_order": "1395"
@@ -2523,7 +2523,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "eagle",
     "unicode": "1f985",
-    "shortname": ":eagle:",
+    // "shortname": ":eagle:",
     "code_decimal": "&#129413;",
     "category": "n",
     "emoji_order": "1396"
@@ -2531,7 +2531,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "duck",
     "unicode": "1f986",
-    "shortname": ":duck:",
+    // "shortname": ":duck:",
     "code_decimal": "&#129414;",
     "category": "n",
     "emoji_order": "1397"
@@ -2539,7 +2539,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "owl",
     "unicode": "1f989",
-    "shortname": ":owl:",
+    // "shortname": ":owl:",
     "code_decimal": "&#129417;",
     "category": "n",
     "emoji_order": "1398"
@@ -2547,7 +2547,7 @@ let emojiList = [
   {
     "name": "frog",
     "unicode": "1f438",
-    "shortname": ":frog:",
+    // "shortname": ":frog:",
     "code_decimal": "&#128056;",
     "category": "n",
     "emoji_order": "1399"
@@ -2555,7 +2555,7 @@ let emojiList = [
   {
     "name": "crocodile",
     "unicode": "1f40a",
-    "shortname": ":crocodile:",
+    // "shortname": ":crocodile:",
     "code_decimal": "&#128010;",
     "category": "n",
     "emoji_order": "1400"
@@ -2563,7 +2563,7 @@ let emojiList = [
   {
     "name": "turtle",
     "unicode": "1f422",
-    "shortname": ":turtle:",
+    // "shortname": ":turtle:",
     "code_decimal": "&#128034;",
     "category": "n",
     "emoji_order": "1401"
@@ -2571,7 +2571,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "lizard",
     "unicode": "1f98e",
-    "shortname": ":lizard:",
+    // "shortname": ":lizard:",
     "code_decimal": "&#129422;",
     "category": "n",
     "emoji_order": "1402"
@@ -2579,7 +2579,7 @@ let emojiList = [
   {
     "name": "snake",
     "unicode": "1f40d",
-    "shortname": ":snake:",
+    // "shortname": ":snake:",
     "code_decimal": "&#128013;",
     "category": "n",
     "emoji_order": "1403"
@@ -2587,7 +2587,7 @@ let emojiList = [
   {
     "name": "dragon_face",
     "unicode": "1f432",
-    "shortname": ":dragon_face:",
+    // "shortname": ":dragon_face:",
     "code_decimal": "&#128050;",
     "category": "n",
     "emoji_order": "1404"
@@ -2595,7 +2595,7 @@ let emojiList = [
   {
     "name": "dragon",
     "unicode": "1f409",
-    "shortname": ":dragon:",
+    // "shortname": ":dragon:",
     "code_decimal": "&#128009;",
     "category": "n",
     "emoji_order": "1405"
@@ -2603,7 +2603,7 @@ let emojiList = [
   {
     "name": "whale",
     "unicode": "1f433",
-    "shortname": ":whale:",
+    // "shortname": ":whale:",
     "code_decimal": "&#128051;",
     "category": "n",
     "emoji_order": "1406"
@@ -2611,7 +2611,7 @@ let emojiList = [
   {
     "name": "whale2",
     "unicode": "1f40b",
-    "shortname": ":whale2:",
+    // "shortname": ":whale2:",
     "code_decimal": "&#128011;",
     "category": "n",
     "emoji_order": "1407"
@@ -2619,7 +2619,7 @@ let emojiList = [
   {
     "name": "dolphin",
     "unicode": "1f42c",
-    "shortname": ":dolphin:",
+    // "shortname": ":dolphin:",
     "code_decimal": "&#128044;",
     "category": "n",
     "emoji_order": "1408"
@@ -2627,7 +2627,7 @@ let emojiList = [
   {
     "name": "fish",
     "unicode": "1f41f",
-    "shortname": ":fish:",
+    // "shortname": ":fish:",
     "code_decimal": "&#128031;",
     "category": "n",
     "emoji_order": "1409"
@@ -2635,7 +2635,7 @@ let emojiList = [
   {
     "name": "tropical_fish",
     "unicode": "1f420",
-    "shortname": ":tropical_fish:",
+    // "shortname": ":tropical_fish:",
     "code_decimal": "&#128032;",
     "category": "n",
     "emoji_order": "1410"
@@ -2643,7 +2643,7 @@ let emojiList = [
   {
     "name": "blowfish",
     "unicode": "1f421",
-    "shortname": ":blowfish:",
+    // "shortname": ":blowfish:",
     "code_decimal": "&#128033;",
     "category": "n",
     "emoji_order": "1411"
@@ -2651,7 +2651,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "shark",
     "unicode": "1f988",
-    "shortname": ":shark:",
+    // "shortname": ":shark:",
     "code_decimal": "&#129416;",
     "category": "n",
     "emoji_order": "1412"
@@ -2659,7 +2659,7 @@ let emojiList = [
   {
     "name": "octopus",
     "unicode": "1f419",
-    "shortname": ":octopus:",
+    // "shortname": ":octopus:",
     "code_decimal": "&#128025;",
     "category": "n",
     "emoji_order": "1413"
@@ -2667,7 +2667,7 @@ let emojiList = [
   {
     "name": "shell",
     "unicode": "1f41a",
-    "shortname": ":shell:",
+    // "shortname": ":shell:",
     "code_decimal": "&#128026;",
     "category": "n",
     "emoji_order": "1414"
@@ -2675,7 +2675,7 @@ let emojiList = [
   {
     "name": "crab",
     "unicode": "1f980",
-    "shortname": ":crab:",
+    // "shortname": ":crab:",
     "code_decimal": "&#129408;",
     "category": "n",
     "emoji_order": "1415"
@@ -2683,7 +2683,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "shrimp",
     "unicode": "1f990",
-    "shortname": ":shrimp:",
+    // "shortname": ":shrimp:",
     "code_decimal": "&#129424;",
     "category": "n",
     "emoji_order": "1416"
@@ -2691,7 +2691,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "squid",
     "unicode": "1f991",
-    "shortname": ":squid:",
+    // "shortname": ":squid:",
     "code_decimal": "&#129425;",
     "category": "n",
     "emoji_order": "1417"
@@ -2699,7 +2699,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "butterfly",
     "unicode": "1f98b",
-    "shortname": ":butterfly:",
+    // "shortname": ":butterfly:",
     "code_decimal": "&#129419;",
     "category": "n",
     "emoji_order": "1418"
@@ -2707,7 +2707,7 @@ let emojiList = [
   {
     "name": "snail",
     "unicode": "1f40c",
-    "shortname": ":snail:",
+    // "shortname": ":snail:",
     "code_decimal": "&#128012;",
     "category": "n",
     "emoji_order": "1419"
@@ -2715,7 +2715,7 @@ let emojiList = [
   {
     "name": "bug",
     "unicode": "1f41b",
-    "shortname": ":bug:",
+    // "shortname": ":bug:",
     "code_decimal": "&#128027;",
     "category": "n",
     "emoji_order": "1420"
@@ -2723,7 +2723,7 @@ let emojiList = [
   {
     "name": "ant",
     "unicode": "1f41c",
-    "shortname": ":ant:",
+    // "shortname": ":ant:",
     "code_decimal": "&#128028;",
     "category": "n",
     "emoji_order": "1421"
@@ -2731,7 +2731,7 @@ let emojiList = [
   {
     "name": "bee",
     "unicode": "1f41d",
-    "shortname": ":bee:",
+    // "shortname": ":bee:",
     "code_decimal": "&#128029;",
     "category": "n",
     "emoji_order": "1422"
@@ -2739,7 +2739,7 @@ let emojiList = [
   {
     "name": "beetle",
     "unicode": "1f41e",
-    "shortname": ":beetle:",
+    // "shortname": ":beetle:",
     "code_decimal": "&#128030;",
     "category": "n",
     "emoji_order": "1423"
@@ -2747,7 +2747,7 @@ let emojiList = [
   {
     "name": "spider",
     "unicode": "1f577",
-    "shortname": ":spider:",
+    // "shortname": ":spider:",
     "code_decimal": "&#128375;",
     "category": "n",
     "emoji_order": "1424"
@@ -2755,7 +2755,7 @@ let emojiList = [
   {
     "name": "spider_web",
     "unicode": "1f578",
-    "shortname": ":spider_web:",
+    // "shortname": ":spider_web:",
     "code_decimal": "&#128376;",
     "category": "n",
     "emoji_order": "1425"
@@ -2763,7 +2763,7 @@ let emojiList = [
   {
     "name": "scorpion",
     "unicode": "1f982",
-    "shortname": ":scorpion:",
+    // "shortname": ":scorpion:",
     "code_decimal": "&#129410;",
     "category": "n",
     "emoji_order": "1426"
@@ -2771,7 +2771,7 @@ let emojiList = [
   {
     "name": "bouquet",
     "unicode": "1f490",
-    "shortname": ":bouquet:",
+    // "shortname": ":bouquet:",
     "code_decimal": "&#128144;",
     "category": "n",
     "emoji_order": "1427"
@@ -2779,7 +2779,7 @@ let emojiList = [
   {
     "name": "cherry_blossom",
     "unicode": "1f338",
-    "shortname": ":cherry_blossom:",
+    // "shortname": ":cherry_blossom:",
     "code_decimal": "&#127800;",
     "category": "n",
     "emoji_order": "1428"
@@ -2787,7 +2787,7 @@ let emojiList = [
   {
     "name": "white_flower",
     "unicode": "1f4ae",
-    "shortname": ":white_flower:",
+    // "shortname": ":white_flower:",
     "code_decimal": "&#128174;",
     "category": "s",
     "emoji_order": "1429"
@@ -2795,7 +2795,7 @@ let emojiList = [
   {
     "name": "rosette",
     "unicode": "1f3f5",
-    "shortname": ":rosette:",
+    // "shortname": ":rosette:",
     "code_decimal": "&#127989;",
     "category": "n",
     "emoji_order": "1430"
@@ -2803,7 +2803,7 @@ let emojiList = [
   {
     "name": "rose",
     "unicode": "1f339",
-    "shortname": ":rose:",
+    // "shortname": ":rose:",
     "code_decimal": "&#127801;",
     "category": "n",
     "emoji_order": "1431"
@@ -2811,7 +2811,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "wilted_rose",
     "unicode": "1f940",
-    "shortname": ":wilted_rose:",
+    // "shortname": ":wilted_rose:",
     "code_decimal": "&#129344;",
     "category": "n",
     "emoji_order": "1432"
@@ -2819,7 +2819,7 @@ let emojiList = [
   {
     "name": "hibiscus",
     "unicode": "1f33a",
-    "shortname": ":hibiscus:",
+    // "shortname": ":hibiscus:",
     "code_decimal": "&#127802;",
     "category": "n",
     "emoji_order": "1433"
@@ -2827,7 +2827,7 @@ let emojiList = [
   {
     "name": "sunflower",
     "unicode": "1f33b",
-    "shortname": ":sunflower:",
+    // "shortname": ":sunflower:",
     "code_decimal": "&#127803;",
     "category": "n",
     "emoji_order": "1434"
@@ -2835,7 +2835,7 @@ let emojiList = [
   {
     "name": "blossom",
     "unicode": "1f33c",
-    "shortname": ":blossom:",
+    // "shortname": ":blossom:",
     "code_decimal": "&#127804;",
     "category": "n",
     "emoji_order": "1435"
@@ -2843,7 +2843,7 @@ let emojiList = [
   {
     "name": "tulip",
     "unicode": "1f337",
-    "shortname": ":tulip:",
+    // "shortname": ":tulip:",
     "code_decimal": "&#127799;",
     "category": "n",
     "emoji_order": "1436"
@@ -2851,7 +2851,7 @@ let emojiList = [
   {
     "name": "seedling",
     "unicode": "1f331",
-    "shortname": ":seedling:",
+    // "shortname": ":seedling:",
     "code_decimal": "&#127793;",
     "category": "n",
     "emoji_order": "1437"
@@ -2859,7 +2859,7 @@ let emojiList = [
   {
     "name": "evergreen_tree",
     "unicode": "1f332",
-    "shortname": ":evergreen_tree:",
+    // "shortname": ":evergreen_tree:",
     "code_decimal": "&#127794;",
     "category": "n",
     "emoji_order": "1438"
@@ -2867,7 +2867,7 @@ let emojiList = [
   {
     "name": "deciduous_tree",
     "unicode": "1f333",
-    "shortname": ":deciduous_tree:",
+    // "shortname": ":deciduous_tree:",
     "code_decimal": "&#127795;",
     "category": "n",
     "emoji_order": "1439"
@@ -2875,7 +2875,7 @@ let emojiList = [
   {
     "name": "palm_tree",
     "unicode": "1f334",
-    "shortname": ":palm_tree:",
+    // "shortname": ":palm_tree:",
     "code_decimal": "&#127796;",
     "category": "n",
     "emoji_order": "1440"
@@ -2883,7 +2883,7 @@ let emojiList = [
   {
     "name": "cactus",
     "unicode": "1f335",
-    "shortname": ":cactus:",
+    // "shortname": ":cactus:",
     "code_decimal": "&#127797;",
     "category": "n",
     "emoji_order": "1441"
@@ -2891,7 +2891,7 @@ let emojiList = [
   {
     "name": "ear_of_rice",
     "unicode": "1f33e",
-    "shortname": ":ear_of_rice:",
+    // "shortname": ":ear_of_rice:",
     "code_decimal": "&#127806;",
     "category": "n",
     "emoji_order": "1442"
@@ -2899,7 +2899,7 @@ let emojiList = [
   {
     "name": "herb",
     "unicode": "1f33f",
-    "shortname": ":herb:",
+    // "shortname": ":herb:",
     "code_decimal": "&#127807;",
     "category": "n",
     "emoji_order": "1443"
@@ -2907,7 +2907,7 @@ let emojiList = [
   {
     "name": "shamrock",
     "unicode": "2618",
-    "shortname": ":shamrock:",
+    // "shortname": ":shamrock:",
     "code_decimal": "&#9752;",
     "category": "n",
     "emoji_order": "1444"
@@ -2915,7 +2915,7 @@ let emojiList = [
   {
     "name": "four_leaf_clover",
     "unicode": "1f340",
-    "shortname": ":four_leaf_clover:",
+    // "shortname": ":four_leaf_clover:",
     "code_decimal": "&#127808;",
     "category": "n",
     "emoji_order": "1445"
@@ -2923,7 +2923,7 @@ let emojiList = [
   {
     "name": "maple_leaf",
     "unicode": "1f341",
-    "shortname": ":maple_leaf:",
+    // "shortname": ":maple_leaf:",
     "code_decimal": "&#127809;",
     "category": "n",
     "emoji_order": "1446"
@@ -2931,7 +2931,7 @@ let emojiList = [
   {
     "name": "fallen_leaf",
     "unicode": "1f342",
-    "shortname": ":fallen_leaf:",
+    // "shortname": ":fallen_leaf:",
     "code_decimal": "&#127810;",
     "category": "n",
     "emoji_order": "1447"
@@ -2939,7 +2939,7 @@ let emojiList = [
   {
     "name": "leaves",
     "unicode": "1f343",
-    "shortname": ":leaves:",
+    // "shortname": ":leaves:",
     "code_decimal": "&#127811;",
     "category": "n",
     "emoji_order": "1448"
@@ -2947,7 +2947,7 @@ let emojiList = [
   {
     "name": "grapes",
     "unicode": "1f347",
-    "shortname": ":grapes:",
+    // "shortname": ":grapes:",
     "code_decimal": "&#127815;",
     "category": "d",
     "emoji_order": "1449"
@@ -2955,7 +2955,7 @@ let emojiList = [
   {
     "name": "melon",
     "unicode": "1f348",
-    "shortname": ":melon:",
+    // "shortname": ":melon:",
     "code_decimal": "&#127816;",
     "category": "d",
     "emoji_order": "1450"
@@ -2963,7 +2963,7 @@ let emojiList = [
   {
     "name": "watermelon",
     "unicode": "1f349",
-    "shortname": ":watermelon:",
+    // "shortname": ":watermelon:",
     "code_decimal": "&#127817;",
     "category": "d",
     "emoji_order": "1451"
@@ -2971,7 +2971,7 @@ let emojiList = [
   {
     "name": "tangerine",
     "unicode": "1f34a",
-    "shortname": ":tangerine:",
+    // "shortname": ":tangerine:",
     "code_decimal": "&#127818;",
     "category": "d",
     "emoji_order": "1452"
@@ -2979,7 +2979,7 @@ let emojiList = [
   {
     "name": "lemon",
     "unicode": "1f34b",
-    "shortname": ":lemon:",
+    // "shortname": ":lemon:",
     "code_decimal": "&#127819;",
     "category": "d",
     "emoji_order": "1453"
@@ -2987,7 +2987,7 @@ let emojiList = [
   {
     "name": "banana",
     "unicode": "1f34c",
-    "shortname": ":banana:",
+    // "shortname": ":banana:",
     "code_decimal": "&#127820;",
     "category": "d",
     "emoji_order": "1454"
@@ -2995,7 +2995,7 @@ let emojiList = [
   {
     "name": "pineapple",
     "unicode": "1f34d",
-    "shortname": ":pineapple:",
+    // "shortname": ":pineapple:",
     "code_decimal": "&#127821;",
     "category": "d",
     "emoji_order": "1455"
@@ -3003,7 +3003,7 @@ let emojiList = [
   {
     "name": "apple",
     "unicode": "1f34e",
-    "shortname": ":apple:",
+    // "shortname": ":apple:",
     "code_decimal": "&#127822;",
     "category": "d",
     "emoji_order": "1456"
@@ -3011,7 +3011,7 @@ let emojiList = [
   {
     "name": "green_apple",
     "unicode": "1f34f",
-    "shortname": ":green_apple:",
+    // "shortname": ":green_apple:",
     "code_decimal": "&#127823;",
     "category": "d",
     "emoji_order": "1457"
@@ -3019,7 +3019,7 @@ let emojiList = [
   {
     "name": "pear",
     "unicode": "1f350",
-    "shortname": ":pear:",
+    // "shortname": ":pear:",
     "code_decimal": "&#127824;",
     "category": "d",
     "emoji_order": "1458"
@@ -3027,7 +3027,7 @@ let emojiList = [
   {
     "name": "peach",
     "unicode": "1f351",
-    "shortname": ":peach:",
+    // "shortname": ":peach:",
     "code_decimal": "&#127825;",
     "category": "d",
     "emoji_order": "1459"
@@ -3035,7 +3035,7 @@ let emojiList = [
   {
     "name": "cherries",
     "unicode": "1f352",
-    "shortname": ":cherries:",
+    // "shortname": ":cherries:",
     "code_decimal": "&#127826;",
     "category": "d",
     "emoji_order": "1460"
@@ -3043,7 +3043,7 @@ let emojiList = [
   {
     "name": "strawberry",
     "unicode": "1f353",
-    "shortname": ":strawberry:",
+    // "shortname": ":strawberry:",
     "code_decimal": "&#127827;",
     "category": "d",
     "emoji_order": "1461"
@@ -3051,7 +3051,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "kiwi",
     "unicode": "1f95d",
-    "shortname": ":kiwi:",
+    // "shortname": ":kiwi:",
     "code_decimal": "&#129373;",
     "category": "d",
     "emoji_order": "1462"
@@ -3059,7 +3059,7 @@ let emojiList = [
   {
     "name": "tomato",
     "unicode": "1f345",
-    "shortname": ":tomato:",
+    // "shortname": ":tomato:",
     "code_decimal": "&#127813;",
     "category": "d",
     "emoji_order": "1463"
@@ -3067,7 +3067,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "avocado",
     "unicode": "1f951",
-    "shortname": ":avocado:",
+    // "shortname": ":avocado:",
     "code_decimal": "&#129361;",
     "category": "d",
     "emoji_order": "1464"
@@ -3075,7 +3075,7 @@ let emojiList = [
   {
     "name": "eggplant",
     "unicode": "1f346",
-    "shortname": ":eggplant:",
+    // "shortname": ":eggplant:",
     "code_decimal": "&#127814;",
     "category": "d",
     "emoji_order": "1465"
@@ -3083,7 +3083,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "potato",
     "unicode": "1f954",
-    "shortname": ":potato:",
+    // "shortname": ":potato:",
     "code_decimal": "&#129364;",
     "category": "d",
     "emoji_order": "1466"
@@ -3091,7 +3091,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "carrot",
     "unicode": "1f955",
-    "shortname": ":carrot:",
+    // "shortname": ":carrot:",
     "code_decimal": "&#129365;",
     "category": "d",
     "emoji_order": "1467"
@@ -3099,7 +3099,7 @@ let emojiList = [
   {
     "name": "corn",
     "unicode": "1f33d",
-    "shortname": ":corn:",
+    // "shortname": ":corn:",
     "code_decimal": "&#127805;",
     "category": "d",
     "emoji_order": "1468"
@@ -3107,7 +3107,7 @@ let emojiList = [
   {
     "name": "hot_pepper",
     "unicode": "1f336",
-    "shortname": ":hot_pepper:",
+    // "shortname": ":hot_pepper:",
     "code_decimal": "&#127798;",
     "category": "d",
     "emoji_order": "1469"
@@ -3115,7 +3115,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "cucumber",
     "unicode": "1f952",
-    "shortname": ":cucumber:",
+    // "shortname": ":cucumber:",
     "code_decimal": "&#129362;",
     "category": "d",
     "emoji_order": "1470"
@@ -3123,7 +3123,7 @@ let emojiList = [
   {
     "name": "mushroom",
     "unicode": "1f344",
-    "shortname": ":mushroom:",
+    // "shortname": ":mushroom:",
     "code_decimal": "&#127812;",
     "category": "n",
     "emoji_order": "1471"
@@ -3131,7 +3131,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "peanuts",
     "unicode": "1f95c",
-    "shortname": ":peanuts:",
+    // "shortname": ":peanuts:",
     "code_decimal": "&#129372;",
     "category": "d",
     "emoji_order": "1472"
@@ -3139,7 +3139,7 @@ let emojiList = [
   {
     "name": "chestnut",
     "unicode": "1f330",
-    "shortname": ":chestnut:",
+    // "shortname": ":chestnut:",
     "code_decimal": "&#127792;",
     "category": "n",
     "emoji_order": "1473"
@@ -3147,7 +3147,7 @@ let emojiList = [
   {
     "name": "bread",
     "unicode": "1f35e",
-    "shortname": ":bread:",
+    // "shortname": ":bread:",
     "code_decimal": "&#127838;",
     "category": "d",
     "emoji_order": "1474"
@@ -3155,7 +3155,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "croissant",
     "unicode": "1f950",
-    "shortname": ":croissant:",
+    // "shortname": ":croissant:",
     "code_decimal": "&#129360;",
     "category": "d",
     "emoji_order": "1475"
@@ -3163,7 +3163,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "french_bread",
     "unicode": "1f956",
-    "shortname": ":french_bread:",
+    // "shortname": ":french_bread:",
     "code_decimal": "&#129366;",
     "category": "d",
     "emoji_order": "1476"
@@ -3171,7 +3171,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "pancakes",
     "unicode": "1f95e",
-    "shortname": ":pancakes:",
+    // "shortname": ":pancakes:",
     "code_decimal": "&#129374;",
     "category": "d",
     "emoji_order": "1477"
@@ -3179,7 +3179,7 @@ let emojiList = [
   {
     "name": "cheese_wedge",
     "unicode": "1f9c0",
-    "shortname": ":cheese:",
+    // "shortname": ":cheese:",
     "code_decimal": "&#129472;",
     "category": "d",
     "emoji_order": "1478"
@@ -3187,7 +3187,7 @@ let emojiList = [
   {
     "name": "meat_on_bone",
     "unicode": "1f356",
-    "shortname": ":meat_on_bone:",
+    // "shortname": ":meat_on_bone:",
     "code_decimal": "&#127830;",
     "category": "d",
     "emoji_order": "1479"
@@ -3195,7 +3195,7 @@ let emojiList = [
   {
     "name": "poultry_leg",
     "unicode": "1f357",
-    "shortname": ":poultry_leg:",
+    // "shortname": ":poultry_leg:",
     "code_decimal": "&#127831;",
     "category": "d",
     "emoji_order": "1480"
@@ -3203,7 +3203,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "bacon",
     "unicode": "1f953",
-    "shortname": ":bacon:",
+    // "shortname": ":bacon:",
     "code_decimal": "&#129363;",
     "category": "d",
     "emoji_order": "1481"
@@ -3211,7 +3211,7 @@ let emojiList = [
   {
     "name": "hamburger",
     "unicode": "1f354",
-    "shortname": ":hamburger:",
+    // "shortname": ":hamburger:",
     "code_decimal": "&#127828;",
     "category": "d",
     "emoji_order": "1482"
@@ -3219,7 +3219,7 @@ let emojiList = [
   {
     "name": "fries",
     "unicode": "1f35f",
-    "shortname": ":fries:",
+    // "shortname": ":fries:",
     "code_decimal": "&#127839;",
     "category": "d",
     "emoji_order": "1483"
@@ -3227,7 +3227,7 @@ let emojiList = [
   {
     "name": "pizza",
     "unicode": "1f355",
-    "shortname": ":pizza:",
+    // "shortname": ":pizza:",
     "code_decimal": "&#127829;",
     "category": "d",
     "emoji_order": "1484"
@@ -3235,7 +3235,7 @@ let emojiList = [
   {
     "name": "hotdog",
     "unicode": "1f32d",
-    "shortname": ":hotdog:",
+    // "shortname": ":hotdog:",
     "code_decimal": "&#127789;",
     "category": "d",
     "emoji_order": "1485"
@@ -3243,7 +3243,7 @@ let emojiList = [
   {
     "name": "taco",
     "unicode": "1f32e",
-    "shortname": ":taco:",
+    // "shortname": ":taco:",
     "code_decimal": "&#127790;",
     "category": "d",
     "emoji_order": "1486"
@@ -3251,7 +3251,7 @@ let emojiList = [
   {
     "name": "burrito",
     "unicode": "1f32f",
-    "shortname": ":burrito:",
+    // "shortname": ":burrito:",
     "code_decimal": "&#127791;",
     "category": "d",
     "emoji_order": "1487"
@@ -3259,7 +3259,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "stuffed_flatbread",
     "unicode": "1f959",
-    "shortname": ":stuffed_flatbread:",
+    // "shortname": ":stuffed_flatbread:",
     "code_decimal": "&#129369;",
     "category": "d",
     "emoji_order": "1488"
@@ -3267,7 +3267,7 @@ let emojiList = [
   {
     "name": "egg",
     "unicode": "1f95a",
-    "shortname": ":egg:",
+    // "shortname": ":egg:",
     "code_decimal": "&#129370;",
     "category": "d",
     "emoji_order": "1489"
@@ -3275,7 +3275,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "cooking",
     "unicode": "1f373",
-    "shortname": ":cooking:",
+    // "shortname": ":cooking:",
     "code_decimal": "&#127859;",
     "category": "d",
     "emoji_order": "1490"
@@ -3283,7 +3283,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "shallow_pan_of_f",
     "unicode": "1f958",
-    "shortname": ":shallow_pan_of_f:",
+    // "shortname": ":shallow_pan_of_f:",
     "code_decimal": "&#129368;",
     "category": "d",
     "emoji_order": "1491"
@@ -3291,7 +3291,7 @@ let emojiList = [
   {
     "name": "stew",
     "unicode": "1f372",
-    "shortname": ":stew:",
+    // "shortname": ":stew:",
     "code_decimal": "&#127858;",
     "category": "d",
     "emoji_order": "1492"
@@ -3299,7 +3299,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "salad",
     "unicode": "1f957",
-    "shortname": ":salad:",
+    // "shortname": ":salad:",
     "code_decimal": "&#129367;",
     "category": "d",
     "emoji_order": "1493"
@@ -3307,7 +3307,7 @@ let emojiList = [
   {
     "name": "popcorn",
     "unicode": "1f37f",
-    "shortname": ":popcorn:",
+    // "shortname": ":popcorn:",
     "code_decimal": "&#127871;",
     "category": "d",
     "emoji_order": "1494"
@@ -3315,7 +3315,7 @@ let emojiList = [
   {
     "name": "bento",
     "unicode": "1f371",
-    "shortname": ":bento:",
+    // "shortname": ":bento:",
     "code_decimal": "&#127857;",
     "category": "d",
     "emoji_order": "1495"
@@ -3323,7 +3323,7 @@ let emojiList = [
   {
     "name": "rice_cracker",
     "unicode": "1f358",
-    "shortname": ":rice_cracker:",
+    // "shortname": ":rice_cracker:",
     "code_decimal": "&#127832;",
     "category": "d",
     "emoji_order": "1496"
@@ -3331,7 +3331,7 @@ let emojiList = [
   {
     "name": "rice_ball",
     "unicode": "1f359",
-    "shortname": ":rice_ball:",
+    // "shortname": ":rice_ball:",
     "code_decimal": "&#127833;",
     "category": "d",
     "emoji_order": "1497"
@@ -3339,7 +3339,7 @@ let emojiList = [
   {
     "name": "rice",
     "unicode": "1f35a",
-    "shortname": ":rice:",
+    // "shortname": ":rice:",
     "code_decimal": "&#127834;",
     "category": "d",
     "emoji_order": "1498"
@@ -3347,7 +3347,7 @@ let emojiList = [
   {
     "name": "curry",
     "unicode": "1f35b",
-    "shortname": ":curry:",
+    // "shortname": ":curry:",
     "code_decimal": "&#127835;",
     "category": "d",
     "emoji_order": "1499"
@@ -3355,7 +3355,7 @@ let emojiList = [
   {
     "name": "ramen",
     "unicode": "1f35c",
-    "shortname": ":ramen:",
+    // "shortname": ":ramen:",
     "code_decimal": "&#127836;",
     "category": "d",
     "emoji_order": "1500"
@@ -3363,7 +3363,7 @@ let emojiList = [
   {
     "name": "spaghetti",
     "unicode": "1f35d",
-    "shortname": ":spaghetti:",
+    // "shortname": ":spaghetti:",
     "code_decimal": "&#127837;",
     "category": "d",
     "emoji_order": "1501"
@@ -3371,7 +3371,7 @@ let emojiList = [
   {
     "name": "sweet_potato",
     "unicode": "1f360",
-    "shortname": ":sweet_potato:",
+    // "shortname": ":sweet_potato:",
     "code_decimal": "&#127840;",
     "category": "d",
     "emoji_order": "1502"
@@ -3379,7 +3379,7 @@ let emojiList = [
   {
     "name": "oden",
     "unicode": "1f362",
-    "shortname": ":oden:",
+    // "shortname": ":oden:",
     "code_decimal": "&#127842;",
     "category": "d",
     "emoji_order": "1503"
@@ -3387,7 +3387,7 @@ let emojiList = [
   {
     "name": "sushi",
     "unicode": "1f363",
-    "shortname": ":sushi:",
+    // "shortname": ":sushi:",
     "code_decimal": "&#127843;",
     "category": "d",
     "emoji_order": "1504"
@@ -3395,7 +3395,7 @@ let emojiList = [
   {
     "name": "fried_shrimp",
     "unicode": "1f364",
-    "shortname": ":fried_shrimp:",
+    // "shortname": ":fried_shrimp:",
     "code_decimal": "&#127844;",
     "category": "d",
     "emoji_order": "1505"
@@ -3403,7 +3403,7 @@ let emojiList = [
   {
     "name": "fish_cake",
     "unicode": "1f365",
-    "shortname": ":fish_cake:",
+    // "shortname": ":fish_cake:",
     "code_decimal": "&#127845;",
     "category": "d",
     "emoji_order": "1506"
@@ -3411,7 +3411,7 @@ let emojiList = [
   {
     "name": "dango",
     "unicode": "1f361",
-    "shortname": ":dango:",
+    // "shortname": ":dango:",
     "code_decimal": "&#127841;",
     "category": "d",
     "emoji_order": "1507"
@@ -3419,7 +3419,7 @@ let emojiList = [
   {
     "name": "icecream",
     "unicode": "1f366",
-    "shortname": ":icecream:",
+    // "shortname": ":icecream:",
     "code_decimal": "&#127846;",
     "category": "d",
     "emoji_order": "1508"
@@ -3427,7 +3427,7 @@ let emojiList = [
   {
     "name": "shaved_ice",
     "unicode": "1f367",
-    "shortname": ":shaved_ice:",
+    // "shortname": ":shaved_ice:",
     "code_decimal": "&#127847;",
     "category": "d",
     "emoji_order": "1509"
@@ -3435,7 +3435,7 @@ let emojiList = [
   {
     "name": "ice_cream",
     "unicode": "1f368",
-    "shortname": ":ice_cream:",
+    // "shortname": ":ice_cream:",
     "code_decimal": "&#127848;",
     "category": "d",
     "emoji_order": "1510"
@@ -3443,7 +3443,7 @@ let emojiList = [
   {
     "name": "doughnut",
     "unicode": "1f369",
-    "shortname": ":doughnut:",
+    // "shortname": ":doughnut:",
     "code_decimal": "&#127849;",
     "category": "d",
     "emoji_order": "1511"
@@ -3451,7 +3451,7 @@ let emojiList = [
   {
     "name": "cookie",
     "unicode": "1f36a",
-    "shortname": ":cookie:",
+    // "shortname": ":cookie:",
     "code_decimal": "&#127850;",
     "category": "d",
     "emoji_order": "1512"
@@ -3459,7 +3459,7 @@ let emojiList = [
   {
     "name": "birthday",
     "unicode": "1f382",
-    "shortname": ":birthday:",
+    // "shortname": ":birthday:",
     "code_decimal": "&#127874;",
     "category": "d",
     "emoji_order": "1513"
@@ -3467,7 +3467,7 @@ let emojiList = [
   {
     "name": "cake",
     "unicode": "1f370",
-    "shortname": ":cake:",
+    // "shortname": ":cake:",
     "code_decimal": "&#127856;",
     "category": "d",
     "emoji_order": "1514"
@@ -3475,7 +3475,7 @@ let emojiList = [
   {
     "name": "chocolate_bar",
     "unicode": "1f36b",
-    "shortname": ":chocolate_bar:",
+    // "shortname": ":chocolate_bar:",
     "code_decimal": "&#127851;",
     "category": "d",
     "emoji_order": "1515"
@@ -3483,7 +3483,7 @@ let emojiList = [
   {
     "name": "candy",
     "unicode": "1f36c",
-    "shortname": ":candy:",
+    // "shortname": ":candy:",
     "code_decimal": "&#127852;",
     "category": "d",
     "emoji_order": "1516"
@@ -3491,7 +3491,7 @@ let emojiList = [
   {
     "name": "lollipop",
     "unicode": "1f36d",
-    "shortname": ":lollipop:",
+    // "shortname": ":lollipop:",
     "code_decimal": "&#127853;",
     "category": "d",
     "emoji_order": "1517"
@@ -3499,7 +3499,7 @@ let emojiList = [
   {
     "name": "custard",
     "unicode": "1f36e",
-    "shortname": ":custard:",
+    // "shortname": ":custard:",
     "code_decimal": "&#127854;",
     "category": "d",
     "emoji_order": "1518"
@@ -3507,7 +3507,7 @@ let emojiList = [
   {
     "name": "honey_pot",
     "unicode": "1f36f",
-    "shortname": ":honey_pot:",
+    // "shortname": ":honey_pot:",
     "code_decimal": "&#127855;",
     "category": "d",
     "emoji_order": "1519"
@@ -3515,7 +3515,7 @@ let emojiList = [
   {
     "name": "baby_bottle",
     "unicode": "1f37c",
-    "shortname": ":baby_bottle:",
+    // "shortname": ":baby_bottle:",
     "code_decimal": "&#127868;",
     "category": "d",
     "emoji_order": "1520"
@@ -3523,7 +3523,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "milk",
     "unicode": "1f95b",
-    "shortname": ":milk:",
+    // "shortname": ":milk:",
     "code_decimal": "&#129371;",
     "category": "d",
     "emoji_order": "1521"
@@ -3531,7 +3531,7 @@ let emojiList = [
   {
     "name": "coffee",
     "unicode": "2615",
-    "shortname": ":coffee:",
+    // "shortname": ":coffee:",
     "code_decimal": "&#9749;",
     "category": "d",
     "emoji_order": "1522"
@@ -3539,7 +3539,7 @@ let emojiList = [
   {
     "name": "tea",
     "unicode": "1f375",
-    "shortname": ":tea:",
+    // "shortname": ":tea:",
     "code_decimal": "&#127861;",
     "category": "d",
     "emoji_order": "1523"
@@ -3547,7 +3547,7 @@ let emojiList = [
   {
     "name": "sake",
     "unicode": "1f376",
-    "shortname": ":sake:",
+    // "shortname": ":sake:",
     "code_decimal": "&#127862;",
     "category": "d",
     "emoji_order": "1524"
@@ -3555,7 +3555,7 @@ let emojiList = [
   {
     "name": "champagne",
     "unicode": "1f37e",
-    "shortname": ":champagne:",
+    // "shortname": ":champagne:",
     "code_decimal": "&#127870;",
     "category": "d",
     "emoji_order": "1525"
@@ -3563,7 +3563,7 @@ let emojiList = [
   {
     "name": "wine_glass",
     "unicode": "1f377",
-    "shortname": ":wine_glass:",
+    // "shortname": ":wine_glass:",
     "code_decimal": "&#127863;",
     "category": "d",
     "emoji_order": "1526"
@@ -3571,7 +3571,7 @@ let emojiList = [
   {
     "name": "cocktail",
     "unicode": "1f378",
-    "shortname": ":cocktail:",
+    // "shortname": ":cocktail:",
     "code_decimal": "&#127864;",
     "category": "d",
     "emoji_order": "1527"
@@ -3579,7 +3579,7 @@ let emojiList = [
   {
     "name": "tropical_drink",
     "unicode": "1f379",
-    "shortname": ":tropical_drink:",
+    // "shortname": ":tropical_drink:",
     "code_decimal": "&#127865;",
     "category": "d",
     "emoji_order": "1528"
@@ -3587,7 +3587,7 @@ let emojiList = [
   {
     "name": "beer",
     "unicode": "1f37a",
-    "shortname": ":beer:",
+    // "shortname": ":beer:",
     "code_decimal": "&#127866;",
     "category": "d",
     "emoji_order": "1529"
@@ -3595,7 +3595,7 @@ let emojiList = [
   {
     "name": "beers",
     "unicode": "1f37b",
-    "shortname": ":beers:",
+    // "shortname": ":beers:",
     "code_decimal": "&#127867;",
     "category": "d",
     "emoji_order": "1530"
@@ -3603,7 +3603,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "champagne_glass",
     "unicode": "1f942",
-    "shortname": ":champagne_glass:",
+    // "shortname": ":champagne_glass:",
     "code_decimal": "&#129346;",
     "category": "d",
     "emoji_order": "1531"
@@ -3611,7 +3611,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "tumbler_glass",
     "unicode": "1f943",
-    "shortname": ":tumbler_glass:",
+    // "shortname": ":tumbler_glass:",
     "code_decimal": "&#129347;",
     "category": "d",
     "emoji_order": "1532"
@@ -3619,7 +3619,7 @@ let emojiList = [
   {
     "name": "knife_fork_plate",
     "unicode": "1f37d",
-    "shortname": ":fork_knife_plate:",
+    // "shortname": ":fork_knife_plate:",
     "code_decimal": "&#127869;",
     "category": "d",
     "emoji_order": "1533"
@@ -3627,7 +3627,7 @@ let emojiList = [
   {
     "name": "fork_and_knife",
     "unicode": "1f374",
-    "shortname": ":fork_and_knife:",
+    // "shortname": ":fork_and_knife:",
     "code_decimal": "&#127860;",
     "category": "d",
     "emoji_order": "1534"
@@ -3635,7 +3635,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "spoon",
     "unicode": "1f944",
-    "shortname": ":spoon:",
+    // "shortname": ":spoon:",
     "code_decimal": "&#129348;",
     "category": "d",
     "emoji_order": "1535"
@@ -3643,7 +3643,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "knife",
     "unicode": "1f52a",
-    "shortname": ":knife:",
+    // "shortname": ":knife:",
     "code_decimal": "&#128298;",
     "category": "o",
     "emoji_order": "1536"
@@ -3651,7 +3651,7 @@ let emojiList = [
   {
     "name": "amphora",
     "unicode": "1f3fa",
-    "shortname": ":amphora:",
+    // "shortname": ":amphora:",
     "code_decimal": "&#127994;",
     "category": "o",
     "emoji_order": "1537"
@@ -3659,7 +3659,7 @@ let emojiList = [
   {
     "name": "earth_africa",
     "unicode": "1f30d",
-    "shortname": ":earth_africa:",
+    // "shortname": ":earth_africa:",
     "code_decimal": "&#127757;",
     "category": "n",
     "emoji_order": "1538"
@@ -3667,7 +3667,7 @@ let emojiList = [
   {
     "name": "earth_americas",
     "unicode": "1f30e",
-    "shortname": ":earth_americas:",
+    // "shortname": ":earth_americas:",
     "code_decimal": "&#127758;",
     "category": "n",
     "emoji_order": "1539"
@@ -3675,7 +3675,7 @@ let emojiList = [
   {
     "name": "earth_asia",
     "unicode": "1f30f",
-    "shortname": ":earth_asia:",
+    // "shortname": ":earth_asia:",
     "code_decimal": "&#127759;",
     "category": "n",
     "emoji_order": "1540"
@@ -3683,7 +3683,7 @@ let emojiList = [
   {
     "name": "globe_with_meridians",
     "unicode": "1f310",
-    "shortname": ":globe_with_meridians:",
+    // "shortname": ":globe_with_meridians:",
     "code_decimal": "&#127760;",
     "category": "s",
     "emoji_order": "1541"
@@ -3691,7 +3691,7 @@ let emojiList = [
   {
     "name": "world_map",
     "unicode": "1f5fa",
-    "shortname": ":map:",
+    // "shortname": ":map:",
     "code_decimal": "&#128506;",
     "category": "o",
     "emoji_order": "1542"
@@ -3699,7 +3699,7 @@ let emojiList = [
   {
     "name": "japan",
     "unicode": "1f5fe",
-    "shortname": ":japan:",
+    // "shortname": ":japan:",
     "code_decimal": "&#128510;",
     "category": "t",
     "emoji_order": "1543"
@@ -3707,7 +3707,7 @@ let emojiList = [
   {
     "name": "snow_capped_mountain",
     "unicode": "1f3d4",
-    "shortname": ":mountain_snow:",
+    // "shortname": ":mountain_snow:",
     "code_decimal": "&#127956;",
     "category": "t",
     "emoji_order": "1544"
@@ -3715,7 +3715,7 @@ let emojiList = [
   {
     "name": "mountain",
     "unicode": "26f0",
-    "shortname": ":mountain:",
+    // "shortname": ":mountain:",
     "code_decimal": "&#9968;",
     "category": "t",
     "emoji_order": "1545"
@@ -3723,7 +3723,7 @@ let emojiList = [
   {
     "name": "volcano",
     "unicode": "1f30b",
-    "shortname": ":volcano:",
+    // "shortname": ":volcano:",
     "code_decimal": "&#127755;",
     "category": "t",
     "emoji_order": "1546"
@@ -3731,7 +3731,7 @@ let emojiList = [
   {
     "name": "mount_fuji",
     "unicode": "1f5fb",
-    "shortname": ":mount_fuji:",
+    // "shortname": ":mount_fuji:",
     "code_decimal": "&#128507;",
     "category": "t",
     "emoji_order": "1547"
@@ -3739,7 +3739,7 @@ let emojiList = [
   {
     "name": "camping",
     "unicode": "1f3d5",
-    "shortname": ":camping:",
+    // "shortname": ":camping:",
     "code_decimal": "&#127957;",
     "category": "t",
     "emoji_order": "1548"
@@ -3747,7 +3747,7 @@ let emojiList = [
   {
     "name": "beach_with_umbrella",
     "unicode": "1f3d6",
-    "shortname": ":beach:",
+    // "shortname": ":beach:",
     "code_decimal": "&#127958;",
     "category": "t",
     "emoji_order": "1549"
@@ -3755,7 +3755,7 @@ let emojiList = [
   {
     "name": "desert",
     "unicode": "1f3dc",
-    "shortname": ":desert:",
+    // "shortname": ":desert:",
     "code_decimal": "&#127964;",
     "category": "t",
     "emoji_order": "1550"
@@ -3763,7 +3763,7 @@ let emojiList = [
   {
     "name": "desert_island",
     "unicode": "1f3dd",
-    "shortname": ":island:",
+    // "shortname": ":island:",
     "code_decimal": "&#127965;",
     "category": "t",
     "emoji_order": "1551"
@@ -3771,7 +3771,7 @@ let emojiList = [
   {
     "name": "national_park",
     "unicode": "1f3de",
-    "shortname": ":park:",
+    // "shortname": ":park:",
     "code_decimal": "&#127966;",
     "category": "t",
     "emoji_order": "1552"
@@ -3779,7 +3779,7 @@ let emojiList = [
   {
     "name": "stadium",
     "unicode": "1f3df",
-    "shortname": ":stadium:",
+    // "shortname": ":stadium:",
     "code_decimal": "&#127967;",
     "category": "t",
     "emoji_order": "1553"
@@ -3787,7 +3787,7 @@ let emojiList = [
   {
     "name": "classical_building",
     "unicode": "1f3db",
-    "shortname": ":classical_building:",
+    // "shortname": ":classical_building:",
     "code_decimal": "&#127963;",
     "category": "t",
     "emoji_order": "1554"
@@ -3795,7 +3795,7 @@ let emojiList = [
   {
     "name": "building_construction",
     "unicode": "1f3d7",
-    "shortname": ":construction_site:",
+    // "shortname": ":construction_site:",
     "code_decimal": "&#127959;",
     "category": "t",
     "emoji_order": "1555"
@@ -3803,7 +3803,7 @@ let emojiList = [
   {
     "name": "house_buildings",
     "unicode": "1f3d8",
-    "shortname": ":homes:",
+    // "shortname": ":homes:",
     "code_decimal": "&#127960;",
     "category": "t",
     "emoji_order": "1556"
@@ -3811,7 +3811,7 @@ let emojiList = [
   {
     "name": "cityscape",
     "unicode": "1f3d9",
-    "shortname": ":cityscape:",
+    // "shortname": ":cityscape:",
     "code_decimal": "&#127961;",
     "category": "t",
     "emoji_order": "1557"
@@ -3819,7 +3819,7 @@ let emojiList = [
   {
     "name": "derelict_house_building",
     "unicode": "1f3da",
-    "shortname": ":house_abandoned:",
+    // "shortname": ":house_abandoned:",
     "code_decimal": "&#127962;",
     "category": "t",
     "emoji_order": "1558"
@@ -3827,7 +3827,7 @@ let emojiList = [
   {
     "name": "house",
     "unicode": "1f3e0",
-    "shortname": ":house:",
+    // "shortname": ":house:",
     "code_decimal": "&#127968;",
     "category": "t",
     "emoji_order": "1559"
@@ -3835,7 +3835,7 @@ let emojiList = [
   {
     "name": "house_with_garden",
     "unicode": "1f3e1",
-    "shortname": ":house_with_garden:",
+    // "shortname": ":house_with_garden:",
     "code_decimal": "&#127969;",
     "category": "t",
     "emoji_order": "1560"
@@ -3843,7 +3843,7 @@ let emojiList = [
   {
     "name": "office",
     "unicode": "1f3e2",
-    "shortname": ":office:",
+    // "shortname": ":office:",
     "code_decimal": "&#127970;",
     "category": "t",
     "emoji_order": "1561"
@@ -3851,7 +3851,7 @@ let emojiList = [
   {
     "name": "post_office",
     "unicode": "1f3e3",
-    "shortname": ":post_office:",
+    // "shortname": ":post_office:",
     "code_decimal": "&#127971;",
     "category": "t",
     "emoji_order": "1562"
@@ -3859,7 +3859,7 @@ let emojiList = [
   {
     "name": "european_post_office",
     "unicode": "1f3e4",
-    "shortname": ":european_post_office:",
+    // "shortname": ":european_post_office:",
     "code_decimal": "&#127972;",
     "category": "t",
     "emoji_order": "1563"
@@ -3867,7 +3867,7 @@ let emojiList = [
   {
     "name": "hospital",
     "unicode": "1f3e5",
-    "shortname": ":hospital:",
+    // "shortname": ":hospital:",
     "code_decimal": "&#127973;",
     "category": "t",
     "emoji_order": "1564"
@@ -3875,7 +3875,7 @@ let emojiList = [
   {
     "name": "bank",
     "unicode": "1f3e6",
-    "shortname": ":bank:",
+    // "shortname": ":bank:",
     "code_decimal": "&#127974;",
     "category": "t",
     "emoji_order": "1565"
@@ -3883,7 +3883,7 @@ let emojiList = [
   {
     "name": "hotel",
     "unicode": "1f3e8",
-    "shortname": ":hotel:",
+    // "shortname": ":hotel:",
     "code_decimal": "&#127976;",
     "category": "t",
     "emoji_order": "1566"
@@ -3891,7 +3891,7 @@ let emojiList = [
   {
     "name": "love_hotel",
     "unicode": "1f3e9",
-    "shortname": ":love_hotel:",
+    // "shortname": ":love_hotel:",
     "code_decimal": "&#127977;",
     "category": "t",
     "emoji_order": "1567"
@@ -3899,7 +3899,7 @@ let emojiList = [
   {
     "name": "convenience_store",
     "unicode": "1f3ea",
-    "shortname": ":convenience_store:",
+    // "shortname": ":convenience_store:",
     "code_decimal": "&#127978;",
     "category": "t",
     "emoji_order": "1568"
@@ -3907,7 +3907,7 @@ let emojiList = [
   {
     "name": "school",
     "unicode": "1f3eb",
-    "shortname": ":school:",
+    // "shortname": ":school:",
     "code_decimal": "&#127979;",
     "category": "t",
     "emoji_order": "1569"
@@ -3915,7 +3915,7 @@ let emojiList = [
   {
     "name": "department_store",
     "unicode": "1f3ec",
-    "shortname": ":department_store:",
+    // "shortname": ":department_store:",
     "code_decimal": "&#127980;",
     "category": "t",
     "emoji_order": "1570"
@@ -3923,7 +3923,7 @@ let emojiList = [
   {
     "name": "factory",
     "unicode": "1f3ed",
-    "shortname": ":factory:",
+    // "shortname": ":factory:",
     "code_decimal": "&#127981;",
     "category": "t",
     "emoji_order": "1571"
@@ -3931,7 +3931,7 @@ let emojiList = [
   {
     "name": "japanese_castle",
     "unicode": "1f3ef",
-    "shortname": ":japanese_castle:",
+    // "shortname": ":japanese_castle:",
     "code_decimal": "&#127983;",
     "category": "t",
     "emoji_order": "1572"
@@ -3939,7 +3939,7 @@ let emojiList = [
   {
     "name": "european_castle",
     "unicode": "1f3f0",
-    "shortname": ":european_castle:",
+    // "shortname": ":european_castle:",
     "code_decimal": "&#127984;",
     "category": "t",
     "emoji_order": "1573"
@@ -3947,7 +3947,7 @@ let emojiList = [
   {
     "name": "wedding",
     "unicode": "1f492",
-    "shortname": ":wedding:",
+    // "shortname": ":wedding:",
     "code_decimal": "&#128146;",
     "category": "t",
     "emoji_order": "1574"
@@ -3955,7 +3955,7 @@ let emojiList = [
   {
     "name": "tokyo_tower",
     "unicode": "1f5fc",
-    "shortname": ":tokyo_tower:",
+    // "shortname": ":tokyo_tower:",
     "code_decimal": "&#128508;",
     "category": "t",
     "emoji_order": "1575"
@@ -3963,7 +3963,7 @@ let emojiList = [
   {
     "name": "statue_of_liberty",
     "unicode": "1f5fd",
-    "shortname": ":statue_of_liberty:",
+    // "shortname": ":statue_of_liberty:",
     "code_decimal": "&#128509;",
     "category": "t",
     "emoji_order": "1576"
@@ -3971,7 +3971,7 @@ let emojiList = [
   {
     "name": "church",
     "unicode": "26ea",
-    "shortname": ":church:",
+    // "shortname": ":church:",
     "code_decimal": "&#9962;",
     "category": "t",
     "emoji_order": "1577"
@@ -3979,7 +3979,7 @@ let emojiList = [
   {
     "name": "mosque",
     "unicode": "1f54c",
-    "shortname": ":mosque:",
+    // "shortname": ":mosque:",
     "code_decimal": "&#128332;",
     "category": "t",
     "emoji_order": "1578"
@@ -3987,7 +3987,7 @@ let emojiList = [
   {
     "name": "synagogue",
     "unicode": "1f54d",
-    "shortname": ":synagogue:",
+    // "shortname": ":synagogue:",
     "code_decimal": "&#128333;",
     "category": "t",
     "emoji_order": "1579"
@@ -3995,7 +3995,7 @@ let emojiList = [
   {
     "name": "shinto_shrine",
     "unicode": "26e9",
-    "shortname": ":shinto_shrine:",
+    // "shortname": ":shinto_shrine:",
     "code_decimal": "&#9961;",
     "category": "t",
     "emoji_order": "1580"
@@ -4003,7 +4003,7 @@ let emojiList = [
   {
     "name": "kaaba",
     "unicode": "1f54b",
-    "shortname": ":kaaba:",
+    // "shortname": ":kaaba:",
     "code_decimal": "&#128331;",
     "category": "t",
     "emoji_order": "1581"
@@ -4011,7 +4011,7 @@ let emojiList = [
   {
     "name": "fountain",
     "unicode": "26f2",
-    "shortname": ":fountain:",
+    // "shortname": ":fountain:",
     "code_decimal": "&#9970;",
     "category": "t",
     "emoji_order": "1582"
@@ -4019,7 +4019,7 @@ let emojiList = [
   {
     "name": "tent",
     "unicode": "26fa",
-    "shortname": ":tent:",
+    // "shortname": ":tent:",
     "code_decimal": "&#9978;",
     "category": "t",
     "emoji_order": "1583"
@@ -4027,7 +4027,7 @@ let emojiList = [
   {
     "name": "foggy",
     "unicode": "1f301",
-    "shortname": ":foggy:",
+    // "shortname": ":foggy:",
     "code_decimal": "&#127745;",
     "category": "t",
     "emoji_order": "1584"
@@ -4035,7 +4035,7 @@ let emojiList = [
   {
     "name": "night_with_stars",
     "unicode": "1f303",
-    "shortname": ":night_with_stars:",
+    // "shortname": ":night_with_stars:",
     "code_decimal": "&#127747;",
     "category": "t",
     "emoji_order": "1585"
@@ -4043,7 +4043,7 @@ let emojiList = [
   {
     "name": "sunrise_over_mountains",
     "unicode": "1f304",
-    "shortname": ":sunrise_over_mountains:",
+    // "shortname": ":sunrise_over_mountains:",
     "code_decimal": "&#127748;",
     "category": "t",
     "emoji_order": "1586"
@@ -4051,7 +4051,7 @@ let emojiList = [
   {
     "name": "sunrise",
     "unicode": "1f305",
-    "shortname": ":sunrise:",
+    // "shortname": ":sunrise:",
     "code_decimal": "&#127749;",
     "category": "t",
     "emoji_order": "1587"
@@ -4059,7 +4059,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "city_dusk",
     "unicode": "1f306",
-    "shortname": ":city_dusk:",
+    // "shortname": ":city_dusk:",
     "code_decimal": "&#127750;",
     "category": "t",
     "emoji_order": "1588"
@@ -4067,7 +4067,7 @@ let emojiList = [
   {
     "name": "city_sunset",
     "unicode": "1f307",
-    "shortname": ":city_sunset:",
+    // "shortname": ":city_sunset:",
     "code_decimal": "&#127751;",
     "category": "t",
     "emoji_order": "1589"
@@ -4075,7 +4075,7 @@ let emojiList = [
   {
     "name": "bridge_at_night",
     "unicode": "1f309",
-    "shortname": ":bridge_at_night:",
+    // "shortname": ":bridge_at_night:",
     "code_decimal": "&#127753;",
     "category": "t",
     "emoji_order": "1590"
@@ -4083,7 +4083,7 @@ let emojiList = [
   {
     "name": "hotsprings",
     "unicode": "2668",
-    "shortname": ":hotsprings:",
+    // "shortname": ":hotsprings:",
     "code_decimal": "&#9832;",
     "category": "s",
     "emoji_order": "1591"
@@ -4091,7 +4091,7 @@ let emojiList = [
   {
     "name": "milky_way",
     "unicode": "1f30c",
-    "shortname": ":milky_way:",
+    // "shortname": ":milky_way:",
     "code_decimal": "&#127756;",
     "category": "t",
     "emoji_order": "1592"
@@ -4099,7 +4099,7 @@ let emojiList = [
   {
     "name": "carousel_horse",
     "unicode": "1f3a0",
-    "shortname": ":carousel_horse:",
+    // "shortname": ":carousel_horse:",
     "code_decimal": "&#127904;",
     "category": "t",
     "emoji_order": "1593"
@@ -4107,7 +4107,7 @@ let emojiList = [
   {
     "name": "ferris_wheel",
     "unicode": "1f3a1",
-    "shortname": ":ferris_wheel:",
+    // "shortname": ":ferris_wheel:",
     "code_decimal": "&#127905;",
     "category": "t",
     "emoji_order": "1594"
@@ -4115,7 +4115,7 @@ let emojiList = [
   {
     "name": "roller_coaster",
     "unicode": "1f3a2",
-    "shortname": ":roller_coaster:",
+    // "shortname": ":roller_coaster:",
     "code_decimal": "&#127906;",
     "category": "t",
     "emoji_order": "1595"
@@ -4123,7 +4123,7 @@ let emojiList = [
   {
     "name": "barber",
     "unicode": "1f488",
-    "shortname": ":barber:",
+    // "shortname": ":barber:",
     "code_decimal": "&#128136;",
     "category": "o",
     "emoji_order": "1596"
@@ -4131,7 +4131,7 @@ let emojiList = [
   {
     "name": "circus_tent",
     "unicode": "1f3aa",
-    "shortname": ":circus_tent:",
+    // "shortname": ":circus_tent:",
     "code_decimal": "&#127914;",
     "category": "a",
     "emoji_order": "1597"
@@ -4139,7 +4139,7 @@ let emojiList = [
   {
     "name": "performing_arts",
     "unicode": "1f3ad",
-    "shortname": ":performing_arts:",
+    // "shortname": ":performing_arts:",
     "code_decimal": "&#127917;",
     "category": "a",
     "emoji_order": "1598"
@@ -4147,7 +4147,7 @@ let emojiList = [
   {
     "name": "frame_with_picture",
     "unicode": "1f5bc",
-    "shortname": ":frame_photo:",
+    // "shortname": ":frame_photo:",
     "code_decimal": "&#128444;",
     "category": "o",
     "emoji_order": "1599"
@@ -4155,7 +4155,7 @@ let emojiList = [
   {
     "name": "art",
     "unicode": "1f3a8",
-    "shortname": ":art:",
+    // "shortname": ":art:",
     "code_decimal": "&#127912;",
     "category": "a",
     "emoji_order": "1600"
@@ -4163,7 +4163,7 @@ let emojiList = [
   {
     "name": "slot_machine",
     "unicode": "1f3b0",
-    "shortname": ":slot_machine:",
+    // "shortname": ":slot_machine:",
     "code_decimal": "&#127920;",
     "category": "a",
     "emoji_order": "1601"
@@ -4171,7 +4171,7 @@ let emojiList = [
   {
     "name": "steam_locomotive",
     "unicode": "1f682",
-    "shortname": ":steam_locomotive:",
+    // "shortname": ":steam_locomotive:",
     "code_decimal": "&#128642;",
     "category": "t",
     "emoji_order": "1602"
@@ -4179,7 +4179,7 @@ let emojiList = [
   {
     "name": "railway_car",
     "unicode": "1f683",
-    "shortname": ":railway_car:",
+    // "shortname": ":railway_car:",
     "code_decimal": "&#128643;",
     "category": "t",
     "emoji_order": "1603"
@@ -4187,7 +4187,7 @@ let emojiList = [
   {
     "name": "bullettrain_side",
     "unicode": "1f684",
-    "shortname": ":bullettrain_side:",
+    // "shortname": ":bullettrain_side:",
     "code_decimal": "&#128644;",
     "category": "t",
     "emoji_order": "1604"
@@ -4195,7 +4195,7 @@ let emojiList = [
   {
     "name": "bullettrain_front",
     "unicode": "1f685",
-    "shortname": ":bullettrain_front:",
+    // "shortname": ":bullettrain_front:",
     "code_decimal": "&#128645;",
     "category": "t",
     "emoji_order": "1605"
@@ -4203,7 +4203,7 @@ let emojiList = [
   {
     "name": "train2",
     "unicode": "1f686",
-    "shortname": ":train2:",
+    // "shortname": ":train2:",
     "code_decimal": "&#128646;",
     "category": "t",
     "emoji_order": "1606"
@@ -4211,7 +4211,7 @@ let emojiList = [
   {
     "name": "metro",
     "unicode": "1f687",
-    "shortname": ":metro:",
+    // "shortname": ":metro:",
     "code_decimal": "&#128647;",
     "category": "t",
     "emoji_order": "1607"
@@ -4219,7 +4219,7 @@ let emojiList = [
   {
     "name": "light_rail",
     "unicode": "1f688",
-    "shortname": ":light_rail:",
+    // "shortname": ":light_rail:",
     "code_decimal": "&#128648;",
     "category": "t",
     "emoji_order": "1608"
@@ -4227,7 +4227,7 @@ let emojiList = [
   {
     "name": "station",
     "unicode": "1f689",
-    "shortname": ":station:",
+    // "shortname": ":station:",
     "code_decimal": "&#128649;",
     "category": "t",
     "emoji_order": "1609"
@@ -4235,7 +4235,7 @@ let emojiList = [
   {
     "name": "tram",
     "unicode": "1f68a",
-    "shortname": ":tram:",
+    // "shortname": ":tram:",
     "code_decimal": "&#128650;",
     "category": "t",
     "emoji_order": "1610"
@@ -4243,7 +4243,7 @@ let emojiList = [
   {
     "name": "monorail",
     "unicode": "1f69d",
-    "shortname": ":monorail:",
+    // "shortname": ":monorail:",
     "code_decimal": "&#128669;",
     "category": "t",
     "emoji_order": "1611"
@@ -4251,7 +4251,7 @@ let emojiList = [
   {
     "name": "mountain_railway",
     "unicode": "1f69e",
-    "shortname": ":mountain_railway:",
+    // "shortname": ":mountain_railway:",
     "code_decimal": "&#128670;",
     "category": "t",
     "emoji_order": "1612"
@@ -4259,7 +4259,7 @@ let emojiList = [
   {
     "name": "train",
     "unicode": "1f68b",
-    "shortname": ":train:",
+    // "shortname": ":train:",
     "code_decimal": "&#128651;",
     "category": "t",
     "emoji_order": "1613"
@@ -4267,7 +4267,7 @@ let emojiList = [
   {
     "name": "bus",
     "unicode": "1f68c",
-    "shortname": ":bus:",
+    // "shortname": ":bus:",
     "code_decimal": "&#128652;",
     "category": "t",
     "emoji_order": "1614"
@@ -4275,7 +4275,7 @@ let emojiList = [
   {
     "name": "oncoming_bus",
     "unicode": "1f68d",
-    "shortname": ":oncoming_bus:",
+    // "shortname": ":oncoming_bus:",
     "code_decimal": "&#128653;",
     "category": "t",
     "emoji_order": "1615"
@@ -4283,7 +4283,7 @@ let emojiList = [
   {
     "name": "trolleybus",
     "unicode": "1f68e",
-    "shortname": ":trolleybus:",
+    // "shortname": ":trolleybus:",
     "code_decimal": "&#128654;",
     "category": "t",
     "emoji_order": "1616"
@@ -4291,7 +4291,7 @@ let emojiList = [
   {
     "name": "minibus",
     "unicode": "1f690",
-    "shortname": ":minibus:",
+    // "shortname": ":minibus:",
     "code_decimal": "&#128656;",
     "category": "t",
     "emoji_order": "1617"
@@ -4299,7 +4299,7 @@ let emojiList = [
   {
     "name": "ambulance",
     "unicode": "1f691",
-    "shortname": ":ambulance:",
+    // "shortname": ":ambulance:",
     "code_decimal": "&#128657;",
     "category": "t",
     "emoji_order": "1618"
@@ -4307,7 +4307,7 @@ let emojiList = [
   {
     "name": "fire_engine",
     "unicode": "1f692",
-    "shortname": ":fire_engine:",
+    // "shortname": ":fire_engine:",
     "code_decimal": "&#128658;",
     "category": "t",
     "emoji_order": "1619"
@@ -4315,7 +4315,7 @@ let emojiList = [
   {
     "name": "police_car",
     "unicode": "1f693",
-    "shortname": ":police_car:",
+    // "shortname": ":police_car:",
     "code_decimal": "&#128659;",
     "category": "t",
     "emoji_order": "1620"
@@ -4323,7 +4323,7 @@ let emojiList = [
   {
     "name": "oncoming_police_car",
     "unicode": "1f694",
-    "shortname": ":oncoming_police_car:",
+    // "shortname": ":oncoming_police_car:",
     "code_decimal": "&#128660;",
     "category": "t",
     "emoji_order": "1621"
@@ -4331,7 +4331,7 @@ let emojiList = [
   {
     "name": "taxi",
     "unicode": "1f695",
-    "shortname": ":taxi:",
+    // "shortname": ":taxi:",
     "code_decimal": "&#128661;",
     "category": "t",
     "emoji_order": "1622"
@@ -4339,7 +4339,7 @@ let emojiList = [
   {
     "name": "oncoming_taxi",
     "unicode": "1f696",
-    "shortname": ":oncoming_taxi:",
+    // "shortname": ":oncoming_taxi:",
     "code_decimal": "&#128662;",
     "category": "t",
     "emoji_order": "1623"
@@ -4347,7 +4347,7 @@ let emojiList = [
   {
     "name": "car",
     "unicode": "1f697",
-    "shortname": ":red_car:",
+    // "shortname": ":red_car:",
     "code_decimal": "&#128663;",
     "category": "t",
     "emoji_order": "1624"
@@ -4355,7 +4355,7 @@ let emojiList = [
   {
     "name": "oncoming_automobile",
     "unicode": "1f698",
-    "shortname": ":oncoming_automobile:",
+    // "shortname": ":oncoming_automobile:",
     "code_decimal": "&#128664;",
     "category": "t",
     "emoji_order": "1625"
@@ -4363,7 +4363,7 @@ let emojiList = [
   {
     "name": "blue_car",
     "unicode": "1f699",
-    "shortname": ":blue_car:",
+    // "shortname": ":blue_car:",
     "code_decimal": "&#128665;",
     "category": "t",
     "emoji_order": "1626"
@@ -4371,7 +4371,7 @@ let emojiList = [
   {
     "name": "truck",
     "unicode": "1f69a",
-    "shortname": ":truck:",
+    // "shortname": ":truck:",
     "code_decimal": "&#128666;",
     "category": "t",
     "emoji_order": "1627"
@@ -4379,7 +4379,7 @@ let emojiList = [
   {
     "name": "articulated_lorry",
     "unicode": "1f69b",
-    "shortname": ":articulated_lorry:",
+    // "shortname": ":articulated_lorry:",
     "code_decimal": "&#128667;",
     "category": "t",
     "emoji_order": "1628"
@@ -4387,7 +4387,7 @@ let emojiList = [
   {
     "name": "tractor",
     "unicode": "1f69c",
-    "shortname": ":tractor:",
+    // "shortname": ":tractor:",
     "code_decimal": "&#128668;",
     "category": "t",
     "emoji_order": "1629"
@@ -4395,7 +4395,7 @@ let emojiList = [
   {
     "name": "bike",
     "unicode": "1f6b2",
-    "shortname": ":bike:",
+    // "shortname": ":bike:",
     "code_decimal": "&#128690;",
     "category": "t",
     "emoji_order": "1630"
@@ -4403,7 +4403,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "scooter",
     "unicode": "1f6f4",
-    "shortname": ":scooter:",
+    // "shortname": ":scooter:",
     "code_decimal": "&#128756;",
     "category": "t",
     "emoji_order": "1631"
@@ -4411,7 +4411,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "motor_scooter",
     "unicode": "1f6f5",
-    "shortname": ":motor_scooter:",
+    // "shortname": ":motor_scooter:",
     "code_decimal": "&#128757;",
     "category": "t",
     "emoji_order": "1632"
@@ -4419,7 +4419,7 @@ let emojiList = [
   {
     "name": "busstop",
     "unicode": "1f68f",
-    "shortname": ":busstop:",
+    // "shortname": ":busstop:",
     "code_decimal": "&#128655;",
     "category": "t",
     "emoji_order": "1633"
@@ -4427,7 +4427,7 @@ let emojiList = [
   {
     "name": "motorway",
     "unicode": "1f6e3",
-    "shortname": ":motorway:",
+    // "shortname": ":motorway:",
     "code_decimal": "&#128739;",
     "category": "t",
     "emoji_order": "1634"
@@ -4435,7 +4435,7 @@ let emojiList = [
   {
     "name": "railway_track",
     "unicode": "1f6e4",
-    "shortname": ":railway_track:",
+    // "shortname": ":railway_track:",
     "code_decimal": "&#128740;",
     "category": "t",
     "emoji_order": "1635"
@@ -4443,7 +4443,7 @@ let emojiList = [
   {
     "name": "fuelpump",
     "unicode": "26fd",
-    "shortname": ":fuelpump:",
+    // "shortname": ":fuelpump:",
     "code_decimal": "&#9981;",
     "category": "t",
     "emoji_order": "1636"
@@ -4451,7 +4451,7 @@ let emojiList = [
   {
     "name": "rotating_light",
     "unicode": "1f6a8",
-    "shortname": ":rotating_light:",
+    // "shortname": ":rotating_light:",
     "code_decimal": "&#128680;",
     "category": "t",
     "emoji_order": "1637"
@@ -4459,7 +4459,7 @@ let emojiList = [
   {
     "name": "traffic_light",
     "unicode": "1f6a5",
-    "shortname": ":traffic_light:",
+    // "shortname": ":traffic_light:",
     "code_decimal": "&#128677;",
     "category": "t",
     "emoji_order": "1638"
@@ -4467,7 +4467,7 @@ let emojiList = [
   {
     "name": "vertical_traffic_light",
     "unicode": "1f6a6",
-    "shortname": ":vertical_traffic_light:",
+    // "shortname": ":vertical_traffic_light:",
     "code_decimal": "&#128678;",
     "category": "t",
     "emoji_order": "1639"
@@ -4475,7 +4475,7 @@ let emojiList = [
   {
     "name": "construction",
     "unicode": "1f6a7",
-    "shortname": ":construction:",
+    // "shortname": ":construction:",
     "code_decimal": "&#128679;",
     "category": "t",
     "emoji_order": "1640"
@@ -4483,7 +4483,7 @@ let emojiList = [
   {
     "name": "octagonal_sign",
     "unicode": "1f6d1",
-    "shortname": ":octagonal_sign:",
+    // "shortname": ":octagonal_sign:",
     "code_decimal": "&#128721;",
     "category": "s",
     "emoji_order": "1641"
@@ -4491,7 +4491,7 @@ let emojiList = [
   {
     "name": "anchor",
     "unicode": "2693",
-    "shortname": ":anchor:",
+    // "shortname": ":anchor:",
     "code_decimal": "&#9875;",
     "category": "t",
     "emoji_order": "1642"
@@ -4499,7 +4499,7 @@ let emojiList = [
   {
     "name": "boat",
     "unicode": "26f5",
-    "shortname": ":sailboat:",
+    // "shortname": ":sailboat:",
     "code_decimal": "&#9973;",
     "category": "t",
     "emoji_order": "1643"
@@ -4507,7 +4507,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "canoe",
     "unicode": "1f6f6",
-    "shortname": ":canoe:",
+    // "shortname": ":canoe:",
     "code_decimal": "&#128758;",
     "category": "t",
     "emoji_order": "1644"
@@ -4515,7 +4515,7 @@ let emojiList = [
   {
     "name": "speedboat",
     "unicode": "1f6a4",
-    "shortname": ":speedboat:",
+    // "shortname": ":speedboat:",
     "code_decimal": "&#128676;",
     "category": "t",
     "emoji_order": "1645"
@@ -4523,7 +4523,7 @@ let emojiList = [
   {
     "name": "passenger_ship",
     "unicode": "1f6f3",
-    "shortname": ":cruise_ship:",
+    // "shortname": ":cruise_ship:",
     "code_decimal": "&#128755;",
     "category": "t",
     "emoji_order": "1646"
@@ -4531,7 +4531,7 @@ let emojiList = [
   {
     "name": "ferry",
     "unicode": "26f4",
-    "shortname": ":ferry:",
+    // "shortname": ":ferry:",
     "code_decimal": "&#9972;",
     "category": "t",
     "emoji_order": "1647"
@@ -4539,7 +4539,7 @@ let emojiList = [
   {
     "name": "motor_boat",
     "unicode": "1f6e5",
-    "shortname": ":motorboat:",
+    // "shortname": ":motorboat:",
     "code_decimal": "&#128741;",
     "category": "t",
     "emoji_order": "1648"
@@ -4547,7 +4547,7 @@ let emojiList = [
   {
     "name": "ship",
     "unicode": "1f6a2",
-    "shortname": ":ship:",
+    // "shortname": ":ship:",
     "code_decimal": "&#128674;",
     "category": "t",
     "emoji_order": "1649"
@@ -4555,7 +4555,7 @@ let emojiList = [
   {
     "name": "airplane",
     "unicode": "2708",
-    "shortname": ":airplane:",
+    // "shortname": ":airplane:",
     "code_decimal": "&#9992;",
     "category": "t",
     "emoji_order": "1650"
@@ -4563,7 +4563,7 @@ let emojiList = [
   {
     "name": "small_airplane",
     "unicode": "1f6e9",
-    "shortname": ":airplane_small:",
+    // "shortname": ":airplane_small:",
     "code_decimal": "&#128745;",
     "category": "t",
     "emoji_order": "1651"
@@ -4571,7 +4571,7 @@ let emojiList = [
   {
     "name": "airplane_departure",
     "unicode": "1f6eb",
-    "shortname": ":airplane_departure:",
+    // "shortname": ":airplane_departure:",
     "code_decimal": "&#128747;",
     "category": "t",
     "emoji_order": "1652"
@@ -4579,7 +4579,7 @@ let emojiList = [
   {
     "name": "airplane_arriving",
     "unicode": "1f6ec",
-    "shortname": ":airplane_arriving:",
+    // "shortname": ":airplane_arriving:",
     "code_decimal": "&#128748;",
     "category": "t",
     "emoji_order": "1653"
@@ -4587,7 +4587,7 @@ let emojiList = [
   {
     "name": "seat",
     "unicode": "1f4ba",
-    "shortname": ":seat:",
+    // "shortname": ":seat:",
     "code_decimal": "&#128186;",
     "category": "t",
     "emoji_order": "1654"
@@ -4595,7 +4595,7 @@ let emojiList = [
   {
     "name": "helicopter",
     "unicode": "1f681",
-    "shortname": ":helicopter:",
+    // "shortname": ":helicopter:",
     "code_decimal": "&#128641;",
     "category": "t",
     "emoji_order": "1655"
@@ -4603,7 +4603,7 @@ let emojiList = [
   {
     "name": "suspension_railway",
     "unicode": "1f69f",
-    "shortname": ":suspension_railway:",
+    // "shortname": ":suspension_railway:",
     "code_decimal": "&#128671;",
     "category": "t",
     "emoji_order": "1656"
@@ -4611,7 +4611,7 @@ let emojiList = [
   {
     "name": "mountain_cableway",
     "unicode": "1f6a0",
-    "shortname": ":mountain_cableway:",
+    // "shortname": ":mountain_cableway:",
     "code_decimal": "&#128672;",
     "category": "t",
     "emoji_order": "1657"
@@ -4619,7 +4619,7 @@ let emojiList = [
   {
     "name": "aerial_tramway",
     "unicode": "1f6a1",
-    "shortname": ":aerial_tramway:",
+    // "shortname": ":aerial_tramway:",
     "code_decimal": "&#128673;",
     "category": "t",
     "emoji_order": "1658"
@@ -4627,7 +4627,7 @@ let emojiList = [
   {
     "name": "rocket",
     "unicode": "1f680",
-    "shortname": ":rocket:",
+    // "shortname": ":rocket:",
     "code_decimal": "&#128640;",
     "category": "t",
     "emoji_order": "1659"
@@ -4635,7 +4635,7 @@ let emojiList = [
   {
     "name": "satellite",
     "unicode": "1f6f0",
-    "shortname": ":satellite_orbital:",
+    // "shortname": ":satellite_orbital:",
     "code_decimal": "&#128752;",
     "category": "t",
     "emoji_order": "1660"
@@ -4643,7 +4643,7 @@ let emojiList = [
   {
     "name": "bellhop_bell",
     "unicode": "1f6ce",
-    "shortname": ":bellhop:",
+    // "shortname": ":bellhop:",
     "code_decimal": "&#128718;",
     "category": "o",
     "emoji_order": "1661"
@@ -4651,7 +4651,7 @@ let emojiList = [
   {
     "name": "door",
     "unicode": "1f6aa",
-    "shortname": ":door:",
+    // "shortname": ":door:",
     "code_decimal": "&#128682;",
     "category": "o",
     "emoji_order": "1662"
@@ -4659,7 +4659,7 @@ let emojiList = [
   {
     "name": "sleeping_accommodation",
     "unicode": "1f6cc",
-    "shortname": ":sleeping_accommodation:",
+    // "shortname": ":sleeping_accommodation:",
     "code_decimal": "&#128716;",
     "category": "o",
     "emoji_order": "1663"
@@ -4667,7 +4667,7 @@ let emojiList = [
   {
     "name": "bed",
     "unicode": "1f6cf",
-    "shortname": ":bed:",
+    // "shortname": ":bed:",
     "code_decimal": "&#128719;",
     "category": "o",
     "emoji_order": "1669"
@@ -4675,7 +4675,7 @@ let emojiList = [
   {
     "name": "couch_and_lamp",
     "unicode": "1f6cb",
-    "shortname": ":couch:",
+    // "shortname": ":couch:",
     "code_decimal": "&#128715;",
     "category": "o",
     "emoji_order": "1670"
@@ -4683,7 +4683,7 @@ let emojiList = [
   {
     "name": "toilet",
     "unicode": "1f6bd",
-    "shortname": ":toilet:",
+    // "shortname": ":toilet:",
     "code_decimal": "&#128701;",
     "category": "o",
     "emoji_order": "1671"
@@ -4691,7 +4691,7 @@ let emojiList = [
   {
     "name": "shower",
     "unicode": "1f6bf",
-    "shortname": ":shower:",
+    // "shortname": ":shower:",
     "code_decimal": "&#128703;",
     "category": "o",
     "emoji_order": "1672"
@@ -4699,7 +4699,7 @@ let emojiList = [
   {
     "name": "bath",
     "unicode": "1f6c0",
-    "shortname": ":bath:",
+    // "shortname": ":bath:",
     "code_decimal": "&#128704;",
     "category": "a",
     "emoji_order": "1673"
@@ -4707,7 +4707,7 @@ let emojiList = [
   {
     "name": "bathtub",
     "unicode": "1f6c1",
-    "shortname": ":bathtub:",
+    // "shortname": ":bathtub:",
     "code_decimal": "&#128705;",
     "category": "o",
     "emoji_order": "1679"
@@ -4715,7 +4715,7 @@ let emojiList = [
   {
     "name": "hourglass",
     "unicode": "231b",
-    "shortname": ":hourglass:",
+    // "shortname": ":hourglass:",
     "code_decimal": "&#8987;",
     "category": "o",
     "emoji_order": "1680"
@@ -4723,7 +4723,7 @@ let emojiList = [
   {
     "name": "hourglass_flowing_sand",
     "unicode": "23f3",
-    "shortname": ":hourglass_flowing_sand:",
+    // "shortname": ":hourglass_flowing_sand:",
     "code_decimal": "&#9203;",
     "category": "o",
     "emoji_order": "1681"
@@ -4731,7 +4731,7 @@ let emojiList = [
   {
     "name": "watch",
     "unicode": "231a",
-    "shortname": ":watch:",
+    // "shortname": ":watch:",
     "code_decimal": "&#8986;",
     "category": "o",
     "emoji_order": "1682"
@@ -4739,7 +4739,7 @@ let emojiList = [
   {
     "name": "alarm_clock",
     "unicode": "23f0",
-    "shortname": ":alarm_clock:",
+    // "shortname": ":alarm_clock:",
     "code_decimal": "&#9200;",
     "category": "o",
     "emoji_order": "1683"
@@ -4747,7 +4747,7 @@ let emojiList = [
   {
     "name": "stopwatch",
     "unicode": "23f1",
-    "shortname": ":stopwatch:",
+    // "shortname": ":stopwatch:",
     "code_decimal": "&#9201;",
     "category": "o",
     "emoji_order": "1684"
@@ -4755,7 +4755,7 @@ let emojiList = [
   {
     "name": "timer_clock",
     "unicode": "23f2",
-    "shortname": ":timer:",
+    // "shortname": ":timer:",
     "code_decimal": "&#9202;",
     "category": "o",
     "emoji_order": "1685"
@@ -4763,7 +4763,7 @@ let emojiList = [
   {
     "name": "mantelpiece_clock",
     "unicode": "1f570",
-    "shortname": ":clock:",
+    // "shortname": ":clock:",
     "code_decimal": "&#128368;",
     "category": "o",
     "emoji_order": "1686"
@@ -4771,7 +4771,7 @@ let emojiList = [
   {
     "name": "clock12",
     "unicode": "1f55b",
-    "shortname": ":clock12:",
+    // "shortname": ":clock12:",
     "code_decimal": "&#128347;",
     "category": "s",
     "emoji_order": "1687"
@@ -4779,7 +4779,7 @@ let emojiList = [
   {
     "name": "clock1230",
     "unicode": "1f567",
-    "shortname": ":clock1230:",
+    // "shortname": ":clock1230:",
     "code_decimal": "&#128359;",
     "category": "s",
     "emoji_order": "1688"
@@ -4787,7 +4787,7 @@ let emojiList = [
   {
     "name": "clock1",
     "unicode": "1f550",
-    "shortname": ":clock1:",
+    // "shortname": ":clock1:",
     "code_decimal": "&#128336;",
     "category": "s",
     "emoji_order": "1689"
@@ -4795,7 +4795,7 @@ let emojiList = [
   {
     "name": "clock130",
     "unicode": "1f55c",
-    "shortname": ":clock130:",
+    // "shortname": ":clock130:",
     "code_decimal": "&#128348;",
     "category": "s",
     "emoji_order": "1690"
@@ -4803,7 +4803,7 @@ let emojiList = [
   {
     "name": "clock2",
     "unicode": "1f551",
-    "shortname": ":clock2:",
+    // "shortname": ":clock2:",
     "code_decimal": "&#128337;",
     "category": "s",
     "emoji_order": "1691"
@@ -4811,7 +4811,7 @@ let emojiList = [
   {
     "name": "clock230",
     "unicode": "1f55d",
-    "shortname": ":clock230:",
+    // "shortname": ":clock230:",
     "code_decimal": "&#128349;",
     "category": "s",
     "emoji_order": "1692"
@@ -4819,7 +4819,7 @@ let emojiList = [
   {
     "name": "clock3",
     "unicode": "1f552",
-    "shortname": ":clock3:",
+    // "shortname": ":clock3:",
     "code_decimal": "&#128338;",
     "category": "s",
     "emoji_order": "1693"
@@ -4827,7 +4827,7 @@ let emojiList = [
   {
     "name": "clock330",
     "unicode": "1f55e",
-    "shortname": ":clock330:",
+    // "shortname": ":clock330:",
     "code_decimal": "&#128350;",
     "category": "s",
     "emoji_order": "1694"
@@ -4835,7 +4835,7 @@ let emojiList = [
   {
     "name": "clock4",
     "unicode": "1f553",
-    "shortname": ":clock4:",
+    // "shortname": ":clock4:",
     "code_decimal": "&#128339;",
     "category": "s",
     "emoji_order": "1695"
@@ -4843,7 +4843,7 @@ let emojiList = [
   {
     "name": "clock430",
     "unicode": "1f55f",
-    "shortname": ":clock430:",
+    // "shortname": ":clock430:",
     "code_decimal": "&#128351;",
     "category": "s",
     "emoji_order": "1696"
@@ -4851,7 +4851,7 @@ let emojiList = [
   {
     "name": "clock5",
     "unicode": "1f554",
-    "shortname": ":clock5:",
+    // "shortname": ":clock5:",
     "code_decimal": "&#128340;",
     "category": "s",
     "emoji_order": "1697"
@@ -4859,7 +4859,7 @@ let emojiList = [
   {
     "name": "clock530",
     "unicode": "1f560",
-    "shortname": ":clock530:",
+    // "shortname": ":clock530:",
     "code_decimal": "&#128352;",
     "category": "s",
     "emoji_order": "1698"
@@ -4867,7 +4867,7 @@ let emojiList = [
   {
     "name": "clock6",
     "unicode": "1f555",
-    "shortname": ":clock6:",
+    // "shortname": ":clock6:",
     "code_decimal": "&#128341;",
     "category": "s",
     "emoji_order": "1699"
@@ -4875,7 +4875,7 @@ let emojiList = [
   {
     "name": "clock630",
     "unicode": "1f561",
-    "shortname": ":clock630:",
+    // "shortname": ":clock630:",
     "code_decimal": "&#128353;",
     "category": "s",
     "emoji_order": "1700"
@@ -4883,7 +4883,7 @@ let emojiList = [
   {
     "name": "clock7",
     "unicode": "1f556",
-    "shortname": ":clock7:",
+    // "shortname": ":clock7:",
     "code_decimal": "&#128342;",
     "category": "s",
     "emoji_order": "1701"
@@ -4891,7 +4891,7 @@ let emojiList = [
   {
     "name": "clock730",
     "unicode": "1f562",
-    "shortname": ":clock730:",
+    // "shortname": ":clock730:",
     "code_decimal": "&#128354;",
     "category": "s",
     "emoji_order": "1702"
@@ -4899,7 +4899,7 @@ let emojiList = [
   {
     "name": "clock8",
     "unicode": "1f557",
-    "shortname": ":clock8:",
+    // "shortname": ":clock8:",
     "code_decimal": "&#128343;",
     "category": "s",
     "emoji_order": "1703"
@@ -4907,7 +4907,7 @@ let emojiList = [
   {
     "name": "clock830",
     "unicode": "1f563",
-    "shortname": ":clock830:",
+    // "shortname": ":clock830:",
     "code_decimal": "&#128355;",
     "category": "s",
     "emoji_order": "1704"
@@ -4915,7 +4915,7 @@ let emojiList = [
   {
     "name": "clock9",
     "unicode": "1f558",
-    "shortname": ":clock9:",
+    // "shortname": ":clock9:",
     "code_decimal": "&#128344;",
     "category": "s",
     "emoji_order": "1705"
@@ -4923,7 +4923,7 @@ let emojiList = [
   {
     "name": "clock930",
     "unicode": "1f564",
-    "shortname": ":clock930:",
+    // "shortname": ":clock930:",
     "code_decimal": "&#128356;",
     "category": "s",
     "emoji_order": "1706"
@@ -4931,7 +4931,7 @@ let emojiList = [
   {
     "name": "clock10",
     "unicode": "1f559",
-    "shortname": ":clock10:",
+    // "shortname": ":clock10:",
     "code_decimal": "&#128345;",
     "category": "s",
     "emoji_order": "1707"
@@ -4939,7 +4939,7 @@ let emojiList = [
   {
     "name": "clock1030",
     "unicode": "1f565",
-    "shortname": ":clock1030:",
+    // "shortname": ":clock1030:",
     "code_decimal": "&#128357;",
     "category": "s",
     "emoji_order": "1708"
@@ -4947,7 +4947,7 @@ let emojiList = [
   {
     "name": "clock11",
     "unicode": "1f55a",
-    "shortname": ":clock11:",
+    // "shortname": ":clock11:",
     "code_decimal": "&#128346;",
     "category": "s",
     "emoji_order": "1709"
@@ -4955,7 +4955,7 @@ let emojiList = [
   {
     "name": "clock1130",
     "unicode": "1f566",
-    "shortname": ":clock1130:",
+    // "shortname": ":clock1130:",
     "code_decimal": "&#128358;",
     "category": "s",
     "emoji_order": "1710"
@@ -4963,7 +4963,7 @@ let emojiList = [
   {
     "name": "new_moon",
     "unicode": "1f311",
-    "shortname": ":new_moon:",
+    // "shortname": ":new_moon:",
     "code_decimal": "&#127761;",
     "category": "n",
     "emoji_order": "1711"
@@ -4971,7 +4971,7 @@ let emojiList = [
   {
     "name": "waxing_crescent_moon",
     "unicode": "1f312",
-    "shortname": ":waxing_crescent_moon:",
+    // "shortname": ":waxing_crescent_moon:",
     "code_decimal": "&#127762;",
     "category": "n",
     "emoji_order": "1712"
@@ -4979,7 +4979,7 @@ let emojiList = [
   {
     "name": "first_quarter_moon",
     "unicode": "1f313",
-    "shortname": ":first_quarter_moon:",
+    // "shortname": ":first_quarter_moon:",
     "code_decimal": "&#127763;",
     "category": "n",
     "emoji_order": "1713"
@@ -4987,7 +4987,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "waxing_gibbous_moon",
     "unicode": "1f314",
-    "shortname": ":waxing_gibbous_moon:",
+    // "shortname": ":waxing_gibbous_moon:",
     "code_decimal": "&#127764;",
     "category": "n",
     "emoji_order": "1714"
@@ -4995,7 +4995,7 @@ let emojiList = [
   {
     "name": "full_moon",
     "unicode": "1f315",
-    "shortname": ":full_moon:",
+    // "shortname": ":full_moon:",
     "code_decimal": "&#127765;",
     "category": "n",
     "emoji_order": "1715"
@@ -5003,7 +5003,7 @@ let emojiList = [
   {
     "name": "waning_gibbous_moon",
     "unicode": "1f316",
-    "shortname": ":waning_gibbous_moon:",
+    // "shortname": ":waning_gibbous_moon:",
     "code_decimal": "&#127766;",
     "category": "n",
     "emoji_order": "1716"
@@ -5011,7 +5011,7 @@ let emojiList = [
   {
     "name": "last_quarter_moon",
     "unicode": "1f317",
-    "shortname": ":last_quarter_moon:",
+    // "shortname": ":last_quarter_moon:",
     "code_decimal": "&#127767;",
     "category": "n",
     "emoji_order": "1717"
@@ -5019,7 +5019,7 @@ let emojiList = [
   {
     "name": "waning_crescent_moon",
     "unicode": "1f318",
-    "shortname": ":waning_crescent_moon:",
+    // "shortname": ":waning_crescent_moon:",
     "code_decimal": "&#127768;",
     "category": "n",
     "emoji_order": "1718"
@@ -5027,7 +5027,7 @@ let emojiList = [
   {
     "name": "crescent_moon",
     "unicode": "1f319",
-    "shortname": ":crescent_moon:",
+    // "shortname": ":crescent_moon:",
     "code_decimal": "&#127769;",
     "category": "n",
     "emoji_order": "1719"
@@ -5035,7 +5035,7 @@ let emojiList = [
   {
     "name": "new_moon_with_face",
     "unicode": "1f31a",
-    "shortname": ":new_moon_with_face:",
+    // "shortname": ":new_moon_with_face:",
     "code_decimal": "&#127770;",
     "category": "n",
     "emoji_order": "1720"
@@ -5043,7 +5043,7 @@ let emojiList = [
   {
     "name": "first_quarter_moon_with_face",
     "unicode": "1f31b",
-    "shortname": ":first_quarter_moon_with_face:",
+    // "shortname": ":first_quarter_moon_with_face:",
     "code_decimal": "&#127771;",
     "category": "n",
     "emoji_order": "1721"
@@ -5051,7 +5051,7 @@ let emojiList = [
   {
     "name": "last_quarter_moon_with_face",
     "unicode": "1f31c",
-    "shortname": ":last_quarter_moon_with_face:",
+    // "shortname": ":last_quarter_moon_with_face:",
     "code_decimal": "&#127772;",
     "category": "n",
     "emoji_order": "1722"
@@ -5059,7 +5059,7 @@ let emojiList = [
   {
     "name": "thermometer",
     "unicode": "1f321",
-    "shortname": ":thermometer:",
+    // "shortname": ":thermometer:",
     "code_decimal": "&#127777;",
     "category": "o",
     "emoji_order": "1723"
@@ -5067,7 +5067,7 @@ let emojiList = [
   {
     "name": "sunny",
     "unicode": "2600",
-    "shortname": ":sunny:",
+    // "shortname": ":sunny:",
     "code_decimal": "&#9728;",
     "category": "n",
     "emoji_order": "1724"
@@ -5075,7 +5075,7 @@ let emojiList = [
   {
     "name": "full_moon_with_face",
     "unicode": "1f31d",
-    "shortname": ":full_moon_with_face:",
+    // "shortname": ":full_moon_with_face:",
     "code_decimal": "&#127773;",
     "category": "n",
     "emoji_order": "1725"
@@ -5083,7 +5083,7 @@ let emojiList = [
   {
     "name": "sun_with_face",
     "unicode": "1f31e",
-    "shortname": ":sun_with_face:",
+    // "shortname": ":sun_with_face:",
     "code_decimal": "&#127774;",
     "category": "n",
     "emoji_order": "1726"
@@ -5091,7 +5091,7 @@ let emojiList = [
   {
     "name": "star",
     "unicode": "2b50",
-    "shortname": ":star:",
+    // "shortname": ":star:",
     "code_decimal": "&#11088;",
     "category": "n",
     "emoji_order": "1727"
@@ -5099,7 +5099,7 @@ let emojiList = [
   {
     "name": "star2",
     "unicode": "1f31f",
-    "shortname": ":star2:",
+    // "shortname": ":star2:",
     "code_decimal": "&#127775;",
     "category": "n",
     "emoji_order": "1728"
@@ -5107,7 +5107,7 @@ let emojiList = [
   {
     "name": "stars",
     "unicode": "1f320",
-    "shortname": ":stars:",
+    // "shortname": ":stars:",
     "code_decimal": "&#127776;",
     "category": "t",
     "emoji_order": "1729"
@@ -5115,7 +5115,7 @@ let emojiList = [
   {
     "name": "cloud",
     "unicode": "2601",
-    "shortname": ":cloud:",
+    // "shortname": ":cloud:",
     "code_decimal": "&#9729;",
     "category": "n",
     "emoji_order": "1730"
@@ -5123,7 +5123,7 @@ let emojiList = [
   {
     "name": "partly_sunny",
     "unicode": "26c5",
-    "shortname": ":partly_sunny:",
+    // "shortname": ":partly_sunny:",
     "code_decimal": "&#9925;",
     "category": "n",
     "emoji_order": "1731"
@@ -5131,7 +5131,7 @@ let emojiList = [
   {
     "name": "thunder_cloud_and_rain",
     "unicode": "26c8",
-    "shortname": ":thunder_cloud_rain:",
+    // "shortname": ":thunder_cloud_rain:",
     "code_decimal": "&#9928;",
     "category": "n",
     "emoji_order": "1732"
@@ -5139,7 +5139,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "white_sun_small_cloud",
     "unicode": "1f324",
-    "shortname": ":white_sun_small_cloud:",
+    // "shortname": ":white_sun_small_cloud:",
     "code_decimal": "&#127780;",
     "category": "n",
     "emoji_order": "1733"
@@ -5147,7 +5147,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "white_sun_cloud",
     "unicode": "1f325",
-    "shortname": ":white_sun_cloud:",
+    // "shortname": ":white_sun_cloud:",
     "code_decimal": "&#127781;",
     "category": "n",
     "emoji_order": "1734"
@@ -5155,7 +5155,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "white_sun_rain_cloud",
     "unicode": "1f326",
-    "shortname": ":white_sun_rain_cloud:",
+    // "shortname": ":white_sun_rain_cloud:",
     "code_decimal": "&#127782;",
     "category": "n",
     "emoji_order": "1735"
@@ -5163,7 +5163,7 @@ let emojiList = [
   {
     "name": "rain_cloud",
     "unicode": "1f327",
-    "shortname": ":cloud_rain:",
+    // "shortname": ":cloud_rain:",
     "code_decimal": "&#127783;",
     "category": "n",
     "emoji_order": "1736"
@@ -5171,7 +5171,7 @@ let emojiList = [
   {
     "name": "snow_cloud",
     "unicode": "1f328",
-    "shortname": ":cloud_snow:",
+    // "shortname": ":cloud_snow:",
     "code_decimal": "&#127784;",
     "category": "n",
     "emoji_order": "1737"
@@ -5179,7 +5179,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "cloud_lightning",
     "unicode": "1f329",
-    "shortname": ":cloud_lightning:",
+    // "shortname": ":cloud_lightning:",
     "code_decimal": "&#127785;",
     "category": "n",
     "emoji_order": "1738"
@@ -5187,7 +5187,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "cloud_tornado",
     "unicode": "1f32a",
-    "shortname": ":cloud_tornado:",
+    // "shortname": ":cloud_tornado:",
     "code_decimal": "&#127786;",
     "category": "n",
     "emoji_order": "1739"
@@ -5195,7 +5195,7 @@ let emojiList = [
   {
     "name": "fog",
     "unicode": "1f32b",
-    "shortname": ":fog:",
+    // "shortname": ":fog:",
     "code_decimal": "&#127787;",
     "category": "n",
     "emoji_order": "1740"
@@ -5203,7 +5203,7 @@ let emojiList = [
   {
     "name": "wind_blowing_face",
     "unicode": "1f32c",
-    "shortname": ":wind_blowing_face:",
+    // "shortname": ":wind_blowing_face:",
     "code_decimal": "&#127788;",
     "category": "n",
     "emoji_order": "1741"
@@ -5211,7 +5211,7 @@ let emojiList = [
   {
     "name": "cyclone",
     "unicode": "1f300",
-    "shortname": ":cyclone:",
+    // "shortname": ":cyclone:",
     "code_decimal": "&#127744;",
     "category": "s",
     "emoji_order": "1742"
@@ -5219,7 +5219,7 @@ let emojiList = [
   {
     "name": "rainbow",
     "unicode": "1f308",
-    "shortname": ":rainbow:",
+    // "shortname": ":rainbow:",
     "code_decimal": "&#127752;",
     "category": "t",
     "emoji_order": "1743"
@@ -5227,7 +5227,7 @@ let emojiList = [
   {
     "name": "closed_umbrella",
     "unicode": "1f302",
-    "shortname": ":closed_umbrella:",
+    // "shortname": ":closed_umbrella:",
     "code_decimal": "&#127746;",
     "category": "p",
     "emoji_order": "1744"
@@ -5235,7 +5235,7 @@ let emojiList = [
   {
     "name": "umbrella",
     "unicode": "2602",
-    "shortname": ":umbrella2:",
+    // "shortname": ":umbrella2:",
     "code_decimal": "&#9730;",
     "category": "n",
     "emoji_order": "1745"
@@ -5243,7 +5243,7 @@ let emojiList = [
   {
     "name": "umbrella_with_rain_drops",
     "unicode": "2614",
-    "shortname": ":umbrella:",
+    // "shortname": ":umbrella:",
     "code_decimal": "&#9748;",
     "category": "n",
     "emoji_order": "1746"
@@ -5251,7 +5251,7 @@ let emojiList = [
   {
     "name": "beach_umbrella",
     "unicode": "26f1",
-    "shortname": ":beach_umbrella:",
+    // "shortname": ":beach_umbrella:",
     "code_decimal": "&#9969;",
     "category": "o",
     "emoji_order": "1747"
@@ -5259,7 +5259,7 @@ let emojiList = [
   {
     "name": "zap",
     "unicode": "26a1",
-    "shortname": ":zap:",
+    // "shortname": ":zap:",
     "code_decimal": "&#9889;",
     "category": "n",
     "emoji_order": "1748"
@@ -5267,7 +5267,7 @@ let emojiList = [
   {
     "name": "snowflake",
     "unicode": "2744",
-    "shortname": ":snowflake:",
+    // "shortname": ":snowflake:",
     "code_decimal": "&#10052;",
     "category": "n",
     "emoji_order": "1749"
@@ -5275,7 +5275,7 @@ let emojiList = [
   {
     "name": "snowman",
     "unicode": "2603",
-    "shortname": ":snowman2:",
+    // "shortname": ":snowman2:",
     "code_decimal": "&#9731;",
     "category": "n",
     "emoji_order": "1750"
@@ -5283,7 +5283,7 @@ let emojiList = [
   {
     "name": "snowman_without_snow",
     "unicode": "26c4",
-    "shortname": ":snowman:",
+    // "shortname": ":snowman:",
     "code_decimal": "&#9924;",
     "category": "n",
     "emoji_order": "1751"
@@ -5291,7 +5291,7 @@ let emojiList = [
   {
     "name": "comet",
     "unicode": "2604",
-    "shortname": ":comet:",
+    // "shortname": ":comet:",
     "code_decimal": "&#9732;",
     "category": "n",
     "emoji_order": "1752"
@@ -5299,7 +5299,7 @@ let emojiList = [
   {
     "name": "fire",
     "unicode": "1f525",
-    "shortname": ":fire:",
+    // "shortname": ":fire:",
     "code_decimal": "&#128293;",
     "category": "n",
     "emoji_order": "1753"
@@ -5307,7 +5307,7 @@ let emojiList = [
   {
     "name": "droplet",
     "unicode": "1f4a7",
-    "shortname": ":droplet:",
+    // "shortname": ":droplet:",
     "code_decimal": "&#128167;",
     "category": "n",
     "emoji_order": "1754"
@@ -5315,7 +5315,7 @@ let emojiList = [
   {
     "name": "ocean",
     "unicode": "1f30a",
-    "shortname": ":ocean:",
+    // "shortname": ":ocean:",
     "code_decimal": "&#127754;",
     "category": "n",
     "emoji_order": "1755"
@@ -5323,7 +5323,7 @@ let emojiList = [
   {
     "name": "jack_o_lantern",
     "unicode": "1f383",
-    "shortname": ":jack_o_lantern:",
+    // "shortname": ":jack_o_lantern:",
     "code_decimal": "&#127875;",
     "category": "n",
     "emoji_order": "1756"
@@ -5331,7 +5331,7 @@ let emojiList = [
   {
     "name": "christmas_tree",
     "unicode": "1f384",
-    "shortname": ":christmas_tree:",
+    // "shortname": ":christmas_tree:",
     "code_decimal": "&#127876;",
     "category": "n",
     "emoji_order": "1757"
@@ -5339,7 +5339,7 @@ let emojiList = [
   {
     "name": "fireworks",
     "unicode": "1f386",
-    "shortname": ":fireworks:",
+    // "shortname": ":fireworks:",
     "code_decimal": "&#127878;",
     "category": "t",
     "emoji_order": "1758"
@@ -5347,7 +5347,7 @@ let emojiList = [
   {
     "name": "sparkler",
     "unicode": "1f387",
-    "shortname": ":sparkler:",
+    // "shortname": ":sparkler:",
     "code_decimal": "&#127879;",
     "category": "t",
     "emoji_order": "1759"
@@ -5355,7 +5355,7 @@ let emojiList = [
   {
     "name": "sparkles",
     "unicode": "2728",
-    "shortname": ":sparkles:",
+    // "shortname": ":sparkles:",
     "code_decimal": "&#10024;",
     "category": "n",
     "emoji_order": "1760"
@@ -5363,7 +5363,7 @@ let emojiList = [
   {
     "name": "balloon",
     "unicode": "1f388",
-    "shortname": ":balloon:",
+    // "shortname": ":balloon:",
     "code_decimal": "&#127880;",
     "category": "o",
     "emoji_order": "1761"
@@ -5371,7 +5371,7 @@ let emojiList = [
   {
     "name": "tada",
     "unicode": "1f389",
-    "shortname": ":tada:",
+    // "shortname": ":tada:",
     "code_decimal": "&#127881;",
     "category": "o",
     "emoji_order": "1762"
@@ -5379,7 +5379,7 @@ let emojiList = [
   {
     "name": "confetti_ball",
     "unicode": "1f38a",
-    "shortname": ":confetti_ball:",
+    // "shortname": ":confetti_ball:",
     "code_decimal": "&#127882;",
     "category": "o",
     "emoji_order": "1763"
@@ -5387,7 +5387,7 @@ let emojiList = [
   {
     "name": "tanabata_tree",
     "unicode": "1f38b",
-    "shortname": ":tanabata_tree:",
+    // "shortname": ":tanabata_tree:",
     "code_decimal": "&#127883;",
     "category": "n",
     "emoji_order": "1764"
@@ -5395,7 +5395,7 @@ let emojiList = [
   {
     "name": "bamboo",
     "unicode": "1f38d",
-    "shortname": ":bamboo:",
+    // "shortname": ":bamboo:",
     "code_decimal": "&#127885;",
     "category": "n",
     "emoji_order": "1765"
@@ -5403,7 +5403,7 @@ let emojiList = [
   {
     "name": "dolls",
     "unicode": "1f38e",
-    "shortname": ":dolls:",
+    // "shortname": ":dolls:",
     "code_decimal": "&#127886;",
     "category": "o",
     "emoji_order": "1766"
@@ -5411,7 +5411,7 @@ let emojiList = [
   {
     "name": "f",
     "unicode": "1f38f",
-    "shortname": ":flags:",
+    // "shortname": ":flags:",
     "code_decimal": "&#127887;",
     "category": "o",
     "emoji_order": "1767"
@@ -5419,7 +5419,7 @@ let emojiList = [
   {
     "name": "wind_chime",
     "unicode": "1f390",
-    "shortname": ":wind_chime:",
+    // "shortname": ":wind_chime:",
     "code_decimal": "&#127888;",
     "category": "o",
     "emoji_order": "1768"
@@ -5427,7 +5427,7 @@ let emojiList = [
   {
     "name": "rice_scene",
     "unicode": "1f391",
-    "shortname": ":rice_scene:",
+    // "shortname": ":rice_scene:",
     "code_decimal": "&#127889;",
     "category": "t",
     "emoji_order": "1769"
@@ -5435,7 +5435,7 @@ let emojiList = [
   {
     "name": "ribbon",
     "unicode": "1f380",
-    "shortname": ":ribbon:",
+    // "shortname": ":ribbon:",
     "code_decimal": "&#127872;",
     "category": "o",
     "emoji_order": "1770"
@@ -5443,7 +5443,7 @@ let emojiList = [
   {
     "name": "gift",
     "unicode": "1f381",
-    "shortname": ":gift:",
+    // "shortname": ":gift:",
     "code_decimal": "&#127873;",
     "category": "o",
     "emoji_order": "1771"
@@ -5451,7 +5451,7 @@ let emojiList = [
   {
     "name": "reminder_ribbon",
     "unicode": "1f397",
-    "shortname": ":reminder_ribbon:",
+    // "shortname": ":reminder_ribbon:",
     "code_decimal": "&#127895;",
     "category": "a",
     "emoji_order": "1772"
@@ -5459,7 +5459,7 @@ let emojiList = [
   {
     "name": "admission_tickets",
     "unicode": "1f39f",
-    "shortname": ":tickets:",
+    // "shortname": ":tickets:",
     "code_decimal": "&#127903;",
     "category": "a",
     "emoji_order": "1773"
@@ -5467,7 +5467,7 @@ let emojiList = [
   {
     "name": "ticket",
     "unicode": "1f3ab",
-    "shortname": ":ticket:",
+    // "shortname": ":ticket:",
     "code_decimal": "&#127915;",
     "category": "a",
     "emoji_order": "1774"
@@ -5475,7 +5475,7 @@ let emojiList = [
   {
     "name": "medal",
     "unicode": "1f396",
-    "shortname": ":military_medal:",
+    // "shortname": ":military_medal:",
     "code_decimal": "&#127894;",
     "category": "a",
     "emoji_order": "1775"
@@ -5483,7 +5483,7 @@ let emojiList = [
   {
     "name": "trophy",
     "unicode": "1f3c6",
-    "shortname": ":trophy:",
+    // "shortname": ":trophy:",
     "code_decimal": "&#127942;",
     "category": "a",
     "emoji_order": "1776"
@@ -5491,7 +5491,7 @@ let emojiList = [
   {
     "name": "sports_medal",
     "unicode": "1f3c5",
-    "shortname": ":medal:",
+    // "shortname": ":medal:",
     "code_decimal": "&#127941;",
     "category": "a",
     "emoji_order": "1777"
@@ -5499,7 +5499,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "first_place",
     "unicode": "1f947",
-    "shortname": ":first_place:",
+    // "shortname": ":first_place:",
     "code_decimal": "&#129351;",
     "category": "a",
     "emoji_order": "1778"
@@ -5507,7 +5507,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "second_place",
     "unicode": "1f948",
-    "shortname": ":second_place:",
+    // "shortname": ":second_place:",
     "code_decimal": "&#129352;",
     "category": "a",
     "emoji_order": "1779"
@@ -5515,7 +5515,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "third_place",
     "unicode": "1f949",
-    "shortname": ":third_place:",
+    // "shortname": ":third_place:",
     "code_decimal": "&#129353;",
     "category": "a",
     "emoji_order": "1780"
@@ -5523,7 +5523,7 @@ let emojiList = [
   {
     "name": "soccer",
     "unicode": "26bd",
-    "shortname": ":soccer:",
+    // "shortname": ":soccer:",
     "code_decimal": "&#9917;",
     "category": "a",
     "emoji_order": "1781"
@@ -5531,7 +5531,7 @@ let emojiList = [
   {
     "name": "baseball",
     "unicode": "26be",
-    "shortname": ":baseball:",
+    // "shortname": ":baseball:",
     "code_decimal": "&#9918;",
     "category": "a",
     "emoji_order": "1782"
@@ -5539,7 +5539,7 @@ let emojiList = [
   {
     "name": "basketball",
     "unicode": "1f3c0",
-    "shortname": ":basketball:",
+    // "shortname": ":basketball:",
     "code_decimal": "&#127936;",
     "category": "a",
     "emoji_order": "1783"
@@ -5547,7 +5547,7 @@ let emojiList = [
   {
     "name": "volleyball",
     "unicode": "1f3d0",
-    "shortname": ":volleyball:",
+    // "shortname": ":volleyball:",
     "code_decimal": "&#127952;",
     "category": "a",
     "emoji_order": "1784"
@@ -5555,7 +5555,7 @@ let emojiList = [
   {
     "name": "football",
     "unicode": "1f3c8",
-    "shortname": ":football:",
+    // "shortname": ":football:",
     "code_decimal": "&#127944;",
     "category": "a",
     "emoji_order": "1785"
@@ -5563,7 +5563,7 @@ let emojiList = [
   {
     "name": "rugby_football",
     "unicode": "1f3c9",
-    "shortname": ":rugby_football:",
+    // "shortname": ":rugby_football:",
     "code_decimal": "&#127945;",
     "category": "a",
     "emoji_order": "1786"
@@ -5571,7 +5571,7 @@ let emojiList = [
   {
     "name": "tennis",
     "unicode": "1f3be",
-    "shortname": ":tennis:",
+    // "shortname": ":tennis:",
     "code_decimal": "&#127934;",
     "category": "a",
     "emoji_order": "1787"
@@ -5579,7 +5579,7 @@ let emojiList = [
   {
     "name": "8ball",
     "unicode": "1f3b1",
-    "shortname": ":8ball:",
+    // "shortname": ":8ball:",
     "code_decimal": "&#127921;",
     "category": "a",
     "emoji_order": "1788"
@@ -5587,7 +5587,7 @@ let emojiList = [
   {
     "name": "bowling",
     "unicode": "1f3b3",
-    "shortname": ":bowling:",
+    // "shortname": ":bowling:",
     "code_decimal": "&#127923;",
     "category": "a",
     "emoji_order": "1789"
@@ -5595,7 +5595,7 @@ let emojiList = [
   {
     "name": "cricket_bat_and_ball",
     "unicode": "1f3cf",
-    "shortname": ":cricket_game:",
+    // "shortname": ":cricket_game:",
     "code_decimal": "&#127951;",
     "category": "a",
     "emoji_order": "1790"
@@ -5603,7 +5603,7 @@ let emojiList = [
   {
     "name": "field_hockey_stick_and_ball",
     "unicode": "1f3d1",
-    "shortname": ":field_hockey:",
+    // "shortname": ":field_hockey:",
     "code_decimal": "&#127953;",
     "category": "a",
     "emoji_order": "1791"
@@ -5611,7 +5611,7 @@ let emojiList = [
   {
     "name": "ice_hockey_stick_and_puck",
     "unicode": "1f3d2",
-    "shortname": ":hockey:",
+    // "shortname": ":hockey:",
     "code_decimal": "&#127954;",
     "category": "a",
     "emoji_order": "1792"
@@ -5619,7 +5619,7 @@ let emojiList = [
   {
     "name": "table_tennis_paddle_and_ball",
     "unicode": "1f3d3",
-    "shortname": ":ping_pong:",
+    // "shortname": ":ping_pong:",
     "code_decimal": "&#127955;",
     "category": "a",
     "emoji_order": "1793"
@@ -5627,7 +5627,7 @@ let emojiList = [
   {
     "name": "badminton_racquet_and_shuttlecock",
     "unicode": "1f3f8",
-    "shortname": ":badminton:",
+    // "shortname": ":badminton:",
     "code_decimal": "&#127992;",
     "category": "a",
     "emoji_order": "1794"
@@ -5635,7 +5635,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "boxing_glove",
     "unicode": "1f94a",
-    "shortname": ":boxing_glove:",
+    // "shortname": ":boxing_glove:",
     "code_decimal": "&#129354;",
     "category": "a",
     "emoji_order": "1795"
@@ -5643,7 +5643,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "martial_arts_uniform",
     "unicode": "1f94b",
-    "shortname": ":martial_arts_uniform:",
+    // "shortname": ":martial_arts_uniform:",
     "code_decimal": "&#129355;",
     "category": "a",
     "emoji_order": "1796"
@@ -5651,7 +5651,7 @@ let emojiList = [
   /*{ @todo not found on image
     "name": "goal",
     "unicode": "1f945",
-    "shortname": ":goal:",
+    // "shortname": ":goal:",
     "code_decimal": "&#129349;",
     "category": "a",
     "emoji_order": "1797"
@@ -5659,7 +5659,7 @@ let emojiList = [
   {
     "name": "dart",
     "unicode": "1f3af",
-    "shortname": ":dart:",
+    // "shortname": ":dart:",
     "code_decimal": "&#127919;",
     "category": "a",
     "emoji_order": "1798"
@@ -5667,7 +5667,7 @@ let emojiList = [
   {
     "name": "golf",
     "unicode": "26f3",
-    "shortname": ":golf:",
+    // "shortname": ":golf:",
     "code_decimal": "&#9971;",
     "category": "a",
     "emoji_order": "1799"
@@ -5675,7 +5675,7 @@ let emojiList = [
   {
     "name": "ice_skate",
     "unicode": "26f8",
-    "shortname": ":ice_skate:",
+    // "shortname": ":ice_skate:",
     "code_decimal": "&#9976;",
     "category": "a",
     "emoji_order": "1800"
@@ -5683,7 +5683,7 @@ let emojiList = [
   {
     "name": "fishing_pole_and_fish",
     "unicode": "1f3a3",
-    "shortname": ":fishing_pole_and_fish:",
+    // "shortname": ":fishing_pole_and_fish:",
     "code_decimal": "&#127907;",
     "category": "a",
     "emoji_order": "1801"
@@ -5691,7 +5691,7 @@ let emojiList = [
   {
     "name": "running_shirt_with_sash",
     "unicode": "1f3bd",
-    "shortname": ":running_shirt_with_sash:",
+    // "shortname": ":running_shirt_with_sash:",
     "code_decimal": "&#127933;",
     "category": "a",
     "emoji_order": "1802"
@@ -5699,7 +5699,7 @@ let emojiList = [
   {
     "name": "ski",
     "unicode": "1f3bf",
-    "shortname": ":ski:",
+    // "shortname": ":ski:",
     "code_decimal": "&#127935;",
     "category": "a",
     "emoji_order": "1803"
@@ -5707,7 +5707,7 @@ let emojiList = [
   {
     "name": "video_game",
     "unicode": "1f3ae",
-    "shortname": ":video_game:",
+    // "shortname": ":video_game:",
     "code_decimal": "&#127918;",
     "category": "a",
     "emoji_order": "1804"
@@ -5715,7 +5715,7 @@ let emojiList = [
   {
     "name": "joystick",
     "unicode": "1f579",
-    "shortname": ":joystick:",
+    // "shortname": ":joystick:",
     "code_decimal": "&#128377;",
     "category": "o",
     "emoji_order": "1805"
@@ -5723,7 +5723,7 @@ let emojiList = [
   {
     "name": "game_die",
     "unicode": "1f3b2",
-    "shortname": ":game_die:",
+    // "shortname": ":game_die:",
     "code_decimal": "&#127922;",
     "category": "a",
     "emoji_order": "1806"
@@ -5731,7 +5731,7 @@ let emojiList = [
   {
     "name": "spades",
     "unicode": "2660",
-    "shortname": ":spades:",
+    // "shortname": ":spades:",
     "code_decimal": "&spades;",
     "category": "s",
     "emoji_order": "1807"
@@ -5739,7 +5739,7 @@ let emojiList = [
   {
     "name": "hearts",
     "unicode": "2665",
-    "shortname": ":hearts:",
+    // "shortname": ":hearts:",
     "code_decimal": "&hearts;",
     "category": "s",
     "emoji_order": "1808"
@@ -5747,7 +5747,7 @@ let emojiList = [
   {
     "name": "diamonds",
     "unicode": "2666",
-    "shortname": ":diamonds:",
+    // "shortname": ":diamonds:",
     "code_decimal": "&diams;",
     "category": "s",
     "emoji_order": "1809"
@@ -5755,7 +5755,7 @@ let emojiList = [
   {
     "name": "clubs",
     "unicode": "2663",
-    "shortname": ":clubs:",
+    // "shortname": ":clubs:",
     "code_decimal": "&clubs;",
     "category": "s",
     "emoji_order": "1810"
@@ -5763,7 +5763,7 @@ let emojiList = [
   {
     "name": "black_joker",
     "unicode": "1f0cf",
-    "shortname": ":black_joker:",
+    // "shortname": ":black_joker:",
     "code_decimal": "&#127183;",
     "category": "s",
     "emoji_order": "1811"
@@ -5771,7 +5771,7 @@ let emojiList = [
   {
     "name": "mahjong",
     "unicode": "1f004",
-    "shortname": ":mahjong:",
+    // "shortname": ":mahjong:",
     "code_decimal": "&#126980;",
     "category": "s",
     "emoji_order": "1812"
@@ -5779,7 +5779,7 @@ let emojiList = [
   {
     "name": "flower_playing_cards",
     "unicode": "1f3b4",
-    "shortname": ":flower_playing_cards:",
+    // "shortname": ":flower_playing_cards:",
     "code_decimal": "&#127924;",
     "category": "s",
     "emoji_order": "1813"
@@ -5787,7 +5787,7 @@ let emojiList = [
   {
     "name": "mute",
     "unicode": "1f507",
-    "shortname": ":mute:",
+    // "shortname": ":mute:",
     "code_decimal": "&#128263;",
     "category": "s",
     "emoji_order": "1814"
@@ -5795,7 +5795,7 @@ let emojiList = [
   {
     "name": "speaker",
     "unicode": "1f508",
-    "shortname": ":speaker:",
+    // "shortname": ":speaker:",
     "code_decimal": "&#128264;",
     "category": "s",
     "emoji_order": "1815"
@@ -5803,7 +5803,7 @@ let emojiList = [
   {
     "name": "sound",
     "unicode": "1f509",
-    "shortname": ":sound:",
+    // "shortname": ":sound:",
     "code_decimal": "&#128265;",
     "category": "s",
     "emoji_order": "1816"
@@ -5811,7 +5811,7 @@ let emojiList = [
   {
     "name": "loud_sound",
     "unicode": "1f50a",
-    "shortname": ":loud_sound:",
+    // "shortname": ":loud_sound:",
     "code_decimal": "&#128266;",
     "category": "s",
     "emoji_order": "1817"
@@ -5819,7 +5819,7 @@ let emojiList = [
   {
     "name": "loudspeaker",
     "unicode": "1f4e2",
-    "shortname": ":loudspeaker:",
+    // "shortname": ":loudspeaker:",
     "code_decimal": "&#128226;",
     "category": "s",
     "emoji_order": "1818"
@@ -5827,7 +5827,7 @@ let emojiList = [
   {
     "name": "mega",
     "unicode": "1f4e3",
-    "shortname": ":mega:",
+    // "shortname": ":mega:",
     "code_decimal": "&#128227;",
     "category": "s",
     "emoji_order": "1819"
@@ -5835,7 +5835,7 @@ let emojiList = [
   {
     "name": "postal_horn",
     "unicode": "1f4ef",
-    "shortname": ":postal_horn:",
+    // "shortname": ":postal_horn:",
     "code_decimal": "&#128239;",
     "category": "o",
     "emoji_order": "1820"
@@ -5843,7 +5843,7 @@ let emojiList = [
   {
     "name": "bell",
     "unicode": "1f514",
-    "shortname": ":bell:",
+    // "shortname": ":bell:",
     "code_decimal": "&#128276;",
     "category": "s",
     "emoji_order": "1821"
@@ -5851,7 +5851,7 @@ let emojiList = [
   {
     "name": "no_bell",
     "unicode": "1f515",
-    "shortname": ":no_bell:",
+    // "shortname": ":no_bell:",
     "code_decimal": "&#128277;",
     "category": "s",
     "emoji_order": "1822"
@@ -5859,7 +5859,7 @@ let emojiList = [
   {
     "name": "musical_score",
     "unicode": "1f3bc",
-    "shortname": ":musical_score:",
+    // "shortname": ":musical_score:",
     "code_decimal": "&#127932;",
     "category": "a",
     "emoji_order": "1823"
@@ -5867,7 +5867,7 @@ let emojiList = [
   {
     "name": "musical_note",
     "unicode": "1f3b5",
-    "shortname": ":musical_note:",
+    // "shortname": ":musical_note:",
     "code_decimal": "&#127925;",
     "category": "s",
     "emoji_order": "1824"
@@ -5875,7 +5875,7 @@ let emojiList = [
   {
     "name": "notes",
     "unicode": "1f3b6",
-    "shortname": ":notes:",
+    // "shortname": ":notes:",
     "code_decimal": "&#127926;",
     "category": "s",
     "emoji_order": "1825"
@@ -5883,7 +5883,7 @@ let emojiList = [
   {
     "name": "studio_microphone",
     "unicode": "1f399",
-    "shortname": ":microphone2:",
+    // "shortname": ":microphone2:",
     "code_decimal": "&#127897;",
     "category": "o",
     "emoji_order": "1826"
@@ -5891,7 +5891,7 @@ let emojiList = [
   {
     "name": "level_slider",
     "unicode": "1f39a",
-    "shortname": ":level_slider:",
+    // "shortname": ":level_slider:",
     "code_decimal": "&#127898;",
     "category": "o",
     "emoji_order": "1827"
@@ -5899,7 +5899,7 @@ let emojiList = [
   {
     "name": "control_knobs",
     "unicode": "1f39b",
-    "shortname": ":control_knobs:",
+    // "shortname": ":control_knobs:",
     "code_decimal": "&#127899;",
     "category": "o",
     "emoji_order": "1828"
@@ -5907,7 +5907,7 @@ let emojiList = [
   {
     "name": "microphone",
     "unicode": "1f3a4",
-    "shortname": ":microphone:",
+    // "shortname": ":microphone:",
     "code_decimal": "&#127908;",
     "category": "a",
     "emoji_order": "1829"
@@ -5915,7 +5915,7 @@ let emojiList = [
   {
     "name": "headphones",
     "unicode": "1f3a7",
-    "shortname": ":headphones:",
+    // "shortname": ":headphones:",
     "code_decimal": "&#127911;",
     "category": "a",
     "emoji_order": "1830"
@@ -5923,7 +5923,7 @@ let emojiList = [
   {
     "name": "radio",
     "unicode": "1f4fb",
-    "shortname": ":radio:",
+    // "shortname": ":radio:",
     "code_decimal": "&#128251;",
     "category": "o",
     "emoji_order": "1831"
@@ -5931,7 +5931,7 @@ let emojiList = [
   {
     "name": "saxophone",
     "unicode": "1f3b7",
-    "shortname": ":saxophone:",
+    // "shortname": ":saxophone:",
     "code_decimal": "&#127927;",
     "category": "a",
     "emoji_order": "1832"
@@ -5939,7 +5939,7 @@ let emojiList = [
   {
     "name": "guitar",
     "unicode": "1f3b8",
-    "shortname": ":guitar:",
+    // "shortname": ":guitar:",
     "code_decimal": "&#127928;",
     "category": "a",
     "emoji_order": "1833"
@@ -5947,7 +5947,7 @@ let emojiList = [
   {
     "name": "musical_keyboard",
     "unicode": "1f3b9",
-    "shortname": ":musical_keyboard:",
+    // "shortname": ":musical_keyboard:",
     "code_decimal": "&#127929;",
     "category": "a",
     "emoji_order": "1834"
@@ -5955,7 +5955,7 @@ let emojiList = [
   {
     "name": "trumpet",
     "unicode": "1f3ba",
-    "shortname": ":trumpet:",
+    // "shortname": ":trumpet:",
     "code_decimal": "&#127930;",
     "category": "a",
     "emoji_order": "1835"
@@ -5963,7 +5963,7 @@ let emojiList = [
   {
     "name": "violin",
     "unicode": "1f3bb",
-    "shortname": ":violin:",
+    // "shortname": ":violin:",
     "code_decimal": "&#127931;",
     "category": "a",
     "emoji_order": "1836"
@@ -5971,7 +5971,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "drum",
     "unicode": "1f941",
-    "shortname": ":drum:",
+    // "shortname": ":drum:",
     "code_decimal": "&#129345;",
     "category": "a",
     "emoji_order": "1837"
@@ -5979,7 +5979,7 @@ let emojiList = [
   {
     "name": "iphone",
     "unicode": "1f4f1",
-    "shortname": ":iphone:",
+    // "shortname": ":iphone:",
     "code_decimal": "&#128241;",
     "category": "o",
     "emoji_order": "1838"
@@ -5987,7 +5987,7 @@ let emojiList = [
   {
     "name": "calling",
     "unicode": "1f4f2",
-    "shortname": ":calling:",
+    // "shortname": ":calling:",
     "code_decimal": "&#128242;",
     "category": "o",
     "emoji_order": "1839"
@@ -5995,7 +5995,7 @@ let emojiList = [
   {
     "name": "telephone",
     "unicode": "260e",
-    "shortname": ":telephone:",
+    // "shortname": ":telephone:",
     "code_decimal": "&#9742;",
     "category": "o",
     "emoji_order": "1840"
@@ -6003,7 +6003,7 @@ let emojiList = [
   {
     "name": "telephone_receiver",
     "unicode": "1f4de",
-    "shortname": ":telephone_receiver:",
+    // "shortname": ":telephone_receiver:",
     "code_decimal": "&#128222;",
     "category": "o",
     "emoji_order": "1841"
@@ -6011,7 +6011,7 @@ let emojiList = [
   {
     "name": "pager",
     "unicode": "1f4df",
-    "shortname": ":pager:",
+    // "shortname": ":pager:",
     "code_decimal": "&#128223;",
     "category": "o",
     "emoji_order": "1842"
@@ -6019,7 +6019,7 @@ let emojiList = [
   {
     "name": "fax",
     "unicode": "1f4e0",
-    "shortname": ":fax:",
+    // "shortname": ":fax:",
     "code_decimal": "&#128224;",
     "category": "o",
     "emoji_order": "1843"
@@ -6027,7 +6027,7 @@ let emojiList = [
   {
     "name": "battery",
     "unicode": "1f50b",
-    "shortname": ":battery:",
+    // "shortname": ":battery:",
     "code_decimal": "&#128267;",
     "category": "o",
     "emoji_order": "1844"
@@ -6035,7 +6035,7 @@ let emojiList = [
   {
     "name": "electric_plug",
     "unicode": "1f50c",
-    "shortname": ":electric_plug:",
+    // "shortname": ":electric_plug:",
     "code_decimal": "&#128268;",
     "category": "o",
     "emoji_order": "1845"
@@ -6043,7 +6043,7 @@ let emojiList = [
   {
     "name": "computer",
     "unicode": "1f4bb",
-    "shortname": ":computer:",
+    // "shortname": ":computer:",
     "code_decimal": "&#128187;",
     "category": "o",
     "emoji_order": "1846"
@@ -6051,7 +6051,7 @@ let emojiList = [
   {
     "name": "desktop_computer",
     "unicode": "1f5a5",
-    "shortname": ":desktop:",
+    // "shortname": ":desktop:",
     "code_decimal": "&#128421;",
     "category": "o",
     "emoji_order": "1847"
@@ -6059,7 +6059,7 @@ let emojiList = [
   {
     "name": "printer",
     "unicode": "1f5a8",
-    "shortname": ":printer:",
+    // "shortname": ":printer:",
     "code_decimal": "&#128424;",
     "category": "o",
     "emoji_order": "1848"
@@ -6067,7 +6067,7 @@ let emojiList = [
   {
     "name": "keyboard",
     "unicode": "2328",
-    "shortname": ":keyboard:",
+    // "shortname": ":keyboard:",
     "code_decimal": "&#9000;",
     "category": "o",
     "emoji_order": "1849"
@@ -6075,7 +6075,7 @@ let emojiList = [
   {
     "name": "three_button_mouse",
     "unicode": "1f5b1",
-    "shortname": ":mouse_three_button:",
+    // "shortname": ":mouse_three_button:",
     "code_decimal": "&#128433;",
     "category": "o",
     "emoji_order": "1850"
@@ -6083,7 +6083,7 @@ let emojiList = [
   {
     "name": "trackball",
     "unicode": "1f5b2",
-    "shortname": ":trackball:",
+    // "shortname": ":trackball:",
     "code_decimal": "&#128434;",
     "category": "o",
     "emoji_order": "1851"
@@ -6091,7 +6091,7 @@ let emojiList = [
   {
     "name": "minidisc",
     "unicode": "1f4bd",
-    "shortname": ":minidisc:",
+    // "shortname": ":minidisc:",
     "code_decimal": "&#128189;",
     "category": "o",
     "emoji_order": "1852"
@@ -6099,7 +6099,7 @@ let emojiList = [
   {
     "name": "floppy_disk",
     "unicode": "1f4be",
-    "shortname": ":floppy_disk:",
+    // "shortname": ":floppy_disk:",
     "code_decimal": "&#128190;",
     "category": "o",
     "emoji_order": "1853"
@@ -6107,7 +6107,7 @@ let emojiList = [
   {
     "name": "cd",
     "unicode": "1f4bf",
-    "shortname": ":cd:",
+    // "shortname": ":cd:",
     "code_decimal": "&#128191;",
     "category": "o",
     "emoji_order": "1854"
@@ -6115,7 +6115,7 @@ let emojiList = [
   {
     "name": "dvd",
     "unicode": "1f4c0",
-    "shortname": ":dvd:",
+    // "shortname": ":dvd:",
     "code_decimal": "&#128192;",
     "category": "o",
     "emoji_order": "1855"
@@ -6123,7 +6123,7 @@ let emojiList = [
   {
     "name": "movie_camera",
     "unicode": "1f3a5",
-    "shortname": ":movie_camera:",
+    // "shortname": ":movie_camera:",
     "code_decimal": "&#127909;",
     "category": "o",
     "emoji_order": "1856"
@@ -6131,7 +6131,7 @@ let emojiList = [
   {
     "name": "film_frames",
     "unicode": "1f39e",
-    "shortname": ":film_frames:",
+    // "shortname": ":film_frames:",
     "code_decimal": "&#127902;",
     "category": "o",
     "emoji_order": "1857"
@@ -6139,7 +6139,7 @@ let emojiList = [
   {
     "name": "film_projector",
     "unicode": "1f4fd",
-    "shortname": ":projector:",
+    // "shortname": ":projector:",
     "code_decimal": "&#128253;",
     "category": "o",
     "emoji_order": "1858"
@@ -6147,7 +6147,7 @@ let emojiList = [
   {
     "name": "clapper",
     "unicode": "1f3ac",
-    "shortname": ":clapper:",
+    // "shortname": ":clapper:",
     "code_decimal": "&#127916;",
     "category": "a",
     "emoji_order": "1859"
@@ -6155,7 +6155,7 @@ let emojiList = [
   {
     "name": "tv",
     "unicode": "1f4fa",
-    "shortname": ":tv:",
+    // "shortname": ":tv:",
     "code_decimal": "&#128250;",
     "category": "o",
     "emoji_order": "1860"
@@ -6163,7 +6163,7 @@ let emojiList = [
   {
     "name": "camera",
     "unicode": "1f4f7",
-    "shortname": ":camera:",
+    // "shortname": ":camera:",
     "code_decimal": "&#128247;",
     "category": "o",
     "emoji_order": "1861"
@@ -6171,7 +6171,7 @@ let emojiList = [
   {
     "name": "camera_with_flash",
     "unicode": "1f4f8",
-    "shortname": ":camera_with_flash:",
+    // "shortname": ":camera_with_flash:",
     "code_decimal": "&#128248;",
     "category": "o",
     "emoji_order": "1862"
@@ -6179,7 +6179,7 @@ let emojiList = [
   {
     "name": "video_camera",
     "unicode": "1f4f9",
-    "shortname": ":video_camera:",
+    // "shortname": ":video_camera:",
     "code_decimal": "&#128249;",
     "category": "o",
     "emoji_order": "1863"
@@ -6187,7 +6187,7 @@ let emojiList = [
   {
     "name": "vhs",
     "unicode": "1f4fc",
-    "shortname": ":vhs:",
+    // "shortname": ":vhs:",
     "code_decimal": "&#128252;",
     "category": "o",
     "emoji_order": "1864"
@@ -6195,7 +6195,7 @@ let emojiList = [
   {
     "name": "mag",
     "unicode": "1f50d",
-    "shortname": ":mag:",
+    // "shortname": ":mag:",
     "code_decimal": "&#128269;",
     "category": "o",
     "emoji_order": "1865"
@@ -6203,7 +6203,7 @@ let emojiList = [
   {
     "name": "mag_right",
     "unicode": "1f50e",
-    "shortname": ":mag_right:",
+    // "shortname": ":mag_right:",
     "code_decimal": "&#128270;",
     "category": "o",
     "emoji_order": "1866"
@@ -6211,7 +6211,7 @@ let emojiList = [
   {
     "name": "microscope",
     "unicode": "1f52c",
-    "shortname": ":microscope:",
+    // "shortname": ":microscope:",
     "code_decimal": "&#128300;",
     "category": "o",
     "emoji_order": "1867"
@@ -6219,7 +6219,7 @@ let emojiList = [
   {
     "name": "telescope",
     "unicode": "1f52d",
-    "shortname": ":telescope:",
+    // "shortname": ":telescope:",
     "code_decimal": "&#128301;",
     "category": "o",
     "emoji_order": "1868"
@@ -6227,7 +6227,7 @@ let emojiList = [
   {
     "name": "satellite_antenna",
     "unicode": "1f4e1",
-    "shortname": ":satellite:",
+    // "shortname": ":satellite:",
     "code_decimal": "&#128225;",
     "category": "o",
     "emoji_order": "1869"
@@ -6235,7 +6235,7 @@ let emojiList = [
   {
     "name": "candle",
     "unicode": "1f56f",
-    "shortname": ":candle:",
+    // "shortname": ":candle:",
     "code_decimal": "&#128367;",
     "category": "o",
     "emoji_order": "1870"
@@ -6243,7 +6243,7 @@ let emojiList = [
   {
     "name": "bulb",
     "unicode": "1f4a1",
-    "shortname": ":bulb:",
+    // "shortname": ":bulb:",
     "code_decimal": "&#128161;",
     "category": "o",
     "emoji_order": "1871"
@@ -6251,7 +6251,7 @@ let emojiList = [
   {
     "name": "flashlight",
     "unicode": "1f526",
-    "shortname": ":flashlight:",
+    // "shortname": ":flashlight:",
     "code_decimal": "&#128294;",
     "category": "o",
     "emoji_order": "1872"
@@ -6259,7 +6259,7 @@ let emojiList = [
   {
     "name": "izakaya_lantern",
     "unicode": "1f3ee",
-    "shortname": ":izakaya_lantern:",
+    // "shortname": ":izakaya_lantern:",
     "code_decimal": "&#127982;",
     "category": "o",
     "emoji_order": "1873"
@@ -6267,7 +6267,7 @@ let emojiList = [
   {
     "name": "notebook_with_decorative_cover",
     "unicode": "1f4d4",
-    "shortname": ":notebook_with_decorative_cover:",
+    // "shortname": ":notebook_with_decorative_cover:",
     "code_decimal": "&#128212;",
     "category": "o",
     "emoji_order": "1874"
@@ -6275,7 +6275,7 @@ let emojiList = [
   {
     "name": "closed_book",
     "unicode": "1f4d5",
-    "shortname": ":closed_book:",
+    // "shortname": ":closed_book:",
     "code_decimal": "&#128213;",
     "category": "o",
     "emoji_order": "1875"
@@ -6283,7 +6283,7 @@ let emojiList = [
   {
     "name": "book",
     "unicode": "1f4d6",
-    "shortname": ":book:",
+    // "shortname": ":book:",
     "code_decimal": "&#128214;",
     "category": "o",
     "emoji_order": "1876"
@@ -6291,7 +6291,7 @@ let emojiList = [
   {
     "name": "green_book",
     "unicode": "1f4d7",
-    "shortname": ":green_book:",
+    // "shortname": ":green_book:",
     "code_decimal": "&#128215;",
     "category": "o",
     "emoji_order": "1877"
@@ -6299,7 +6299,7 @@ let emojiList = [
   {
     "name": "blue_book",
     "unicode": "1f4d8",
-    "shortname": ":blue_book:",
+    // "shortname": ":blue_book:",
     "code_decimal": "&#128216;",
     "category": "o",
     "emoji_order": "1878"
@@ -6307,7 +6307,7 @@ let emojiList = [
   {
     "name": "orange_book",
     "unicode": "1f4d9",
-    "shortname": ":orange_book:",
+    // "shortname": ":orange_book:",
     "code_decimal": "&#128217;",
     "category": "o",
     "emoji_order": "1879"
@@ -6315,7 +6315,7 @@ let emojiList = [
   {
     "name": "books",
     "unicode": "1f4da",
-    "shortname": ":books:",
+    // "shortname": ":books:",
     "code_decimal": "&#128218;",
     "category": "o",
     "emoji_order": "1880"
@@ -6323,7 +6323,7 @@ let emojiList = [
   {
     "name": "notebook",
     "unicode": "1f4d3",
-    "shortname": ":notebook:",
+    // "shortname": ":notebook:",
     "code_decimal": "&#128211;",
     "category": "o",
     "emoji_order": "1881"
@@ -6331,7 +6331,7 @@ let emojiList = [
   {
     "name": "ledger",
     "unicode": "1f4d2",
-    "shortname": ":ledger:",
+    // "shortname": ":ledger:",
     "code_decimal": "&#128210;",
     "category": "o",
     "emoji_order": "1882"
@@ -6339,7 +6339,7 @@ let emojiList = [
   {
     "name": "page_with_curl",
     "unicode": "1f4c3",
-    "shortname": ":page_with_curl:",
+    // "shortname": ":page_with_curl:",
     "code_decimal": "&#128195;",
     "category": "o",
     "emoji_order": "1883"
@@ -6347,7 +6347,7 @@ let emojiList = [
   {
     "name": "scroll",
     "unicode": "1f4dc",
-    "shortname": ":scroll:",
+    // "shortname": ":scroll:",
     "code_decimal": "&#128220;",
     "category": "o",
     "emoji_order": "1884"
@@ -6355,7 +6355,7 @@ let emojiList = [
   {
     "name": "page_facing_up",
     "unicode": "1f4c4",
-    "shortname": ":page_facing_up:",
+    // "shortname": ":page_facing_up:",
     "code_decimal": "&#128196;",
     "category": "o",
     "emoji_order": "1885"
@@ -6363,7 +6363,7 @@ let emojiList = [
   {
     "name": "newspaper",
     "unicode": "1f4f0",
-    "shortname": ":newspaper:",
+    // "shortname": ":newspaper:",
     "code_decimal": "&#128240;",
     "category": "o",
     "emoji_order": "1886"
@@ -6371,7 +6371,7 @@ let emojiList = [
   {
     "name": "rolled_up_newspaper",
     "unicode": "1f5de",
-    "shortname": ":newspaper2:",
+    // "shortname": ":newspaper2:",
     "code_decimal": "&#128478;",
     "category": "o",
     "emoji_order": "1887"
@@ -6379,7 +6379,7 @@ let emojiList = [
   {
     "name": "bookmark_tabs",
     "unicode": "1f4d1",
-    "shortname": ":bookmark_tabs:",
+    // "shortname": ":bookmark_tabs:",
     "code_decimal": "&#128209;",
     "category": "o",
     "emoji_order": "1888"
@@ -6387,7 +6387,7 @@ let emojiList = [
   {
     "name": "bookmark",
     "unicode": "1f516",
-    "shortname": ":bookmark:",
+    // "shortname": ":bookmark:",
     "code_decimal": "&#128278;",
     "category": "o",
     "emoji_order": "1889"
@@ -6395,7 +6395,7 @@ let emojiList = [
   {
     "name": "label",
     "unicode": "1f3f7",
-    "shortname": ":label:",
+    // "shortname": ":label:",
     "code_decimal": "&#127991;",
     "category": "o",
     "emoji_order": "1890"
@@ -6403,7 +6403,7 @@ let emojiList = [
   {
     "name": "moneybag",
     "unicode": "1f4b0",
-    "shortname": ":moneybag:",
+    // "shortname": ":moneybag:",
     "code_decimal": "&#128176;",
     "category": "o",
     "emoji_order": "1891"
@@ -6411,7 +6411,7 @@ let emojiList = [
   {
     "name": "yen",
     "unicode": "1f4b4",
-    "shortname": ":yen:",
+    // "shortname": ":yen:",
     "code_decimal": "&#128180;",
     "category": "o",
     "emoji_order": "1892"
@@ -6419,7 +6419,7 @@ let emojiList = [
   {
     "name": "dollar",
     "unicode": "1f4b5",
-    "shortname": ":dollar:",
+    // "shortname": ":dollar:",
     "code_decimal": "&#128181;",
     "category": "o",
     "emoji_order": "1893"
@@ -6427,7 +6427,7 @@ let emojiList = [
   {
     "name": "euro",
     "unicode": "1f4b6",
-    "shortname": ":euro:",
+    // "shortname": ":euro:",
     "code_decimal": "&#128182;",
     "category": "o",
     "emoji_order": "1894"
@@ -6435,7 +6435,7 @@ let emojiList = [
   {
     "name": "pound",
     "unicode": "1f4b7",
-    "shortname": ":pound:",
+    // "shortname": ":pound:",
     "code_decimal": "&#128183;",
     "category": "o",
     "emoji_order": "1895"
@@ -6443,7 +6443,7 @@ let emojiList = [
   {
     "name": "money_with_wings",
     "unicode": "1f4b8",
-    "shortname": ":money_with_wings:",
+    // "shortname": ":money_with_wings:",
     "code_decimal": "&#128184;",
     "category": "o",
     "emoji_order": "1896"
@@ -6451,7 +6451,7 @@ let emojiList = [
   {
     "name": "credit_card",
     "unicode": "1f4b3",
-    "shortname": ":credit_card:",
+    // "shortname": ":credit_card:",
     "code_decimal": "&#128179;",
     "category": "o",
     "emoji_order": "1897"
@@ -6459,7 +6459,7 @@ let emojiList = [
   {
     "name": "chart",
     "unicode": "1f4b9",
-    "shortname": ":chart:",
+    // "shortname": ":chart:",
     "code_decimal": "&#128185;",
     "category": "s",
     "emoji_order": "1898"
@@ -6467,7 +6467,7 @@ let emojiList = [
   {
     "name": "currency_exchange",
     "unicode": "1f4b1",
-    "shortname": ":currency_exchange:",
+    // "shortname": ":currency_exchange:",
     "code_decimal": "&#128177;",
     "category": "s",
     "emoji_order": "1899"
@@ -6475,7 +6475,7 @@ let emojiList = [
   {
     "name": "heavy_dollar_sign",
     "unicode": "1f4b2",
-    "shortname": ":heavy_dollar_sign:",
+    // "shortname": ":heavy_dollar_sign:",
     "code_decimal": "&#128178;",
     "category": "s",
     "emoji_order": "1900"
@@ -6483,7 +6483,7 @@ let emojiList = [
   /* { //@todo not found on image
     "name": "envelope",
     "unicode": "2709",
-    "shortname": ":envelope:",
+    // "shortname": ":envelope:",
     "code_decimal": "&#9993;",
     "category": "o",
     "emoji_order": "1901"
@@ -6491,7 +6491,7 @@ let emojiList = [
   {
     "name": "e-mail",
     "unicode": "1f4e7",
-    "shortname": ":e-mail:",
+    // "shortname": ":e-mail:",
     "code_decimal": "&#128231;",
     "category": "o",
     "emoji_order": "1902"
@@ -6499,7 +6499,7 @@ let emojiList = [
   {
     "name": "incoming_envelope",
     "unicode": "1f4e8",
-    "shortname": ":incoming_envelope:",
+    // "shortname": ":incoming_envelope:",
     "code_decimal": "&#128232;",
     "category": "o",
     "emoji_order": "1903"
@@ -6507,7 +6507,7 @@ let emojiList = [
   {
     "name": "envelope_with_arrow",
     "unicode": "1f4e9",
-    "shortname": ":envelope_with_arrow:",
+    // "shortname": ":envelope_with_arrow:",
     "code_decimal": "&#128233;",
     "category": "o",
     "emoji_order": "1904"
@@ -6515,7 +6515,7 @@ let emojiList = [
   {
     "name": "outbox_tray",
     "unicode": "1f4e4",
-    "shortname": ":outbox_tray:",
+    // "shortname": ":outbox_tray:",
     "code_decimal": "&#128228;",
     "category": "o",
     "emoji_order": "1905"
@@ -6523,7 +6523,7 @@ let emojiList = [
   {
     "name": "inbox_tray",
     "unicode": "1f4e5",
-    "shortname": ":inbox_tray:",
+    // "shortname": ":inbox_tray:",
     "code_decimal": "&#128229;",
     "category": "o",
     "emoji_order": "1906"
@@ -6531,7 +6531,7 @@ let emojiList = [
   {
     "name": "package",
     "unicode": "1f4e6",
-    "shortname": ":package:",
+    // "shortname": ":package:",
     "code_decimal": "&#128230;",
     "category": "o",
     "emoji_order": "1907"
@@ -6539,7 +6539,7 @@ let emojiList = [
   {
     "name": "mailbox",
     "unicode": "1f4eb",
-    "shortname": ":mailbox:",
+    // "shortname": ":mailbox:",
     "code_decimal": "&#128235;",
     "category": "o",
     "emoji_order": "1908"
@@ -6547,7 +6547,7 @@ let emojiList = [
   {
     "name": "mailbox_closed",
     "unicode": "1f4ea",
-    "shortname": ":mailbox_closed:",
+    // "shortname": ":mailbox_closed:",
     "code_decimal": "&#128234;",
     "category": "o",
     "emoji_order": "1909"
@@ -6555,7 +6555,7 @@ let emojiList = [
   {
     "name": "mailbox_with_mail",
     "unicode": "1f4ec",
-    "shortname": ":mailbox_with_mail:",
+    // "shortname": ":mailbox_with_mail:",
     "code_decimal": "&#128236;",
     "category": "o",
     "emoji_order": "1910"
@@ -6563,7 +6563,7 @@ let emojiList = [
   {
     "name": "mailbox_with_no_mail",
     "unicode": "1f4ed",
-    "shortname": ":mailbox_with_no_mail:",
+    // "shortname": ":mailbox_with_no_mail:",
     "code_decimal": "&#128237;",
     "category": "o",
     "emoji_order": "1911"
@@ -6571,7 +6571,7 @@ let emojiList = [
   {
     "name": "postbox",
     "unicode": "1f4ee",
-    "shortname": ":postbox:",
+    // "shortname": ":postbox:",
     "code_decimal": "&#128238;",
     "category": "o",
     "emoji_order": "1912"
@@ -6579,7 +6579,7 @@ let emojiList = [
   {
     "name": "ballot_box_with_ballot",
     "unicode": "1f5f3",
-    "shortname": ":ballot_box:",
+    // "shortname": ":ballot_box:",
     "code_decimal": "&#128499;",
     "category": "o",
     "emoji_order": "1913"
@@ -6587,7 +6587,7 @@ let emojiList = [
   {
     "name": "pencil2",
     "unicode": "270f",
-    "shortname": ":pencil2:",
+    // "shortname": ":pencil2:",
     "code_decimal": "&#9999;",
     "category": "o",
     "emoji_order": "1914"
@@ -6595,7 +6595,7 @@ let emojiList = [
   {
     "name": "black_nib",
     "unicode": "2712",
-    "shortname": ":black_nib:",
+    // "shortname": ":black_nib:",
     "code_decimal": "&#10002;",
     "category": "o",
     "emoji_order": "1915"
@@ -6603,7 +6603,7 @@ let emojiList = [
   {
     "name": "lower_left_fountain_pen",
     "unicode": "1f58b",
-    "shortname": ":pen_fountain:",
+    // "shortname": ":pen_fountain:",
     "code_decimal": "&#128395;",
     "category": "o",
     "emoji_order": "1916"
@@ -6611,7 +6611,7 @@ let emojiList = [
   {
     "name": "lower_left_ballpoint_pen",
     "unicode": "1f58a",
-    "shortname": ":pen_ballpoint:",
+    // "shortname": ":pen_ballpoint:",
     "code_decimal": "&#128394;",
     "category": "o",
     "emoji_order": "1917"
@@ -6619,7 +6619,7 @@ let emojiList = [
   {
     "name": "lower_left_paintbrush",
     "unicode": "1f58c",
-    "shortname": ":paintbrush:",
+    // "shortname": ":paintbrush:",
     "code_decimal": "&#128396;",
     "category": "o",
     "emoji_order": "1918"
@@ -6627,7 +6627,7 @@ let emojiList = [
   {
     "name": "lower_left_crayon",
     "unicode": "1f58d",
-    "shortname": ":crayon:",
+    // "shortname": ":crayon:",
     "code_decimal": "&#128397;",
     "category": "o",
     "emoji_order": "1919"
@@ -6635,7 +6635,7 @@ let emojiList = [
   {
     "name": "memo",
     "unicode": "1f4dd",
-    "shortname": ":pencil:",
+    // "shortname": ":pencil:",
     "code_decimal": "&#128221;",
     "category": "o",
     "emoji_order": "1920"
@@ -6643,7 +6643,7 @@ let emojiList = [
   {
     "name": "briefcase",
     "unicode": "1f4bc",
-    "shortname": ":briefcase:",
+    // "shortname": ":briefcase:",
     "code_decimal": "&#128188;",
     "category": "p",
     "emoji_order": "1921"
@@ -6651,7 +6651,7 @@ let emojiList = [
   {
     "name": "file_folder",
     "unicode": "1f4c1",
-    "shortname": ":file_folder:",
+    // "shortname": ":file_folder:",
     "code_decimal": "&#128193;",
     "category": "o",
     "emoji_order": "1922"
@@ -6659,7 +6659,7 @@ let emojiList = [
   {
     "name": "open_file_folder",
     "unicode": "1f4c2",
-    "shortname": ":open_file_folder:",
+    // "shortname": ":open_file_folder:",
     "code_decimal": "&#128194;",
     "category": "o",
     "emoji_order": "1923"
@@ -6667,7 +6667,7 @@ let emojiList = [
   {
     "name": "card_index_dividers",
     "unicode": "1f5c2",
-    "shortname": ":dividers:",
+    // "shortname": ":dividers:",
     "code_decimal": "&#128450;",
     "category": "o",
     "emoji_order": "1924"
@@ -6675,7 +6675,7 @@ let emojiList = [
   {
     "name": "date",
     "unicode": "1f4c5",
-    "shortname": ":date:",
+    // "shortname": ":date:",
     "code_decimal": "&#128197;",
     "category": "o",
     "emoji_order": "1925"
@@ -6683,7 +6683,7 @@ let emojiList = [
   {
     "name": "calendar",
     "unicode": "1f4c6",
-    "shortname": ":calendar:",
+    // "shortname": ":calendar:",
     "code_decimal": "&#128198;",
     "category": "o",
     "emoji_order": "1926"
@@ -6691,7 +6691,7 @@ let emojiList = [
   {
     "name": "spiral_note_pad",
     "unicode": "1f5d2",
-    "shortname": ":notepad_spiral:",
+    // "shortname": ":notepad_spiral:",
     "code_decimal": "&#128466;",
     "category": "o",
     "emoji_order": "1927"
@@ -6699,7 +6699,7 @@ let emojiList = [
   {
     "name": "spiral_calendar_pad",
     "unicode": "1f5d3",
-    "shortname": ":calendar_spiral:",
+    // "shortname": ":calendar_spiral:",
     "code_decimal": "&#128467;",
     "category": "o",
     "emoji_order": "1928"
@@ -6707,7 +6707,7 @@ let emojiList = [
   {
     "name": "card_index",
     "unicode": "1f4c7",
-    "shortname": ":card_index:",
+    // "shortname": ":card_index:",
     "code_decimal": "&#128199;",
     "category": "o",
     "emoji_order": "1929"
@@ -6715,7 +6715,7 @@ let emojiList = [
   {
     "name": "chart_with_upwards_trend",
     "unicode": "1f4c8",
-    "shortname": ":chart_with_upwards_trend:",
+    // "shortname": ":chart_with_upwards_trend:",
     "code_decimal": "&#128200;",
     "category": "o",
     "emoji_order": "1930"
@@ -6723,7 +6723,7 @@ let emojiList = [
   {
     "name": "chart_with_downwards_trend",
     "unicode": "1f4c9",
-    "shortname": ":chart_with_downwards_trend:",
+    // "shortname": ":chart_with_downwards_trend:",
     "code_decimal": "&#128201;",
     "category": "o",
     "emoji_order": "1931"
@@ -6731,7 +6731,7 @@ let emojiList = [
   {
     "name": "bar_chart",
     "unicode": "1f4ca",
-    "shortname": ":bar_chart:",
+    // "shortname": ":bar_chart:",
     "code_decimal": "&#128202;",
     "category": "o",
     "emoji_order": "1932"
@@ -6739,7 +6739,7 @@ let emojiList = [
   {
     "name": "clipboard",
     "unicode": "1f4cb",
-    "shortname": ":clipboard:",
+    // "shortname": ":clipboard:",
     "code_decimal": "&#128203;",
     "category": "o",
     "emoji_order": "1933"
@@ -6747,7 +6747,7 @@ let emojiList = [
   {
     "name": "pushpin",
     "unicode": "1f4cc",
-    "shortname": ":pushpin:",
+    // "shortname": ":pushpin:",
     "code_decimal": "&#128204;",
     "category": "o",
     "emoji_order": "1934"
@@ -6755,7 +6755,7 @@ let emojiList = [
   {
     "name": "round_pushpin",
     "unicode": "1f4cd",
-    "shortname": ":round_pushpin:",
+    // "shortname": ":round_pushpin:",
     "code_decimal": "&#128205;",
     "category": "o",
     "emoji_order": "1935"
@@ -6763,7 +6763,7 @@ let emojiList = [
   {
     "name": "paperclip",
     "unicode": "1f4ce",
-    "shortname": ":paperclip:",
+    // "shortname": ":paperclip:",
     "code_decimal": "&#128206;",
     "category": "o",
     "emoji_order": "1936"
@@ -6771,7 +6771,7 @@ let emojiList = [
   {
     "name": "linked_paperclips",
     "unicode": "1f587",
-    "shortname": ":paperclips:",
+    // "shortname": ":paperclips:",
     "code_decimal": "&#128391;",
     "category": "o",
     "emoji_order": "1937"
@@ -6779,7 +6779,7 @@ let emojiList = [
   {
     "name": "straight_ruler",
     "unicode": "1f4cf",
-    "shortname": ":straight_ruler:",
+    // "shortname": ":straight_ruler:",
     "code_decimal": "&#128207;",
     "category": "o",
     "emoji_order": "1938"
@@ -6787,7 +6787,7 @@ let emojiList = [
   {
     "name": "triangular_ruler",
     "unicode": "1f4d0",
-    "shortname": ":triangular_ruler:",
+    // "shortname": ":triangular_ruler:",
     "code_decimal": "&#128208;",
     "category": "o",
     "emoji_order": "1939"
@@ -6795,7 +6795,7 @@ let emojiList = [
   {
     "name": "scissors",
     "unicode": "2702",
-    "shortname": ":scissors:",
+    // "shortname": ":scissors:",
     "code_decimal": "&#9986;",
     "category": "o",
     "emoji_order": "1940"
@@ -6803,7 +6803,7 @@ let emojiList = [
   {
     "name": "card_file_box",
     "unicode": "1f5c3",
-    "shortname": ":card_box:",
+    // "shortname": ":card_box:",
     "code_decimal": "&#128451;",
     "category": "o",
     "emoji_order": "1941"
@@ -6811,7 +6811,7 @@ let emojiList = [
   {
     "name": "file_cabinet",
     "unicode": "1f5c4",
-    "shortname": ":file_cabinet:",
+    // "shortname": ":file_cabinet:",
     "code_decimal": "&#128452;",
     "category": "o",
     "emoji_order": "1942"
@@ -6819,7 +6819,7 @@ let emojiList = [
   {
     "name": "wastebasket",
     "unicode": "1f5d1",
-    "shortname": ":wastebasket:",
+    // "shortname": ":wastebasket:",
     "code_decimal": "&#128465;",
     "category": "o",
     "emoji_order": "1943"
@@ -6827,7 +6827,7 @@ let emojiList = [
   {
     "name": "lock",
     "unicode": "1f512",
-    "shortname": ":lock:",
+    // "shortname": ":lock:",
     "code_decimal": "&#128274;",
     "category": "o",
     "emoji_order": "1944"
@@ -6835,7 +6835,7 @@ let emojiList = [
   {
     "name": "unlock",
     "unicode": "1f513",
-    "shortname": ":unlock:",
+    // "shortname": ":unlock:",
     "code_decimal": "&#128275;",
     "category": "o",
     "emoji_order": "1945"
@@ -6843,7 +6843,7 @@ let emojiList = [
   {
     "name": "lock_with_ink_pen",
     "unicode": "1f50f",
-    "shortname": ":lock_with_ink_pen:",
+    // "shortname": ":lock_with_ink_pen:",
     "code_decimal": "&#128271;",
     "category": "o",
     "emoji_order": "1946"
@@ -6851,7 +6851,7 @@ let emojiList = [
   {
     "name": "closed_lock_with_key",
     "unicode": "1f510",
-    "shortname": ":closed_lock_with_key:",
+    // "shortname": ":closed_lock_with_key:",
     "code_decimal": "&#128272;",
     "category": "o",
     "emoji_order": "1947"
@@ -6859,7 +6859,7 @@ let emojiList = [
   {
     "name": "key",
     "unicode": "1f511",
-    "shortname": ":key:",
+    // "shortname": ":key:",
     "code_decimal": "&#128273;",
     "category": "o",
     "emoji_order": "1948"
@@ -6867,7 +6867,7 @@ let emojiList = [
   {
     "name": "old_key",
     "unicode": "1f5dd",
-    "shortname": ":key2:",
+    // "shortname": ":key2:",
     "code_decimal": "&#128477;",
     "category": "o",
     "emoji_order": "1949"
@@ -6875,7 +6875,7 @@ let emojiList = [
   {
     "name": "hammer",
     "unicode": "1f528",
-    "shortname": ":hammer:",
+    // "shortname": ":hammer:",
     "code_decimal": "&#128296;",
     "category": "o",
     "emoji_order": "1950"
@@ -6883,7 +6883,7 @@ let emojiList = [
   {
     "name": "pick",
     "unicode": "26cf",
-    "shortname": ":pick:",
+    // "shortname": ":pick:",
     "code_decimal": "&#9935;",
     "category": "o",
     "emoji_order": "1951"
@@ -6891,7 +6891,7 @@ let emojiList = [
   {
     "name": "hammer_and_pick",
     "unicode": "2692",
-    "shortname": ":hammer_pick:",
+    // "shortname": ":hammer_pick:",
     "code_decimal": "&#9874;",
     "category": "o",
     "emoji_order": "1952"
@@ -6899,7 +6899,7 @@ let emojiList = [
   {
     "name": "hammer_and_wrench",
     "unicode": "1f6e0",
-    "shortname": ":tools:",
+    // "shortname": ":tools:",
     "code_decimal": "&#128736;",
     "category": "o",
     "emoji_order": "1953"
@@ -6907,7 +6907,7 @@ let emojiList = [
   {
     "name": "dagger_knife",
     "unicode": "1f5e1",
-    "shortname": ":dagger:",
+    // "shortname": ":dagger:",
     "code_decimal": "&#128481;",
     "category": "o",
     "emoji_order": "1954"
@@ -6915,7 +6915,7 @@ let emojiList = [
   {
     "name": "crossed_swords",
     "unicode": "2694",
-    "shortname": ":crossed_swords:",
+    // "shortname": ":crossed_swords:",
     "code_decimal": "&#9876;",
     "category": "o",
     "emoji_order": "1955"
@@ -6923,7 +6923,7 @@ let emojiList = [
   {
     "name": "gun",
     "unicode": "1f52b",
-    "shortname": ":gun:",
+    // "shortname": ":gun:",
     "code_decimal": "&#128299;",
     "category": "o",
     "emoji_order": "1956"
@@ -6931,7 +6931,7 @@ let emojiList = [
   {
     "name": "bow_and_arrow",
     "unicode": "1f3f9",
-    "shortname": ":bow_and_arrow:",
+    // "shortname": ":bow_and_arrow:",
     "code_decimal": "&#127993;",
     "category": "a",
     "emoji_order": "1957"
@@ -6939,7 +6939,7 @@ let emojiList = [
   {
     "name": "shield",
     "unicode": "1f6e1",
-    "shortname": ":shield:",
+    // "shortname": ":shield:",
     "code_decimal": "&#128737;",
     "category": "o",
     "emoji_order": "1958"
@@ -6947,7 +6947,7 @@ let emojiList = [
   {
     "name": "wrench",
     "unicode": "1f527",
-    "shortname": ":wrench:",
+    // "shortname": ":wrench:",
     "code_decimal": "&#128295;",
     "category": "o",
     "emoji_order": "1959"
@@ -6955,7 +6955,7 @@ let emojiList = [
   {
     "name": "nut_and_bolt",
     "unicode": "1f529",
-    "shortname": ":nut_and_bolt:",
+    // "shortname": ":nut_and_bolt:",
     "code_decimal": "&#128297;",
     "category": "o",
     "emoji_order": "1960"
@@ -6963,7 +6963,7 @@ let emojiList = [
   {
     "name": "gear",
     "unicode": "2699",
-    "shortname": ":gear:",
+    // "shortname": ":gear:",
     "code_decimal": "&#9881;",
     "category": "o",
     "emoji_order": "1961"
@@ -6971,7 +6971,7 @@ let emojiList = [
   {
     "name": "compression",
     "unicode": "1f5dc",
-    "shortname": ":compression:",
+    // "shortname": ":compression:",
     "code_decimal": "&#128476;",
     "category": "o",
     "emoji_order": "1962"
@@ -6979,7 +6979,7 @@ let emojiList = [
   {
     "name": "alembic",
     "unicode": "2697",
-    "shortname": ":alembic:",
+    // "shortname": ":alembic:",
     "code_decimal": "&#9879;",
     "category": "o",
     "emoji_order": "1963"
@@ -6987,7 +6987,7 @@ let emojiList = [
   {
     "name": "scales",
     "unicode": "2696",
-    "shortname": ":scales:",
+    // "shortname": ":scales:",
     "code_decimal": "&#9878;",
     "category": "o",
     "emoji_order": "1964"
@@ -6995,7 +6995,7 @@ let emojiList = [
   {
     "name": "link",
     "unicode": "1f517",
-    "shortname": ":link:",
+    // "shortname": ":link:",
     "code_decimal": "&#128279;",
     "category": "o",
     "emoji_order": "1965"
@@ -7003,7 +7003,7 @@ let emojiList = [
   {
     "name": "chains",
     "unicode": "26d3",
-    "shortname": ":chains:",
+    // "shortname": ":chains:",
     "code_decimal": "&#9939;",
     "category": "o",
     "emoji_order": "1966"
@@ -7011,7 +7011,7 @@ let emojiList = [
   {
     "name": "syringe",
     "unicode": "1f489",
-    "shortname": ":syringe:",
+    // "shortname": ":syringe:",
     "code_decimal": "&#128137;",
     "category": "o",
     "emoji_order": "1967"
@@ -7019,7 +7019,7 @@ let emojiList = [
   {
     "name": "pill",
     "unicode": "1f48a",
-    "shortname": ":pill:",
+    // "shortname": ":pill:",
     "code_decimal": "&#128138;",
     "category": "o",
     "emoji_order": "1968"
@@ -7027,7 +7027,7 @@ let emojiList = [
   {
     "name": "smoking",
     "unicode": "1f6ac",
-    "shortname": ":smoking:",
+    // "shortname": ":smoking:",
     "code_decimal": "&#128684;",
     "category": "o",
     "emoji_order": "1969"
@@ -7035,7 +7035,7 @@ let emojiList = [
   {
     "name": "coffin",
     "unicode": "26b0",
-    "shortname": ":coffin:",
+    // "shortname": ":coffin:",
     "code_decimal": "&#9904;",
     "category": "o",
     "emoji_order": "1970"
@@ -7043,7 +7043,7 @@ let emojiList = [
   {
     "name": "funeral_urn",
     "unicode": "26b1",
-    "shortname": ":urn:",
+    // "shortname": ":urn:",
     "code_decimal": "&#9905;",
     "category": "o",
     "emoji_order": "1971"
@@ -7051,7 +7051,7 @@ let emojiList = [
   {
     "name": "moyai",
     "unicode": "1f5ff",
-    "shortname": ":moyai:",
+    // "shortname": ":moyai:",
     "code_decimal": "&#128511;",
     "category": "o",
     "emoji_order": "1972"
@@ -7059,7 +7059,7 @@ let emojiList = [
   {
     "name": "oil_drum",
     "unicode": "1f6e2",
-    "shortname": ":oil:",
+    // "shortname": ":oil:",
     "code_decimal": "&#128738;",
     "category": "o",
     "emoji_order": "1973"
@@ -7067,7 +7067,7 @@ let emojiList = [
   {
     "name": "crystal_ball",
     "unicode": "1f52e",
-    "shortname": ":crystal_ball:",
+    // "shortname": ":crystal_ball:",
     "code_decimal": "&#128302;",
     "category": "o",
     "emoji_order": "1974"
@@ -7075,7 +7075,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "shopping_cart",
     "unicode": "1f6d2",
-    "shortname": ":shopping_cart:",
+    // "shortname": ":shopping_cart:",
     "code_decimal": "&#128722;",
     "category": "o",
     "emoji_order": "1975"
@@ -7083,7 +7083,7 @@ let emojiList = [
   {
     "name": "atm",
     "unicode": "1f3e7",
-    "shortname": ":atm:",
+    // "shortname": ":atm:",
     "code_decimal": "&#127975;",
     "category": "s",
     "emoji_order": "1976"
@@ -7091,7 +7091,7 @@ let emojiList = [
   {
     "name": "put_litter_in_its_place",
     "unicode": "1f6ae",
-    "shortname": ":put_litter_in_its_place:",
+    // "shortname": ":put_litter_in_its_place:",
     "code_decimal": "&#128686;",
     "category": "s",
     "emoji_order": "1977"
@@ -7099,7 +7099,7 @@ let emojiList = [
   {
     "name": "potable_water",
     "unicode": "1f6b0",
-    "shortname": ":potable_water:",
+    // "shortname": ":potable_water:",
     "code_decimal": "&#128688;",
     "category": "s",
     "emoji_order": "1978"
@@ -7107,7 +7107,7 @@ let emojiList = [
   {
     "name": "wheelchair",
     "unicode": "267f",
-    "shortname": ":wheelchair:",
+    // "shortname": ":wheelchair:",
     "code_decimal": "&#9855;",
     "category": "s",
     "emoji_order": "1979"
@@ -7115,7 +7115,7 @@ let emojiList = [
   {
     "name": "mens",
     "unicode": "1f6b9",
-    "shortname": ":mens:",
+    // "shortname": ":mens:",
     "code_decimal": "&#128697;",
     "category": "s",
     "emoji_order": "1980"
@@ -7123,7 +7123,7 @@ let emojiList = [
   {
     "name": "womens",
     "unicode": "1f6ba",
-    "shortname": ":womens:",
+    // "shortname": ":womens:",
     "code_decimal": "&#128698;",
     "category": "s",
     "emoji_order": "1981"
@@ -7131,7 +7131,7 @@ let emojiList = [
   {
     "name": "restroom",
     "unicode": "1f6bb",
-    "shortname": ":restroom:",
+    // "shortname": ":restroom:",
     "code_decimal": "&#128699;",
     "category": "s",
     "emoji_order": "1982"
@@ -7139,7 +7139,7 @@ let emojiList = [
   {
     "name": "baby_symbol",
     "unicode": "1f6bc",
-    "shortname": ":baby_symbol:",
+    // "shortname": ":baby_symbol:",
     "code_decimal": "&#128700;",
     "category": "s",
     "emoji_order": "1983"
@@ -7147,7 +7147,7 @@ let emojiList = [
   {
     "name": "wc",
     "unicode": "1f6be",
-    "shortname": ":wc:",
+    // "shortname": ":wc:",
     "code_decimal": "&#128702;",
     "category": "s",
     "emoji_order": "1984"
@@ -7155,7 +7155,7 @@ let emojiList = [
   {
     "name": "passport_control",
     "unicode": "1f6c2",
-    "shortname": ":passport_control:",
+    // "shortname": ":passport_control:",
     "code_decimal": "&#128706;",
     "category": "s",
     "emoji_order": "1985"
@@ -7163,7 +7163,7 @@ let emojiList = [
   {
     "name": "customs",
     "unicode": "1f6c3",
-    "shortname": ":customs:",
+    // "shortname": ":customs:",
     "code_decimal": "&#128707;",
     "category": "s",
     "emoji_order": "1986"
@@ -7171,7 +7171,7 @@ let emojiList = [
   {
     "name": "baggage_claim",
     "unicode": "1f6c4",
-    "shortname": ":baggage_claim:",
+    // "shortname": ":baggage_claim:",
     "code_decimal": "&#128708;",
     "category": "s",
     "emoji_order": "1987"
@@ -7179,7 +7179,7 @@ let emojiList = [
   {
     "name": "left_luggage",
     "unicode": "1f6c5",
-    "shortname": ":left_luggage:",
+    // "shortname": ":left_luggage:",
     "code_decimal": "&#128709;",
     "category": "s",
     "emoji_order": "1988"
@@ -7187,7 +7187,7 @@ let emojiList = [
   {
     "name": "warning",
     "unicode": "26a0",
-    "shortname": ":warning:",
+    // "shortname": ":warning:",
     "code_decimal": "&#9888;",
     "category": "s",
     "emoji_order": "1989"
@@ -7195,7 +7195,7 @@ let emojiList = [
   {
     "name": "children_crossing",
     "unicode": "1f6b8",
-    "shortname": ":children_crossing:",
+    // "shortname": ":children_crossing:",
     "code_decimal": "&#128696;",
     "category": "s",
     "emoji_order": "1990"
@@ -7203,7 +7203,7 @@ let emojiList = [
   {
     "name": "no_entry",
     "unicode": "26d4",
-    "shortname": ":no_entry:",
+    // "shortname": ":no_entry:",
     "code_decimal": "&#9940;",
     "category": "s",
     "emoji_order": "1991"
@@ -7211,7 +7211,7 @@ let emojiList = [
   {
     "name": "no_entry_sign",
     "unicode": "1f6ab",
-    "shortname": ":no_entry_sign:",
+    // "shortname": ":no_entry_sign:",
     "code_decimal": "&#128683;",
     "category": "s",
     "emoji_order": "1992"
@@ -7219,7 +7219,7 @@ let emojiList = [
   {
     "name": "no_bicycles",
     "unicode": "1f6b3",
-    "shortname": ":no_bicycles:",
+    // "shortname": ":no_bicycles:",
     "code_decimal": "&#128691;",
     "category": "s",
     "emoji_order": "1993"
@@ -7227,7 +7227,7 @@ let emojiList = [
   {
     "name": "no_smoking",
     "unicode": "1f6ad",
-    "shortname": ":no_smoking:",
+    // "shortname": ":no_smoking:",
     "code_decimal": "&#128685;",
     "category": "s",
     "emoji_order": "1994"
@@ -7235,7 +7235,7 @@ let emojiList = [
   {
     "name": "do_not_litter",
     "unicode": "1f6af",
-    "shortname": ":do_not_litter:",
+    // "shortname": ":do_not_litter:",
     "code_decimal": "&#128687;",
     "category": "s",
     "emoji_order": "1995"
@@ -7243,7 +7243,7 @@ let emojiList = [
   {
     "name": "non-potable_water",
     "unicode": "1f6b1",
-    "shortname": ":non-potable_water:",
+    // "shortname": ":non-potable_water:",
     "code_decimal": "&#128689;",
     "category": "s",
     "emoji_order": "1996"
@@ -7251,7 +7251,7 @@ let emojiList = [
   {
     "name": "no_pedestrians",
     "unicode": "1f6b7",
-    "shortname": ":no_pedestrians:",
+    // "shortname": ":no_pedestrians:",
     "code_decimal": "&#128695;",
     "category": "s",
     "emoji_order": "1997"
@@ -7259,7 +7259,7 @@ let emojiList = [
   {
     "name": "no_mobile_phones",
     "unicode": "1f4f5",
-    "shortname": ":no_mobile_phones:",
+    // "shortname": ":no_mobile_phones:",
     "code_decimal": "&#128245;",
     "category": "s",
     "emoji_order": "1998"
@@ -7267,7 +7267,7 @@ let emojiList = [
   {
     "name": "underage",
     "unicode": "1f51e",
-    "shortname": ":underage:",
+    // "shortname": ":underage:",
     "code_decimal": "&#128286;",
     "category": "s",
     "emoji_order": "1999"
@@ -7275,7 +7275,7 @@ let emojiList = [
   {
     "name": "radioactive",
     "unicode": "2622",
-    "shortname": ":radioactive:",
+    // "shortname": ":radioactive:",
     "code_decimal": "&#9762;",
     "category": "s",
     "emoji_order": "2000"
@@ -7283,7 +7283,7 @@ let emojiList = [
   {
     "name": "biohazard",
     "unicode": "2623",
-    "shortname": ":biohazard:",
+    // "shortname": ":biohazard:",
     "code_decimal": "&#9763;",
     "category": "s",
     "emoji_order": "2001"
@@ -7291,7 +7291,7 @@ let emojiList = [
   {
     "name": "arrow_up",
     "unicode": "2b06",
-    "shortname": ":arrow_up:",
+    // "shortname": ":arrow_up:",
     "code_decimal": "&#11014;",
     "category": "s",
     "emoji_order": "2002"
@@ -7299,7 +7299,7 @@ let emojiList = [
   {
     "name": "arrow_upper_right",
     "unicode": "2197",
-    "shortname": ":arrow_upper_right:",
+    // "shortname": ":arrow_upper_right:",
     "code_decimal": "&#8599;",
     "category": "s",
     "emoji_order": "2003"
@@ -7307,7 +7307,7 @@ let emojiList = [
   {
     "name": "arrow_right",
     "unicode": "27a1",
-    "shortname": ":arrow_right:",
+    // "shortname": ":arrow_right:",
     "code_decimal": "&#10145;",
     "category": "s",
     "emoji_order": "2004"
@@ -7315,7 +7315,7 @@ let emojiList = [
   {
     "name": "arrow_lower_right",
     "unicode": "2198",
-    "shortname": ":arrow_lower_right:",
+    // "shortname": ":arrow_lower_right:",
     "code_decimal": "&#8600;",
     "category": "s",
     "emoji_order": "2005"
@@ -7323,7 +7323,7 @@ let emojiList = [
   {
     "name": "arrow_down",
     "unicode": "2b07",
-    "shortname": ":arrow_down:",
+    // "shortname": ":arrow_down:",
     "code_decimal": "&#11015;",
     "category": "s",
     "emoji_order": "2006"
@@ -7331,7 +7331,7 @@ let emojiList = [
   {
     "name": "arrow_lower_left",
     "unicode": "2199",
-    "shortname": ":arrow_lower_left:",
+    // "shortname": ":arrow_lower_left:",
     "code_decimal": "&#8601;",
     "category": "s",
     "emoji_order": "2007"
@@ -7339,7 +7339,7 @@ let emojiList = [
   {
     "name": "arrow_left",
     "unicode": "2b05",
-    "shortname": ":arrow_left:",
+    // "shortname": ":arrow_left:",
     "code_decimal": "&#11013;",
     "category": "s",
     "emoji_order": "2008"
@@ -7347,7 +7347,7 @@ let emojiList = [
   {
     "name": "arrow_upper_left",
     "unicode": "2196",
-    "shortname": ":arrow_upper_left:",
+    // "shortname": ":arrow_upper_left:",
     "code_decimal": "&#8598;",
     "category": "s",
     "emoji_order": "2009"
@@ -7355,7 +7355,7 @@ let emojiList = [
   {
     "name": "arrow_up_down",
     "unicode": "2195",
-    "shortname": ":arrow_up_down:",
+    // "shortname": ":arrow_up_down:",
     "code_decimal": "&#8597;",
     "category": "s",
     "emoji_order": "2010"
@@ -7363,7 +7363,7 @@ let emojiList = [
   {
     "name": "left_right_arrow",
     "unicode": "2194",
-    "shortname": ":left_right_arrow:",
+    // "shortname": ":left_right_arrow:",
     "code_decimal": "&harr;",
     "category": "s",
     "emoji_order": "2011"
@@ -7371,7 +7371,7 @@ let emojiList = [
   {
     "name": "leftwards_arrow_with_hook",
     "unicode": "21a9",
-    "shortname": ":leftwards_arrow_with_hook:",
+    // "shortname": ":leftwards_arrow_with_hook:",
     "code_decimal": "&#8617;",
     "category": "s",
     "emoji_order": "2012"
@@ -7379,7 +7379,7 @@ let emojiList = [
   {
     "name": "arrow_right_hook",
     "unicode": "21aa",
-    "shortname": ":arrow_right_hook:",
+    // "shortname": ":arrow_right_hook:",
     "code_decimal": "&#8618;",
     "category": "s",
     "emoji_order": "2013"
@@ -7387,7 +7387,7 @@ let emojiList = [
   {
     "name": "arrow_heading_up",
     "unicode": "2934",
-    "shortname": ":arrow_heading_up:",
+    // "shortname": ":arrow_heading_up:",
     "code_decimal": "&#10548;",
     "category": "s",
     "emoji_order": "2014"
@@ -7395,7 +7395,7 @@ let emojiList = [
   {
     "name": "arrow_heading_down",
     "unicode": "2935",
-    "shortname": ":arrow_heading_down:",
+    // "shortname": ":arrow_heading_down:",
     "code_decimal": "&#10549;",
     "category": "s",
     "emoji_order": "2015"
@@ -7403,7 +7403,7 @@ let emojiList = [
   {
     "name": "arrows_clockwise",
     "unicode": "1f503",
-    "shortname": ":arrows_clockwise:",
+    // "shortname": ":arrows_clockwise:",
     "code_decimal": "&#128259;",
     "category": "s",
     "emoji_order": "2016"
@@ -7411,7 +7411,7 @@ let emojiList = [
   {
     "name": "arrows_counterclockwise",
     "unicode": "1f504",
-    "shortname": ":arrows_counterclockwise:",
+    // "shortname": ":arrows_counterclockwise:",
     "code_decimal": "&#128260;",
     "category": "s",
     "emoji_order": "2017"
@@ -7419,7 +7419,7 @@ let emojiList = [
   {
     "name": "back",
     "unicode": "1f519",
-    "shortname": ":back:",
+    // "shortname": ":back:",
     "code_decimal": "&#128281;",
     "category": "s",
     "emoji_order": "2018"
@@ -7427,7 +7427,7 @@ let emojiList = [
   {
     "name": "end",
     "unicode": "1f51a",
-    "shortname": ":end:",
+    // "shortname": ":end:",
     "code_decimal": "&#128282;",
     "category": "s",
     "emoji_order": "2019"
@@ -7435,7 +7435,7 @@ let emojiList = [
   {
     "name": "on",
     "unicode": "1f51b",
-    "shortname": ":on:",
+    // "shortname": ":on:",
     "code_decimal": "&#128283;",
     "category": "s",
     "emoji_order": "2020"
@@ -7443,7 +7443,7 @@ let emojiList = [
   {
     "name": "soon",
     "unicode": "1f51c",
-    "shortname": ":soon:",
+    // "shortname": ":soon:",
     "code_decimal": "&#128284;",
     "category": "s",
     "emoji_order": "2021"
@@ -7451,7 +7451,7 @@ let emojiList = [
   {
     "name": "top",
     "unicode": "1f51d",
-    "shortname": ":top:",
+    // "shortname": ":top:",
     "code_decimal": "&#128285;",
     "category": "s",
     "emoji_order": "2022"
@@ -7459,7 +7459,7 @@ let emojiList = [
   {
     "name": "place_of_worship",
     "unicode": "1f6d0",
-    "shortname": ":place_of_worship:",
+    // "shortname": ":place_of_worship:",
     "code_decimal": "&#128720;",
     "category": "s",
     "emoji_order": "2023"
@@ -7467,7 +7467,7 @@ let emojiList = [
   {
     "name": "atom_symbol",
     "unicode": "269b",
-    "shortname": ":atom:",
+    // "shortname": ":atom:",
     "code_decimal": "&#9883;",
     "category": "s",
     "emoji_order": "2024"
@@ -7475,7 +7475,7 @@ let emojiList = [
   {
     "name": "om_symbol",
     "unicode": "1f549",
-    "shortname": ":om_symbol:",
+    // "shortname": ":om_symbol:",
     "code_decimal": "&#128329;",
     "category": "s",
     "emoji_order": "2025"
@@ -7483,7 +7483,7 @@ let emojiList = [
   {
     "name": "star_of_david",
     "unicode": "2721",
-    "shortname": ":star_of_david:",
+    // "shortname": ":star_of_david:",
     "code_decimal": "&#10017;",
     "category": "s",
     "emoji_order": "2026"
@@ -7491,7 +7491,7 @@ let emojiList = [
   {
     "name": "wheel_of_dharma",
     "unicode": "2638",
-    "shortname": ":wheel_of_dharma:",
+    // "shortname": ":wheel_of_dharma:",
     "code_decimal": "&#9784;",
     "category": "s",
     "emoji_order": "2027"
@@ -7499,7 +7499,7 @@ let emojiList = [
   {
     "name": "yin_yang",
     "unicode": "262f",
-    "shortname": ":yin_yang:",
+    // "shortname": ":yin_yang:",
     "code_decimal": "&#9775;",
     "category": "s",
     "emoji_order": "2028"
@@ -7507,7 +7507,7 @@ let emojiList = [
   {
     "name": "latin_cross",
     "unicode": "271d",
-    "shortname": ":cross:",
+    // "shortname": ":cross:",
     "code_decimal": "&#10013;",
     "category": "s",
     "emoji_order": "2029"
@@ -7515,7 +7515,7 @@ let emojiList = [
   {
     "name": "orthodox_cross",
     "unicode": "2626",
-    "shortname": ":orthodox_cross:",
+    // "shortname": ":orthodox_cross:",
     "code_decimal": "&#9766;",
     "category": "s",
     "emoji_order": "2030"
@@ -7523,7 +7523,7 @@ let emojiList = [
   {
     "name": "star_and_crescent",
     "unicode": "262a",
-    "shortname": ":star_and_crescent:",
+    // "shortname": ":star_and_crescent:",
     "code_decimal": "&#9770;",
     "category": "s",
     "emoji_order": "2031"
@@ -7531,7 +7531,7 @@ let emojiList = [
   {
     "name": "peace_symbol",
     "unicode": "262e",
-    "shortname": ":peace:",
+    // "shortname": ":peace:",
     "code_decimal": "&#9774;",
     "category": "s",
     "emoji_order": "2032"
@@ -7539,7 +7539,7 @@ let emojiList = [
   {
     "name": "menorah_with_nine_branches",
     "unicode": "1f54e",
-    "shortname": ":menorah:",
+    // "shortname": ":menorah:",
     "code_decimal": "&#128334;",
     "category": "s",
     "emoji_order": "2033"
@@ -7547,7 +7547,7 @@ let emojiList = [
   {
     "name": "six_pointed_star",
     "unicode": "1f52f",
-    "shortname": ":six_pointed_star:",
+    // "shortname": ":six_pointed_star:",
     "code_decimal": "&#128303;",
     "category": "s",
     "emoji_order": "2034"
@@ -7555,7 +7555,7 @@ let emojiList = [
   {
     "name": "aries",
     "unicode": "2648",
-    "shortname": ":aries:",
+    // "shortname": ":aries:",
     "code_decimal": "&#9800;",
     "category": "s",
     "emoji_order": "2035"
@@ -7563,7 +7563,7 @@ let emojiList = [
   {
     "name": "taurus",
     "unicode": "2649",
-    "shortname": ":taurus:",
+    // "shortname": ":taurus:",
     "code_decimal": "&#9801;",
     "category": "s",
     "emoji_order": "2036"
@@ -7571,7 +7571,7 @@ let emojiList = [
   {
     "name": "gemini",
     "unicode": "264a",
-    "shortname": ":gemini:",
+    // "shortname": ":gemini:",
     "code_decimal": "&#9802;",
     "category": "s",
     "emoji_order": "2037"
@@ -7579,7 +7579,7 @@ let emojiList = [
   {
     "name": "cancer",
     "unicode": "264b",
-    "shortname": ":cancer:",
+    // "shortname": ":cancer:",
     "code_decimal": "&#9803;",
     "category": "s",
     "emoji_order": "2038"
@@ -7587,7 +7587,7 @@ let emojiList = [
   {
     "name": "leo",
     "unicode": "264c",
-    "shortname": ":leo:",
+    // "shortname": ":leo:",
     "code_decimal": "&#9804;",
     "category": "s",
     "emoji_order": "2039"
@@ -7595,7 +7595,7 @@ let emojiList = [
   {
     "name": "virgo",
     "unicode": "264d",
-    "shortname": ":virgo:",
+    // "shortname": ":virgo:",
     "code_decimal": "&#9805;",
     "category": "s",
     "emoji_order": "2040"
@@ -7603,7 +7603,7 @@ let emojiList = [
   {
     "name": "libra",
     "unicode": "264e",
-    "shortname": ":libra:",
+    // "shortname": ":libra:",
     "code_decimal": "&#9806;",
     "category": "s",
     "emoji_order": "2041"
@@ -7611,7 +7611,7 @@ let emojiList = [
   {
     "name": "scorpius",
     "unicode": "264f",
-    "shortname": ":scorpius:",
+    // "shortname": ":scorpius:",
     "code_decimal": "&#9807;",
     "category": "s",
     "emoji_order": "2042"
@@ -7619,7 +7619,7 @@ let emojiList = [
   {
     "name": "sagittarius",
     "unicode": "2650",
-    "shortname": ":sagittarius:",
+    // "shortname": ":sagittarius:",
     "code_decimal": "&#9808;",
     "category": "s",
     "emoji_order": "2043"
@@ -7627,7 +7627,7 @@ let emojiList = [
   {
     "name": "capricorn",
     "unicode": "2651",
-    "shortname": ":capricorn:",
+    // "shortname": ":capricorn:",
     "code_decimal": "&#9809;",
     "category": "s",
     "emoji_order": "2044"
@@ -7635,7 +7635,7 @@ let emojiList = [
   {
     "name": "aquarius",
     "unicode": "2652",
-    "shortname": ":aquarius:",
+    // "shortname": ":aquarius:",
     "code_decimal": "&#9810;",
     "category": "s",
     "emoji_order": "2045"
@@ -7643,7 +7643,7 @@ let emojiList = [
   {
     "name": "pisces",
     "unicode": "2653",
-    "shortname": ":pisces:",
+    // "shortname": ":pisces:",
     "code_decimal": "&#9811;",
     "category": "s",
     "emoji_order": "2046"
@@ -7651,7 +7651,7 @@ let emojiList = [
   {
     "name": "ophiuchus",
     "unicode": "26ce",
-    "shortname": ":ophiuchus:",
+    // "shortname": ":ophiuchus:",
     "code_decimal": "&#9934;",
     "category": "s",
     "emoji_order": "2047"
@@ -7659,7 +7659,7 @@ let emojiList = [
   {
     "name": "twisted_rightwards_arrows",
     "unicode": "1f500",
-    "shortname": ":twisted_rightwards_arrows:",
+    // "shortname": ":twisted_rightwards_arrows:",
     "code_decimal": "&#128256;",
     "category": "s",
     "emoji_order": "2048"
@@ -7667,7 +7667,7 @@ let emojiList = [
   {
     "name": "repeat",
     "unicode": "1f501",
-    "shortname": ":repeat:",
+    // "shortname": ":repeat:",
     "code_decimal": "&#128257;",
     "category": "s",
     "emoji_order": "2049"
@@ -7675,7 +7675,7 @@ let emojiList = [
   {
     "name": "repeat_one",
     "unicode": "1f502",
-    "shortname": ":repeat_one:",
+    // "shortname": ":repeat_one:",
     "code_decimal": "&#128258;",
     "category": "s",
     "emoji_order": "2050"
@@ -7683,7 +7683,7 @@ let emojiList = [
   {
     "name": "arrow_forward",
     "unicode": "25b6",
-    "shortname": ":arrow_forward:",
+    // "shortname": ":arrow_forward:",
     "code_decimal": "&#9654;",
     "category": "s",
     "emoji_order": "2051"
@@ -7691,7 +7691,7 @@ let emojiList = [
   {
     "name": "fast_forward",
     "unicode": "23e9",
-    "shortname": ":fast_forward:",
+    // "shortname": ":fast_forward:",
     "code_decimal": "&#9193;",
     "category": "s",
     "emoji_order": "2052"
@@ -7699,7 +7699,7 @@ let emojiList = [
   {
     "name": "black_right_pointing_double_triangle_with_vertical_bar",
     "unicode": "23ed",
-    "shortname": ":track_next:",
+    // "shortname": ":track_next:",
     "code_decimal": "&#9197;",
     "category": "s",
     "emoji_order": "2053"
@@ -7707,7 +7707,7 @@ let emojiList = [
   {
     "name": "black_right_pointing_triangle_with_double_vertical_bar",
     "unicode": "23ef",
-    "shortname": ":play_pause:",
+    // "shortname": ":play_pause:",
     "code_decimal": "&#9199;",
     "category": "s",
     "emoji_order": "2054"
@@ -7715,7 +7715,7 @@ let emojiList = [
   {
     "name": "arrow_backward",
     "unicode": "25c0",
-    "shortname": ":arrow_backward:",
+    // "shortname": ":arrow_backward:",
     "code_decimal": "&#9664;",
     "category": "s",
     "emoji_order": "2055"
@@ -7723,7 +7723,7 @@ let emojiList = [
   {
     "name": "rewind",
     "unicode": "23ea",
-    "shortname": ":rewind:",
+    // "shortname": ":rewind:",
     "code_decimal": "&#9194;",
     "category": "s",
     "emoji_order": "2056"
@@ -7731,7 +7731,7 @@ let emojiList = [
   {
     "name": "black_left_pointing_double_triangle_with_vertical_bar",
     "unicode": "23ee",
-    "shortname": ":track_previous:",
+    // "shortname": ":track_previous:",
     "code_decimal": "&#9198;",
     "category": "s",
     "emoji_order": "2057"
@@ -7739,7 +7739,7 @@ let emojiList = [
   {
     "name": "arrow_up_small",
     "unicode": "1f53c",
-    "shortname": ":arrow_up_small:",
+    // "shortname": ":arrow_up_small:",
     "code_decimal": "&#128316;",
     "category": "s",
     "emoji_order": "2058"
@@ -7747,7 +7747,7 @@ let emojiList = [
   {
     "name": "arrow_double_up",
     "unicode": "23eb",
-    "shortname": ":arrow_double_up:",
+    // "shortname": ":arrow_double_up:",
     "code_decimal": "&#9195;",
     "category": "s",
     "emoji_order": "2059"
@@ -7755,7 +7755,7 @@ let emojiList = [
   {
     "name": "arrow_down_small",
     "unicode": "1f53d",
-    "shortname": ":arrow_down_small:",
+    // "shortname": ":arrow_down_small:",
     "code_decimal": "&#128317;",
     "category": "s",
     "emoji_order": "2060"
@@ -7763,7 +7763,7 @@ let emojiList = [
   {
     "name": "arrow_double_down",
     "unicode": "23ec",
-    "shortname": ":arrow_double_down:",
+    // "shortname": ":arrow_double_down:",
     "code_decimal": "&#9196;",
     "category": "s",
     "emoji_order": "2061"
@@ -7771,7 +7771,7 @@ let emojiList = [
   {
     "name": "double_vertical_bar",
     "unicode": "23f8",
-    "shortname": ":pause_button:",
+    // "shortname": ":pause_button:",
     "code_decimal": "&#9208;",
     "category": "s",
     "emoji_order": "2062"
@@ -7779,7 +7779,7 @@ let emojiList = [
   {
     "name": "black_square_for_stop",
     "unicode": "23f9",
-    "shortname": ":stop_button:",
+    // "shortname": ":stop_button:",
     "code_decimal": "&#9209;",
     "category": "s",
     "emoji_order": "2063"
@@ -7787,7 +7787,7 @@ let emojiList = [
   {
     "name": "black_circle_for_record",
     "unicode": "23fa",
-    "shortname": ":record_button:",
+    // "shortname": ":record_button:",
     "code_decimal": "&#9210;",
     "category": "s",
     "emoji_order": "2064"
@@ -7795,7 +7795,7 @@ let emojiList = [
   /*{ //@todo not found on image
     "name": "eject",
     "unicode": "23cf",
-    "shortname": ":eject:",
+    // "shortname": ":eject:",
     "code_decimal": "&#9167;",
     "category": "s",
     "emoji_order": "2065"
@@ -7803,7 +7803,7 @@ let emojiList = [
   {
     "name": "cinema",
     "unicode": "1f3a6",
-    "shortname": ":cinema:",
+    // "shortname": ":cinema:",
     "code_decimal": "&#127910;",
     "category": "s",
     "emoji_order": "2066"
@@ -7811,7 +7811,7 @@ let emojiList = [
   {
     "name": "low_brightness",
     "unicode": "1f505",
-    "shortname": ":low_brightness:",
+    // "shortname": ":low_brightness:",
     "code_decimal": "&#128261;",
     "category": "s",
     "emoji_order": "2067"
@@ -7819,7 +7819,7 @@ let emojiList = [
   {
     "name": "high_brightness",
     "unicode": "1f506",
-    "shortname": ":high_brightness:",
+    // "shortname": ":high_brightness:",
     "code_decimal": "&#128262;",
     "category": "s",
     "emoji_order": "2068"
@@ -7827,7 +7827,7 @@ let emojiList = [
   {
     "name": "signal_strength",
     "unicode": "1f4f6",
-    "shortname": ":signal_strength:",
+    // "shortname": ":signal_strength:",
     "code_decimal": "&#128246;",
     "category": "s",
     "emoji_order": "2069"
@@ -7835,7 +7835,7 @@ let emojiList = [
   {
     "name": "vibration_mode",
     "unicode": "1f4f3",
-    "shortname": ":vibration_mode:",
+    // "shortname": ":vibration_mode:",
     "code_decimal": "&#128243;",
     "category": "s",
     "emoji_order": "2070"
@@ -7843,7 +7843,7 @@ let emojiList = [
   {
     "name": "mobile_phone_off",
     "unicode": "1f4f4",
-    "shortname": ":mobile_phone_off:",
+    // "shortname": ":mobile_phone_off:",
     "code_decimal": "&#128244;",
     "category": "s",
     "emoji_order": "2071"
@@ -7851,7 +7851,7 @@ let emojiList = [
   {
     "name": "recycle",
     "unicode": "267b",
-    "shortname": ":recycle:",
+    // "shortname": ":recycle:",
     "code_decimal": "&#9851;",
     "category": "s",
     "emoji_order": "2072"
@@ -7859,7 +7859,7 @@ let emojiList = [
   {
     "name": "name_badge",
     "unicode": "1f4db",
-    "shortname": ":name_badge:",
+    // "shortname": ":name_badge:",
     "code_decimal": "&#128219;",
     "category": "s",
     "emoji_order": "2073"
@@ -7867,7 +7867,7 @@ let emojiList = [
   {
     "name": "fleur_de_lis",
     "unicode": "269c",
-    "shortname": ":fleur-de-lis:",
+    // "shortname": ":fleur-de-lis:",
     "code_decimal": "&#9884;",
     "category": "s",
     "emoji_order": "2074"
@@ -7875,7 +7875,7 @@ let emojiList = [
   {
     "name": "beginner",
     "unicode": "1f530",
-    "shortname": ":beginner:",
+    // "shortname": ":beginner:",
     "code_decimal": "&#128304;",
     "category": "s",
     "emoji_order": "2075"
@@ -7883,7 +7883,7 @@ let emojiList = [
   {
     "name": "trident",
     "unicode": "1f531",
-    "shortname": ":trident:",
+    // "shortname": ":trident:",
     "code_decimal": "&#128305;",
     "category": "s",
     "emoji_order": "2076"
@@ -7891,7 +7891,7 @@ let emojiList = [
   {
     "name": "o",
     "unicode": "2b55",
-    "shortname": ":o:",
+    // "shortname": ":o:",
     "code_decimal": "&#11093;",
     "category": "s",
     "emoji_order": "2077"
@@ -7899,7 +7899,7 @@ let emojiList = [
   {
     "name": "white_check_mark",
     "unicode": "2705",
-    "shortname": ":white_check_mark:",
+    // "shortname": ":white_check_mark:",
     "code_decimal": "&#9989;",
     "category": "s",
     "emoji_order": "2078"
@@ -7907,7 +7907,7 @@ let emojiList = [
   {
     "name": "ballot_box_with_check",
     "unicode": "2611",
-    "shortname": ":ballot_box_with_check:",
+    // "shortname": ":ballot_box_with_check:",
     "code_decimal": "&#9745;",
     "category": "s",
     "emoji_order": "2079"
@@ -7915,7 +7915,7 @@ let emojiList = [
   {
     "name": "heavy_check_mark",
     "unicode": "2714",
-    "shortname": ":heavy_check_mark:",
+    // "shortname": ":heavy_check_mark:",
     "code_decimal": "&#10004;",
     "category": "s",
     "emoji_order": "2080"
@@ -7923,7 +7923,7 @@ let emojiList = [
   {
     "name": "heavy_multiplication_x",
     "unicode": "2716",
-    "shortname": ":heavy_multiplication_x:",
+    // "shortname": ":heavy_multiplication_x:",
     "code_decimal": "&#10006;",
     "category": "s",
     "emoji_order": "2081"
@@ -7931,7 +7931,7 @@ let emojiList = [
   {
     "name": "x",
     "unicode": "274c",
-    "shortname": ":x:",
+    // "shortname": ":x:",
     "code_decimal": "&#10060;",
     "category": "s",
     "emoji_order": "2082"
@@ -7939,7 +7939,7 @@ let emojiList = [
   {
     "name": "negative_squared_cross_mark",
     "unicode": "274e",
-    "shortname": ":negative_squared_cross_mark:",
+    // "shortname": ":negative_squared_cross_mark:",
     "code_decimal": "&#10062;",
     "category": "s",
     "emoji_order": "2083"
@@ -7947,7 +7947,7 @@ let emojiList = [
   {
     "name": "heavy_plus_sign",
     "unicode": "2795",
-    "shortname": ":heavy_plus_sign:",
+    // "shortname": ":heavy_plus_sign:",
     "code_decimal": "&#10133;",
     "category": "s",
     "emoji_order": "2084"
@@ -7955,7 +7955,7 @@ let emojiList = [
   {
     "name": "heavy_minus_sign",
     "unicode": "2796",
-    "shortname": ":heavy_minus_sign:",
+    // "shortname": ":heavy_minus_sign:",
     "code_decimal": "&#10134;",
     "category": "s",
     "emoji_order": "2088"
@@ -7963,7 +7963,7 @@ let emojiList = [
   {
     "name": "heavy_division_sign",
     "unicode": "2797",
-    "shortname": ":heavy_division_sign:",
+    // "shortname": ":heavy_division_sign:",
     "code_decimal": "&#10135;",
     "category": "s",
     "emoji_order": "2089"
@@ -7971,7 +7971,7 @@ let emojiList = [
   {
     "name": "curly_loop",
     "unicode": "27b0",
-    "shortname": ":curly_loop:",
+    // "shortname": ":curly_loop:",
     "code_decimal": "&#10160;",
     "category": "s",
     "emoji_order": "2090"
@@ -7979,7 +7979,7 @@ let emojiList = [
   {
     "name": "loop",
     "unicode": "27bf",
-    "shortname": ":loop:",
+    // "shortname": ":loop:",
     "code_decimal": "&#10175;",
     "category": "s",
     "emoji_order": "2091"
@@ -7987,7 +7987,7 @@ let emojiList = [
   {
     "name": "part_alternation_mark",
     "unicode": "303d",
-    "shortname": ":part_alternation_mark:",
+    // "shortname": ":part_alternation_mark:",
     "code_decimal": "&#12349;",
     "category": "s",
     "emoji_order": "2092"
@@ -7995,7 +7995,7 @@ let emojiList = [
   {
     "name": "eight_spoked_asterisk",
     "unicode": "2733",
-    "shortname": ":eight_spoked_asterisk:",
+    // "shortname": ":eight_spoked_asterisk:",
     "code_decimal": "&#10035;",
     "category": "s",
     "emoji_order": "2093"
@@ -8003,7 +8003,7 @@ let emojiList = [
   {
     "name": "eight_pointed_black_star",
     "unicode": "2734",
-    "shortname": ":eight_pointed_black_star:",
+    // "shortname": ":eight_pointed_black_star:",
     "code_decimal": "&#10036;",
     "category": "s",
     "emoji_order": "2094"
@@ -8011,7 +8011,7 @@ let emojiList = [
   {
     "name": "sparkle",
     "unicode": "2747",
-    "shortname": ":sparkle:",
+    // "shortname": ":sparkle:",
     "code_decimal": "&#10055;",
     "category": "s",
     "emoji_order": "2095"
@@ -8019,7 +8019,7 @@ let emojiList = [
   {
     "name": "bangbang",
     "unicode": "203c",
-    "shortname": ":bangbang:",
+    // "shortname": ":bangbang:",
     "code_decimal": "&#8252;",
     "category": "s",
     "emoji_order": "2096"
@@ -8027,7 +8027,7 @@ let emojiList = [
   {
     "name": "interrobang",
     "unicode": "2049",
-    "shortname": ":interrobang:",
+    // "shortname": ":interrobang:",
     "code_decimal": "&#8265;",
     "category": "s",
     "emoji_order": "2097"
@@ -8035,7 +8035,7 @@ let emojiList = [
   {
     "name": "question",
     "unicode": "2753",
-    "shortname": ":question:",
+    // "shortname": ":question:",
     "code_decimal": "&#10067;",
     "category": "s",
     "emoji_order": "2098"
@@ -8043,7 +8043,7 @@ let emojiList = [
   {
     "name": "grey_question",
     "unicode": "2754",
-    "shortname": ":grey_question:",
+    // "shortname": ":grey_question:",
     "code_decimal": "&#10068;",
     "category": "s",
     "emoji_order": "2099"
@@ -8051,7 +8051,7 @@ let emojiList = [
   {
     "name": "grey_exclamation",
     "unicode": "2755",
-    "shortname": ":grey_exclamation:",
+    // "shortname": ":grey_exclamation:",
     "code_decimal": "&#10069;",
     "category": "s",
     "emoji_order": "2100"
@@ -8059,7 +8059,7 @@ let emojiList = [
   {
     "name": "exclamation",
     "unicode": "2757",
-    "shortname": ":exclamation:",
+    // "shortname": ":exclamation:",
     "code_decimal": "&#10071;",
     "category": "s",
     "emoji_order": "2101"
@@ -8067,7 +8067,7 @@ let emojiList = [
   {
     "name": "wavy_dash",
     "unicode": "3030",
-    "shortname": ":wavy_dash:",
+    // "shortname": ":wavy_dash:",
     "code_decimal": "&#12336;",
     "category": "s",
     "emoji_order": "2102"
@@ -8075,7 +8075,7 @@ let emojiList = [
   {
     "name": "copyright",
     "unicode": "00a9",
-    "shortname": ":copyright:",
+    // "shortname": ":copyright:",
     "code_decimal": "&copy;",
     "category": "s",
     "emoji_order": "2103"
@@ -8083,7 +8083,7 @@ let emojiList = [
   {
     "name": "registered",
     "unicode": "00ae",
-    "shortname": ":registered:",
+    // "shortname": ":registered:",
     "code_decimal": "&reg;",
     "category": "s",
     "emoji_order": "2104"
@@ -8091,7 +8091,7 @@ let emojiList = [
   {
     "name": "tm",
     "unicode": "2122",
-    "shortname": ":tm:",
+    // "shortname": ":tm:",
     "code_decimal": "&trade;",
     "category": "s",
     "emoji_order": "2105"
@@ -8099,7 +8099,7 @@ let emojiList = [
   {
     "name": "hash",
     "unicode": "0023-fe0f-20e3",
-    "shortname": ":hash:",
+    // "shortname": ":hash:",
     "code_decimal": "&#35;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2106"
@@ -8107,7 +8107,7 @@ let emojiList = [
   {
     "name": "keycap_star",
     "unicode": "002a-fe0f-20e3",
-    "shortname": ":asterisk:",
+    // "shortname": ":asterisk:",
     "code_decimal": "&#42;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2107"
@@ -8115,7 +8115,7 @@ let emojiList = [
   {
     "name": "zero",
     "unicode": "0030-fe0f-20e3",
-    "shortname": ":zero:",
+    // "shortname": ":zero:",
     "code_decimal": "&#48;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2108"
@@ -8123,7 +8123,7 @@ let emojiList = [
   {
     "name": "one",
     "unicode": "0031-fe0f-20e3",
-    "shortname": ":one:",
+    // "shortname": ":one:",
     "code_decimal": "&#49;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2109"
@@ -8131,7 +8131,7 @@ let emojiList = [
   {
     "name": "two",
     "unicode": "0032-fe0f-20e3",
-    "shortname": ":two:",
+    // "shortname": ":two:",
     "code_decimal": "&#50;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2110"
@@ -8139,7 +8139,7 @@ let emojiList = [
   {
     "name": "three",
     "unicode": "0033-fe0f-20e3",
-    "shortname": ":three:",
+    // "shortname": ":three:",
     "code_decimal": "&#51;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2111"
@@ -8147,7 +8147,7 @@ let emojiList = [
   {
     "name": "four",
     "unicode": "0034-fe0f-20e3",
-    "shortname": ":four:",
+    // "shortname": ":four:",
     "code_decimal": "&#52;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2112"
@@ -8155,7 +8155,7 @@ let emojiList = [
   {
     "name": "five",
     "unicode": "0035-fe0f-20e3",
-    "shortname": ":five:",
+    // "shortname": ":five:",
     "code_decimal": "&#53;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2113"
@@ -8163,7 +8163,7 @@ let emojiList = [
   {
     "name": "six",
     "unicode": "0036-fe0f-20e3",
-    "shortname": ":six:",
+    // "shortname": ":six:",
     "code_decimal": "&#54;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2114"
@@ -8171,7 +8171,7 @@ let emojiList = [
   {
     "name": "seven",
     "unicode": "0037-fe0f-20e3",
-    "shortname": ":seven:",
+    // "shortname": ":seven:",
     "code_decimal": "&#55;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2115"
@@ -8179,7 +8179,7 @@ let emojiList = [
   {
     "name": "eight",
     "unicode": "0038-fe0f-20e3",
-    "shortname": ":eight:",
+    // "shortname": ":eight:",
     "code_decimal": "&#56;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2116"
@@ -8187,7 +8187,7 @@ let emojiList = [
   {
     "name": "nine",
     "unicode": "0039-fe0f-20e3",
-    "shortname": ":nine:",
+    // "shortname": ":nine:",
     "code_decimal": "&#57;&#65039;&#8419;",
     "category": "s",
     "emoji_order": "2117"
@@ -8195,7 +8195,7 @@ let emojiList = [
   {
     "name": "keycap_ten",
     "unicode": "1f51f",
-    "shortname": ":keycap_ten:",
+    // "shortname": ":keycap_ten:",
     "code_decimal": "&#128287;",
     "category": "s",
     "emoji_order": "2118"
@@ -8203,7 +8203,7 @@ let emojiList = [
   {
     "name": "capital_abcd",
     "unicode": "1f520",
-    "shortname": ":capital_abcd:",
+    // "shortname": ":capital_abcd:",
     "code_decimal": "&#128288;",
     "category": "s",
     "emoji_order": "2120"
@@ -8211,7 +8211,7 @@ let emojiList = [
   {
     "name": "abcd",
     "unicode": "1f521",
-    "shortname": ":abcd:",
+    // "shortname": ":abcd:",
     "code_decimal": "&#128289;",
     "category": "s",
     "emoji_order": "2121"
@@ -8219,7 +8219,7 @@ let emojiList = [
   {
     "name": "s",
     "unicode": "1f523",
-    "shortname": ":s:",
+    // "shortname": ":s:",
     "code_decimal": "&#128291;",
     "category": "s",
     "emoji_order": "2123"
@@ -8227,7 +8227,7 @@ let emojiList = [
   {
     "name": "abc",
     "unicode": "1f524",
-    "shortname": ":abc:",
+    // "shortname": ":abc:",
     "code_decimal": "&#128292;",
     "category": "s",
     "emoji_order": "2124"
@@ -8235,7 +8235,7 @@ let emojiList = [
   {
     "name": "a",
     "unicode": "1f170",
-    "shortname": ":a:",
+    // "shortname": ":a:",
     "code_decimal": "&#127344;",
     "category": "s",
     "emoji_order": "2125"
@@ -8243,7 +8243,7 @@ let emojiList = [
   {
     "name": "ab",
     "unicode": "1f18e",
-    "shortname": ":ab:",
+    // "shortname": ":ab:",
     "code_decimal": "&#127374;",
     "category": "s",
     "emoji_order": "2126"
@@ -8251,7 +8251,7 @@ let emojiList = [
   {
     "name": "b",
     "unicode": "1f171",
-    "shortname": ":b:",
+    // "shortname": ":b:",
     "code_decimal": "&#127345;",
     "category": "s",
     "emoji_order": "2127"
@@ -8259,7 +8259,7 @@ let emojiList = [
   {
     "name": "cl",
     "unicode": "1f191",
-    "shortname": ":cl:",
+    // "shortname": ":cl:",
     "code_decimal": "&#127377;",
     "category": "s",
     "emoji_order": "2128"
@@ -8267,7 +8267,7 @@ let emojiList = [
   {
     "name": "cool",
     "unicode": "1f192",
-    "shortname": ":cool:",
+    // "shortname": ":cool:",
     "code_decimal": "&#127378;",
     "category": "s",
     "emoji_order": "2129"
@@ -8275,7 +8275,7 @@ let emojiList = [
   {
     "name": "free",
     "unicode": "1f193",
-    "shortname": ":free:",
+    // "shortname": ":free:",
     "code_decimal": "&#127379;",
     "category": "s",
     "emoji_order": "2130"
@@ -8283,7 +8283,7 @@ let emojiList = [
   {
     "name": "information_source",
     "unicode": "2139",
-    "shortname": ":information_source:",
+    // "shortname": ":information_source:",
     "code_decimal": "&#8505;",
     "category": "s",
     "emoji_order": "2131"
@@ -8291,7 +8291,7 @@ let emojiList = [
   {
     "name": "id",
     "unicode": "1f194",
-    "shortname": ":id:",
+    // "shortname": ":id:",
     "code_decimal": "&#127380;",
     "category": "s",
     "emoji_order": "2132"
@@ -8299,7 +8299,7 @@ let emojiList = [
   {
     "name": "m",
     "unicode": "24c2",
-    "shortname": ":m:",
+    // "shortname": ":m:",
     "code_decimal": "&#9410;",
     "category": "s",
     "emoji_order": "2133"
@@ -8307,7 +8307,7 @@ let emojiList = [
   {
     "name": "new",
     "unicode": "1f195",
-    "shortname": ":new:",
+    // "shortname": ":new:",
     "code_decimal": "&#127381;",
     "category": "s",
     "emoji_order": "2134"
@@ -8315,7 +8315,7 @@ let emojiList = [
   {
     "name": "ng",
     "unicode": "1f196",
-    "shortname": ":ng:",
+    // "shortname": ":ng:",
     "code_decimal": "&#127382;",
     "category": "s",
     "emoji_order": "2135"
@@ -8323,7 +8323,7 @@ let emojiList = [
   {
     "name": "o2",
     "unicode": "1f17e",
-    "shortname": ":o2:",
+    // "shortname": ":o2:",
     "code_decimal": "&#127358;",
     "category": "s",
     "emoji_order": "2136"
@@ -8331,7 +8331,7 @@ let emojiList = [
   {
     "name": "ok",
     "unicode": "1f197",
-    "shortname": ":ok:",
+    // "shortname": ":ok:",
     "code_decimal": "&#127383;",
     "category": "s",
     "emoji_order": "2137"
@@ -8339,7 +8339,7 @@ let emojiList = [
   {
     "name": "parking",
     "unicode": "1f17f",
-    "shortname": ":parking:",
+    // "shortname": ":parking:",
     "code_decimal": "&#127359;",
     "category": "s",
     "emoji_order": "2138"
@@ -8347,7 +8347,7 @@ let emojiList = [
   {
     "name": "sos",
     "unicode": "1f198",
-    "shortname": ":sos:",
+    // "shortname": ":sos:",
     "code_decimal": "&#127384;",
     "category": "s",
     "emoji_order": "2139"
@@ -8355,7 +8355,7 @@ let emojiList = [
   {
     "name": "up",
     "unicode": "1f199",
-    "shortname": ":up:",
+    // "shortname": ":up:",
     "code_decimal": "&#127385;",
     "category": "s",
     "emoji_order": "2140"
@@ -8363,7 +8363,7 @@ let emojiList = [
   {
     "name": "vs",
     "unicode": "1f19a",
-    "shortname": ":vs:",
+    // "shortname": ":vs:",
     "code_decimal": "&#127386;",
     "category": "s",
     "emoji_order": "2141"
@@ -8371,7 +8371,7 @@ let emojiList = [
   {
     "name": "koko",
     "unicode": "1f201",
-    "shortname": ":koko:",
+    // "shortname": ":koko:",
     "code_decimal": "&#127489;",
     "category": "s",
     "emoji_order": "2142"
@@ -8379,7 +8379,7 @@ let emojiList = [
   {
     "name": "sa",
     "unicode": "1f202",
-    "shortname": ":sa:",
+    // "shortname": ":sa:",
     "code_decimal": "&#127490;",
     "category": "s",
     "emoji_order": "2143"
@@ -8387,7 +8387,7 @@ let emojiList = [
   {
     "name": "u6708",
     "unicode": "1f237",
-    "shortname": ":u6708:",
+    // "shortname": ":u6708:",
     "code_decimal": "&#127543;",
     "category": "s",
     "emoji_order": "2144"
@@ -8395,7 +8395,7 @@ let emojiList = [
   {
     "name": "u6709",
     "unicode": "1f236",
-    "shortname": ":u6709:",
+    // "shortname": ":u6709:",
     "code_decimal": "&#127542;",
     "category": "s",
     "emoji_order": "2145"
@@ -8403,7 +8403,7 @@ let emojiList = [
   {
     "name": "u6307",
     "unicode": "1f22f",
-    "shortname": ":u6307:",
+    // "shortname": ":u6307:",
     "code_decimal": "&#127535;",
     "category": "s",
     "emoji_order": "2146"
@@ -8411,7 +8411,7 @@ let emojiList = [
   {
     "name": "ideograph_advantage",
     "unicode": "1f250",
-    "shortname": ":ideograph_advantage:",
+    // "shortname": ":ideograph_advantage:",
     "code_decimal": "&#127568;",
     "category": "s",
     "emoji_order": "2147"
@@ -8419,7 +8419,7 @@ let emojiList = [
   {
     "name": "u5272",
     "unicode": "1f239",
-    "shortname": ":u5272:",
+    // "shortname": ":u5272:",
     "code_decimal": "&#127545;",
     "category": "s",
     "emoji_order": "2148"
@@ -8427,7 +8427,7 @@ let emojiList = [
   {
     "name": "u7121",
     "unicode": "1f21a",
-    "shortname": ":u7121:",
+    // "shortname": ":u7121:",
     "code_decimal": "&#127514;",
     "category": "s",
     "emoji_order": "2149"
@@ -8435,7 +8435,7 @@ let emojiList = [
   {
     "name": "u7981",
     "unicode": "1f232",
-    "shortname": ":u7981:",
+    // "shortname": ":u7981:",
     "code_decimal": "&#127538;",
     "category": "s",
     "emoji_order": "2150"
@@ -8443,7 +8443,7 @@ let emojiList = [
   {
     "name": "accept",
     "unicode": "1f251",
-    "shortname": ":accept:",
+    // "shortname": ":accept:",
     "code_decimal": "&#127569;",
     "category": "s",
     "emoji_order": "2151"
@@ -8451,7 +8451,7 @@ let emojiList = [
   {
     "name": "u7533",
     "unicode": "1f238",
-    "shortname": ":u7533:",
+    // "shortname": ":u7533:",
     "code_decimal": "&#127544;",
     "category": "s",
     "emoji_order": "2152"
@@ -8459,7 +8459,7 @@ let emojiList = [
   {
     "name": "u5408",
     "unicode": "1f234",
-    "shortname": ":u5408:",
+    // "shortname": ":u5408:",
     "code_decimal": "&#127540;",
     "category": "s",
     "emoji_order": "2153"
@@ -8467,7 +8467,7 @@ let emojiList = [
   {
     "name": "u7a7a",
     "unicode": "1f233",
-    "shortname": ":u7a7a:",
+    // "shortname": ":u7a7a:",
     "code_decimal": "&#127539;",
     "category": "s",
     "emoji_order": "2154"
@@ -8475,7 +8475,7 @@ let emojiList = [
   {
     "name": "congratulations",
     "unicode": "3297",
-    "shortname": ":congratulations:",
+    // "shortname": ":congratulations:",
     "code_decimal": "&#12951;",
     "category": "s",
     "emoji_order": "2155"
@@ -8483,7 +8483,7 @@ let emojiList = [
   {
     "name": "secret",
     "unicode": "3299",
-    "shortname": ":secret:",
+    // "shortname": ":secret:",
     "code_decimal": "&#12953;",
     "category": "s",
     "emoji_order": "2156"
@@ -8491,7 +8491,7 @@ let emojiList = [
   {
     "name": "u55b6",
     "unicode": "1f23a",
-    "shortname": ":u55b6:",
+    // "shortname": ":u55b6:",
     "code_decimal": "&#127546;",
     "category": "s",
     "emoji_order": "2157"
@@ -8499,7 +8499,7 @@ let emojiList = [
   {
     "name": "u6e80",
     "unicode": "1f235",
-    "shortname": ":u6e80:",
+    // "shortname": ":u6e80:",
     "code_decimal": "&#127541;",
     "category": "s",
     "emoji_order": "2158"
@@ -8507,7 +8507,7 @@ let emojiList = [
   {
     "name": "black_small_square",
     "unicode": "25aa",
-    "shortname": ":black_small_square:",
+    // "shortname": ":black_small_square:",
     "code_decimal": "&#9642;",
     "category": "s",
     "emoji_order": "2159"
@@ -8515,7 +8515,7 @@ let emojiList = [
   {
     "name": "white_small_square",
     "unicode": "25ab",
-    "shortname": ":white_small_square:",
+    // "shortname": ":white_small_square:",
     "code_decimal": "&#9643;",
     "category": "s",
     "emoji_order": "2160"
@@ -8523,7 +8523,7 @@ let emojiList = [
   {
     "name": "white_medium_square",
     "unicode": "25fb",
-    "shortname": ":white_medium_square:",
+    // "shortname": ":white_medium_square:",
     "code_decimal": "&#9723;",
     "category": "s",
     "emoji_order": "2161"
@@ -8531,7 +8531,7 @@ let emojiList = [
   {
     "name": "black_medium_square",
     "unicode": "25fc",
-    "shortname": ":black_medium_square:",
+    // "shortname": ":black_medium_square:",
     "code_decimal": "&#9724;",
     "category": "s",
     "emoji_order": "2162"
@@ -8539,7 +8539,7 @@ let emojiList = [
   {
     "name": "white_medium_small_square",
     "unicode": "25fd",
-    "shortname": ":white_medium_small_square:",
+    // "shortname": ":white_medium_small_square:",
     "code_decimal": "&#9725;",
     "category": "s",
     "emoji_order": "2163"
@@ -8547,7 +8547,7 @@ let emojiList = [
   {
     "name": "black_medium_small_square",
     "unicode": "25fe",
-    "shortname": ":black_medium_small_square:",
+    // "shortname": ":black_medium_small_square:",
     "code_decimal": "&#9726;",
     "category": "s",
     "emoji_order": "2164"
@@ -8555,7 +8555,7 @@ let emojiList = [
   {
     "name": "black_large_square",
     "unicode": "2b1b",
-    "shortname": ":black_large_square:",
+    // "shortname": ":black_large_square:",
     "code_decimal": "&#11035;",
     "category": "s",
     "emoji_order": "2165"
@@ -8563,7 +8563,7 @@ let emojiList = [
   {
     "name": "white_large_square",
     "unicode": "2b1c",
-    "shortname": ":white_large_square:",
+    // "shortname": ":white_large_square:",
     "code_decimal": "&#11036;",
     "category": "s",
     "emoji_order": "2166"
@@ -8571,7 +8571,7 @@ let emojiList = [
   {
     "name": "large_orange_diamond",
     "unicode": "1f536",
-    "shortname": ":large_orange_diamond:",
+    // "shortname": ":large_orange_diamond:",
     "code_decimal": "&#128310;",
     "category": "s",
     "emoji_order": "2167"
@@ -8579,7 +8579,7 @@ let emojiList = [
   {
     "name": "large_blue_diamond",
     "unicode": "1f537",
-    "shortname": ":large_blue_diamond:",
+    // "shortname": ":large_blue_diamond:",
     "code_decimal": "&#128311;",
     "category": "s",
     "emoji_order": "2168"
@@ -8587,7 +8587,7 @@ let emojiList = [
   {
     "name": "small_orange_diamond",
     "unicode": "1f538",
-    "shortname": ":small_orange_diamond:",
+    // "shortname": ":small_orange_diamond:",
     "code_decimal": "&#128312;",
     "category": "s",
     "emoji_order": "2169"
@@ -8595,7 +8595,7 @@ let emojiList = [
   {
     "name": "small_blue_diamond",
     "unicode": "1f539",
-    "shortname": ":small_blue_diamond:",
+    // "shortname": ":small_blue_diamond:",
     "code_decimal": "&#128313;",
     "category": "s",
     "emoji_order": "2170"
@@ -8603,7 +8603,7 @@ let emojiList = [
   {
     "name": "small_red_triangle",
     "unicode": "1f53a",
-    "shortname": ":small_red_triangle:",
+    // "shortname": ":small_red_triangle:",
     "code_decimal": "&#128314;",
     "category": "s",
     "emoji_order": "2171"
@@ -8611,7 +8611,7 @@ let emojiList = [
   {
     "name": "small_red_triangle_down",
     "unicode": "1f53b",
-    "shortname": ":small_red_triangle_down:",
+    // "shortname": ":small_red_triangle_down:",
     "code_decimal": "&#128315;",
     "category": "s",
     "emoji_order": "2172"
@@ -8619,7 +8619,7 @@ let emojiList = [
   {
     "name": "diamond_shape_with_a_dot_inside",
     "unicode": "1f4a0",
-    "shortname": ":diamond_shape_with_a_dot_inside:",
+    // "shortname": ":diamond_shape_with_a_dot_inside:",
     "code_decimal": "&#128160;",
     "category": "s",
     "emoji_order": "2173"
@@ -8627,7 +8627,7 @@ let emojiList = [
   {
     "name": "radio_button",
     "unicode": "1f518",
-    "shortname": ":radio_button:",
+    // "shortname": ":radio_button:",
     "code_decimal": "&#128280;",
     "category": "s",
     "emoji_order": "2174"
@@ -8635,7 +8635,7 @@ let emojiList = [
   {
     "name": "black_square_button",
     "unicode": "1f532",
-    "shortname": ":black_square_button:",
+    // "shortname": ":black_square_button:",
     "code_decimal": "&#128306;",
     "category": "s",
     "emoji_order": "2175"
@@ -8643,7 +8643,7 @@ let emojiList = [
   {
     "name": "white_square_button",
     "unicode": "1f533",
-    "shortname": ":white_square_button:",
+    // "shortname": ":white_square_button:",
     "code_decimal": "&#128307;",
     "category": "s",
     "emoji_order": "2176"
@@ -8651,7 +8651,7 @@ let emojiList = [
   {
     "name": "white_circle",
     "unicode": "26aa",
-    "shortname": ":white_circle:",
+    // "shortname": ":white_circle:",
     "code_decimal": "&#9898;",
     "category": "s",
     "emoji_order": "2177"
@@ -8659,7 +8659,7 @@ let emojiList = [
   {
     "name": "black_circle",
     "unicode": "26ab",
-    "shortname": ":black_circle:",
+    // "shortname": ":black_circle:",
     "code_decimal": "&#9899;",
     "category": "s",
     "emoji_order": "2178"
@@ -8667,7 +8667,7 @@ let emojiList = [
   {
     "name": "red_circle",
     "unicode": "1f534",
-    "shortname": ":red_circle:",
+    // "shortname": ":red_circle:",
     "code_decimal": "&#128308;",
     "category": "s",
     "emoji_order": "2179"
@@ -8675,7 +8675,7 @@ let emojiList = [
   {
     "name": "large_blue_circle",
     "unicode": "1f535",
-    "shortname": ":blue_circle:",
+    // "shortname": ":blue_circle:",
     "code_decimal": "&#128309;",
     "category": "s",
     "emoji_order": "2180"
@@ -8683,7 +8683,7 @@ let emojiList = [
   {
     "name": "checkered_flag",
     "unicode": "1f3c1",
-    "shortname": ":checkered_flag:",
+    // "shortname": ":checkered_flag:",
     "code_decimal": "&#127937;",
     "category": "t",
     "emoji_order": "2181"
@@ -8691,7 +8691,7 @@ let emojiList = [
   {
     "name": "triangular_flag_on_post",
     "unicode": "1f6a9",
-    "shortname": ":triangular_flag_on_post:",
+    // "shortname": ":triangular_flag_on_post:",
     "code_decimal": "&#128681;",
     "category": "o",
     "emoji_order": "2182"
@@ -8699,7 +8699,7 @@ let emojiList = [
   {
     "name": "crossed_flags",
     "unicode": "1f38c",
-    "shortname": ":crossed_flags:",
+    // "shortname": ":crossed_flags:",
     "code_decimal": "&#127884;",
     "category": "o",
     "emoji_order": "2183"
@@ -8707,7 +8707,7 @@ let emojiList = [
   {
     "name": "waving_black_flag",
     "unicode": "1f3f4",
-    "shortname": ":flag_black:",
+    // "shortname": ":flag_black:",
     "code_decimal": "&#127988;",
     "category": "o",
     "emoji_order": "2184"
@@ -8715,7 +8715,7 @@ let emojiList = [
   {
     "name": "waving_white_flag",
     "unicode": "1f3f3",
-    "shortname": ":flag_white:",
+    // "shortname": ":flag_white:",
     "code_decimal": "&#127987;",
     "category": "o",
     "emoji_order": "2185"
@@ -8723,7 +8723,7 @@ let emojiList = [
   {
     "name": "flag-ac",
     "unicode": "1f1e6-1f1e8",
-    "shortname": ":flag_ac:",
+    // "shortname": ":flag_ac:",
     "code_decimal": "&#127462;&#127464;",
     "category": "f",
     "emoji_order": "2187"
@@ -8731,7 +8731,7 @@ let emojiList = [
   {
     "name": "flag-ad",
     "unicode": "1f1e6-1f1e9",
-    "shortname": ":flag_ad:",
+    // "shortname": ":flag_ad:",
     "code_decimal": "&#127462;&#127465;",
     "category": "f",
     "emoji_order": "2188"
@@ -8739,7 +8739,7 @@ let emojiList = [
   {
     "name": "flag-ae",
     "unicode": "1f1e6-1f1ea",
-    "shortname": ":flag_ae:",
+    // "shortname": ":flag_ae:",
     "code_decimal": "&#127462;&#127466;",
     "category": "f",
     "emoji_order": "2189"
@@ -8747,7 +8747,7 @@ let emojiList = [
   {
     "name": "flag-af",
     "unicode": "1f1e6-1f1eb",
-    "shortname": ":flag_af:",
+    // "shortname": ":flag_af:",
     "code_decimal": "&#127462;&#127467;",
     "category": "f",
     "emoji_order": "2190"
@@ -8755,7 +8755,7 @@ let emojiList = [
   {
     "name": "flag-ag",
     "unicode": "1f1e6-1f1ec",
-    "shortname": ":flag_ag:",
+    // "shortname": ":flag_ag:",
     "code_decimal": "&#127462;&#127468;",
     "category": "f",
     "emoji_order": "2191"
@@ -8763,7 +8763,7 @@ let emojiList = [
   {
     "name": "flag-ai",
     "unicode": "1f1e6-1f1ee",
-    "shortname": ":flag_ai:",
+    // "shortname": ":flag_ai:",
     "code_decimal": "&#127462;&#127470;",
     "category": "f",
     "emoji_order": "2192"
@@ -8771,7 +8771,7 @@ let emojiList = [
   {
     "name": "flag-al",
     "unicode": "1f1e6-1f1f1",
-    "shortname": ":flag_al:",
+    // "shortname": ":flag_al:",
     "code_decimal": "&#127462;&#127473;",
     "category": "f",
     "emoji_order": "2193"
@@ -8779,7 +8779,7 @@ let emojiList = [
   {
     "name": "flag-am",
     "unicode": "1f1e6-1f1f2",
-    "shortname": ":flag_am:",
+    // "shortname": ":flag_am:",
     "code_decimal": "&#127462;&#127474;",
     "category": "f",
     "emoji_order": "2194"
@@ -8787,7 +8787,7 @@ let emojiList = [
   {
     "name": "flag-ao",
     "unicode": "1f1e6-1f1f4",
-    "shortname": ":flag-ao:",
+    // "shortname": ":flag-ao:",
     "code_decimal": "&#127462;&#127476;",
     "category": "f",
     "emoji_order": "2195"
@@ -8795,7 +8795,7 @@ let emojiList = [
   {
     "name": "flag-aq",
     "unicode": "1f1e6-1f1f6",
-    "shortname": ":flag-aq:",
+    // "shortname": ":flag-aq:",
     "code_decimal": "&#127462;&#127478;",
     "category": "f",
     "emoji_order": "2196"
@@ -8803,7 +8803,7 @@ let emojiList = [
   {
     "name": "flag-ar",
     "unicode": "1f1e6-1f1f7",
-    "shortname": ":flag-ar:",
+    // "shortname": ":flag-ar:",
     "code_decimal": "&#127462;&#127479;",
     "category": "f",
     "emoji_order": "2197"
@@ -8811,7 +8811,7 @@ let emojiList = [
   {
     "name": "flag-as",
     "unicode": "1f1e6-1f1f8",
-    "shortname": ":flag-as:",
+    // "shortname": ":flag-as:",
     "code_decimal": "&#127462;&#127480;",
     "category": "f",
     "emoji_order": "2198"
@@ -8819,7 +8819,7 @@ let emojiList = [
   {
     "name": "flag-at",
     "unicode": "1f1e6-1f1f9",
-    "shortname": ":flag-at:",
+    // "shortname": ":flag-at:",
     "code_decimal": "&#127462;&#127481;",
     "category": "f",
     "emoji_order": "2199"
@@ -8827,7 +8827,7 @@ let emojiList = [
   {
     "name": "flag-au",
     "unicode": "1f1e6-1f1fa",
-    "shortname": ":flag-au:",
+    // "shortname": ":flag-au:",
     "code_decimal": "&#127462;&#127482;",
     "category": "f",
     "emoji_order": "2200"
@@ -8835,7 +8835,7 @@ let emojiList = [
   {
     "name": "flag-aw",
     "unicode": "1f1e6-1f1fc",
-    "shortname": ":flag-aw:",
+    // "shortname": ":flag-aw:",
     "code_decimal": "&#127462;&#127484;",
     "category": "f",
     "emoji_order": "2201"
@@ -8843,7 +8843,7 @@ let emojiList = [
   {
     "name": "flag-ax",
     "unicode": "1f1e6-1f1fd",
-    "shortname": ":flag-ax:",
+    // "shortname": ":flag-ax:",
     "code_decimal": "&#127462;&#127485;",
     "category": "f",
     "emoji_order": "2202"
@@ -8851,7 +8851,7 @@ let emojiList = [
   {
     "name": "flag-az",
     "unicode": "1f1e6-1f1ff",
-    "shortname": ":flag-az:",
+    // "shortname": ":flag-az:",
     "code_decimal": "&#127462;&#127487;",
     "category": "f",
     "emoji_order": "2203"
@@ -8859,7 +8859,7 @@ let emojiList = [
   {
     "name": "flag-ba",
     "unicode": "1f1e7-1f1e6",
-    "shortname": ":flag-ba:",
+    // "shortname": ":flag-ba:",
     "code_decimal": "&#127463;&#127462;",
     "category": "f",
     "emoji_order": "2204"
@@ -8867,7 +8867,7 @@ let emojiList = [
   {
     "name": "flag-bb",
     "unicode": "1f1e7-1f1e7",
-    "shortname": ":flag-bb:",
+    // "shortname": ":flag-bb:",
     "code_decimal": "&#127463;&#127463;",
     "category": "f",
     "emoji_order": "2205"
@@ -8875,7 +8875,7 @@ let emojiList = [
   {
     "name": "flag-bd",
     "unicode": "1f1e7-1f1e9",
-    "shortname": ":flag-bd:",
+    // "shortname": ":flag-bd:",
     "code_decimal": "&#127463;&#127465;",
     "category": "f",
     "emoji_order": "2206"
@@ -8883,7 +8883,7 @@ let emojiList = [
   {
     "name": "flag-be",
     "unicode": "1f1e7-1f1ea",
-    "shortname": ":flag-be:",
+    // "shortname": ":flag-be:",
     "code_decimal": "&#127463;&#127466;",
     "category": "f",
     "emoji_order": "2207"
@@ -8891,7 +8891,7 @@ let emojiList = [
   {
     "name": "flag-bf",
     "unicode": "1f1e7-1f1eb",
-    "shortname": ":flag-bf:",
+    // "shortname": ":flag-bf:",
     "code_decimal": "&#127463;&#127467;",
     "category": "f",
     "emoji_order": "2208"
@@ -8899,7 +8899,7 @@ let emojiList = [
   {
     "name": "flag-bg",
     "unicode": "1f1e7-1f1ec",
-    "shortname": ":flag-bg:",
+    // "shortname": ":flag-bg:",
     "code_decimal": "&#127463;&#127468;",
     "category": "f",
     "emoji_order": "2209"
@@ -8907,7 +8907,7 @@ let emojiList = [
   {
     "name": "flag-bh",
     "unicode": "1f1e7-1f1ed",
-    "shortname": ":flag-bh:",
+    // "shortname": ":flag-bh:",
     "code_decimal": "&#127463;&#127469;",
     "category": "f",
     "emoji_order": "2210"
@@ -8915,7 +8915,7 @@ let emojiList = [
   {
     "name": "flag-bi",
     "unicode": "1f1e7-1f1ee",
-    "shortname": ":flag-bi:",
+    // "shortname": ":flag-bi:",
     "code_decimal": "&#127463;&#127470;",
     "category": "f",
     "emoji_order": "2211"
@@ -8923,7 +8923,7 @@ let emojiList = [
   {
     "name": "flag-bj",
     "unicode": "1f1e7-1f1ef",
-    "shortname": ":flag-bj:",
+    // "shortname": ":flag-bj:",
     "code_decimal": "&#127463;&#127471;",
     "category": "f",
     "emoji_order": "2212"
@@ -8931,7 +8931,7 @@ let emojiList = [
   {
     "name": "flag-bl",
     "unicode": "1f1e7-1f1f1",
-    "shortname": ":flag-bl:",
+    // "shortname": ":flag-bl:",
     "code_decimal": "&#127463;&#127473;",
     "category": "f",
     "emoji_order": "2213"
@@ -8939,7 +8939,7 @@ let emojiList = [
   {
     "name": "flag-bm",
     "unicode": "1f1e7-1f1f2",
-    "shortname": ":flag-bm:",
+    // "shortname": ":flag-bm:",
     "code_decimal": "&#127463;&#127474;",
     "category": "f",
     "emoji_order": "2214"
@@ -8947,7 +8947,7 @@ let emojiList = [
   {
     "name": "flag-bn",
     "unicode": "1f1e7-1f1f3",
-    "shortname": ":flag-bn:",
+    // "shortname": ":flag-bn:",
     "code_decimal": "&#127463;&#127475;",
     "category": "f",
     "emoji_order": "2215"
@@ -8955,7 +8955,7 @@ let emojiList = [
   {
     "name": "flag-bo",
     "unicode": "1f1e7-1f1f4",
-    "shortname": ":flag-bo:",
+    // "shortname": ":flag-bo:",
     "code_decimal": "&#127463;&#127476;",
     "category": "f",
     "emoji_order": "2216"
@@ -8963,7 +8963,7 @@ let emojiList = [
   {
     "name": "flag-bq",
     "unicode": "1f1e7-1f1f6",
-    "shortname": ":flag-bq:",
+    // "shortname": ":flag-bq:",
     "code_decimal": "&#127463;&#127478;",
     "category": "f",
     "emoji_order": "2217"
@@ -8971,7 +8971,7 @@ let emojiList = [
   {
     "name": "flag-br",
     "unicode": "1f1e7-1f1f7",
-    "shortname": ":flag-br:",
+    // "shortname": ":flag-br:",
     "code_decimal": "&#127463;&#127479;",
     "category": "f",
     "emoji_order": "2218"
@@ -8979,7 +8979,7 @@ let emojiList = [
   {
     "name": "flag-bs",
     "unicode": "1f1e7-1f1f8",
-    "shortname": ":flag-bs:",
+    // "shortname": ":flag-bs:",
     "code_decimal": "&#127463;&#127480;",
     "category": "f",
     "emoji_order": "2219"
@@ -8987,7 +8987,7 @@ let emojiList = [
   {
     "name": "flag-bt",
     "unicode": "1f1e7-1f1f9",
-    "shortname": ":flag-bt:",
+    // "shortname": ":flag-bt:",
     "code_decimal": "&#127463;&#127481;",
     "category": "f",
     "emoji_order": "2220"
@@ -8995,7 +8995,7 @@ let emojiList = [
   {
     "name": "flag-bv",
     "unicode": "1f1e7-1f1fb",
-    "shortname": ":flag-bv:",
+    // "shortname": ":flag-bv:",
     "code_decimal": "&#127463;&#127483;",
     "category": "f",
     "emoji_order": "2221"
@@ -9003,7 +9003,7 @@ let emojiList = [
   {
     "name": "flag-bw",
     "unicode": "1f1e7-1f1fc",
-    "shortname": ":flag-bw:",
+    // "shortname": ":flag-bw:",
     "code_decimal": "&#127463;&#127484;",
     "category": "f",
     "emoji_order": "2222"
@@ -9011,7 +9011,7 @@ let emojiList = [
   {
     "name": "flag-by",
     "unicode": "1f1e7-1f1fe",
-    "shortname": ":flag-by:",
+    // "shortname": ":flag-by:",
     "code_decimal": "&#127463;&#127486;",
     "category": "f",
     "emoji_order": "2223"
@@ -9019,7 +9019,7 @@ let emojiList = [
   {
     "name": "flag-bz",
     "unicode": "1f1e7-1f1ff",
-    "shortname": ":flag-bz:",
+    // "shortname": ":flag-bz:",
     "code_decimal": "&#127463;&#127487;",
     "category": "f",
     "emoji_order": "2224"
@@ -9027,7 +9027,7 @@ let emojiList = [
   {
     "name": "flag-ca",
     "unicode": "1f1e8-1f1e6",
-    "shortname": ":flag-ca:",
+    // "shortname": ":flag-ca:",
     "code_decimal": "&#127464;&#127462;",
     "category": "f",
     "emoji_order": "2225"
@@ -9035,7 +9035,7 @@ let emojiList = [
   {
     "name": "flag-cc",
     "unicode": "1f1e8-1f1e8",
-    "shortname": ":flag-cc:",
+    // "shortname": ":flag-cc:",
     "code_decimal": "&#127464;&#127464;",
     "category": "f",
     "emoji_order": "2226"
@@ -9043,7 +9043,7 @@ let emojiList = [
   {
     "name": "flag-cd",
     "unicode": "1f1e8-1f1e9",
-    "shortname": ":flag-cd:",
+    // "shortname": ":flag-cd:",
     "code_decimal": "&#127464;&#127465;",
     "category": "f",
     "emoji_order": "2227"
@@ -9051,7 +9051,7 @@ let emojiList = [
   {
     "name": "flag-cf",
     "unicode": "1f1e8-1f1eb",
-    "shortname": ":flag-cf:",
+    // "shortname": ":flag-cf:",
     "code_decimal": "&#127464;&#127467;",
     "category": "f",
     "emoji_order": "2228"
@@ -9059,7 +9059,7 @@ let emojiList = [
   {
     "name": "flag-cg",
     "unicode": "1f1e8-1f1ec",
-    "shortname": ":flag-cg:",
+    // "shortname": ":flag-cg:",
     "code_decimal": "&#127464;&#127468;",
     "category": "f",
     "emoji_order": "2229"
@@ -9067,7 +9067,7 @@ let emojiList = [
   {
     "name": "flag-ch",
     "unicode": "1f1e8-1f1ed",
-    "shortname": ":flag-ch:",
+    // "shortname": ":flag-ch:",
     "code_decimal": "&#127464;&#127469;",
     "category": "f",
     "emoji_order": "2230"
@@ -9075,7 +9075,7 @@ let emojiList = [
   {
     "name": "flag-ci",
     "unicode": "1f1e8-1f1ee",
-    "shortname": ":flag-ci:",
+    // "shortname": ":flag-ci:",
     "code_decimal": "&#127464;&#127470;",
     "category": "f",
     "emoji_order": "2231"
@@ -9083,7 +9083,7 @@ let emojiList = [
   {
     "name": "flag-ck",
     "unicode": "1f1e8-1f1f0",
-    "shortname": ":flag-ck:",
+    // "shortname": ":flag-ck:",
     "code_decimal": "&#127464;&#127472;",
     "category": "f",
     "emoji_order": "2232"
@@ -9091,7 +9091,7 @@ let emojiList = [
   {
     "name": "flag-cl",
     "unicode": "1f1e8-1f1f1",
-    "shortname": ":flag-cl:",
+    // "shortname": ":flag-cl:",
     "code_decimal": "&#127464;&#127473;",
     "category": "f",
     "emoji_order": "2233"
@@ -9099,7 +9099,7 @@ let emojiList = [
   {
     "name": "flag-cm",
     "unicode": "1f1e8-1f1f2",
-    "shortname": ":flag-cm:",
+    // "shortname": ":flag-cm:",
     "code_decimal": "&#127464;&#127474;",
     "category": "f",
     "emoji_order": "2234"
@@ -9107,7 +9107,7 @@ let emojiList = [
   {
     "name": "flag-cn",
     "unicode": "1f1e8-1f1f3",
-    "shortname": ":flag-cn:",
+    // "shortname": ":flag-cn:",
     "code_decimal": "&#127464;&#127475;",
     "category": "f",
     "emoji_order": "2235"
@@ -9115,7 +9115,7 @@ let emojiList = [
   {
     "name": "flag-co",
     "unicode": "1f1e8-1f1f4",
-    "shortname": ":flag-co:",
+    // "shortname": ":flag-co:",
     "code_decimal": "&#127464;&#127476;",
     "category": "f",
     "emoji_order": "2236"
@@ -9123,7 +9123,7 @@ let emojiList = [
   {
     "name": "flag-cp",
     "unicode": "1f1e8-1f1f5",
-    "shortname": ":flag-cp:",
+    // "shortname": ":flag-cp:",
     "code_decimal": "&#127464;&#127477;",
     "category": "f",
     "emoji_order": "2237"
@@ -9131,7 +9131,7 @@ let emojiList = [
   {
     "name": "flag-cr",
     "unicode": "1f1e8-1f1f7",
-    "shortname": ":flag-cr:",
+    // "shortname": ":flag-cr:",
     "code_decimal": "&#127464;&#127479;",
     "category": "f",
     "emoji_order": "2238"
@@ -9139,7 +9139,7 @@ let emojiList = [
   {
     "name": "flag-cu",
     "unicode": "1f1e8-1f1fa",
-    "shortname": ":flag-cu:",
+    // "shortname": ":flag-cu:",
     "code_decimal": "&#127464;&#127482;",
     "category": "f",
     "emoji_order": "2239"
@@ -9147,7 +9147,7 @@ let emojiList = [
   {
     "name": "flag-cv",
     "unicode": "1f1e8-1f1fb",
-    "shortname": ":flag-cv:",
+    // "shortname": ":flag-cv:",
     "code_decimal": "&#127464;&#127483;",
     "category": "f",
     "emoji_order": "2240"
@@ -9155,7 +9155,7 @@ let emojiList = [
   {
     "name": "flag-cw",
     "unicode": "1f1e8-1f1fc",
-    "shortname": ":flag-cw:",
+    // "shortname": ":flag-cw:",
     "code_decimal": "&#127464;&#127484;",
     "category": "f",
     "emoji_order": "2241"
@@ -9163,7 +9163,7 @@ let emojiList = [
   {
     "name": "flag-cx",
     "unicode": "1f1e8-1f1fd",
-    "shortname": ":flag-cx:",
+    // "shortname": ":flag-cx:",
     "code_decimal": "&#127464;&#127485;",
     "category": "f",
     "emoji_order": "2242"
@@ -9171,7 +9171,7 @@ let emojiList = [
   {
     "name": "flag-cy",
     "unicode": "1f1e8-1f1fe",
-    "shortname": ":flag-cy:",
+    // "shortname": ":flag-cy:",
     "code_decimal": "&#127464;&#127486;",
     "category": "f",
     "emoji_order": "2243"
@@ -9179,7 +9179,7 @@ let emojiList = [
   {
     "name": "flag-cz",
     "unicode": "1f1e8-1f1ff",
-    "shortname": ":flag-cz:",
+    // "shortname": ":flag-cz:",
     "code_decimal": "&#127464;&#127487;",
     "category": "f",
     "emoji_order": "2244"
@@ -9187,7 +9187,7 @@ let emojiList = [
   {
     "name": "flag-de",
     "unicode": "1f1e9-1f1ea",
-    "shortname": ":flag-de:",
+    // "shortname": ":flag-de:",
     "code_decimal": "&#127465;&#127466;",
     "category": "f",
     "emoji_order": "2245"
@@ -9195,7 +9195,7 @@ let emojiList = [
   {
     "name": "flag-dg",
     "unicode": "1f1e9-1f1ec",
-    "shortname": ":flag-dg:",
+    // "shortname": ":flag-dg:",
     "code_decimal": "&#127465;&#127468;",
     "category": "f",
     "emoji_order": "2246"
@@ -9203,7 +9203,7 @@ let emojiList = [
   {
     "name": "flag-dj",
     "unicode": "1f1e9-1f1ef",
-    "shortname": ":flag-dj:",
+    // "shortname": ":flag-dj:",
     "code_decimal": "&#127465;&#127471;",
     "category": "f",
     "emoji_order": "2247"
@@ -9211,7 +9211,7 @@ let emojiList = [
   {
     "name": "flag-dk",
     "unicode": "1f1e9-1f1f0",
-    "shortname": ":flag-dk:",
+    // "shortname": ":flag-dk:",
     "code_decimal": "&#127465;&#127472;",
     "category": "f",
     "emoji_order": "2248"
@@ -9219,7 +9219,7 @@ let emojiList = [
   {
     "name": "flag-dm",
     "unicode": "1f1e9-1f1f2",
-    "shortname": ":flag-dm:",
+    // "shortname": ":flag-dm:",
     "code_decimal": "&#127465;&#127474;",
     "category": "f",
     "emoji_order": "2249"
@@ -9227,7 +9227,7 @@ let emojiList = [
   {
     "name": "flag-do",
     "unicode": "1f1e9-1f1f4",
-    "shortname": ":flag-do:",
+    // "shortname": ":flag-do:",
     "code_decimal": "&#127465;&#127476;",
     "category": "f",
     "emoji_order": "2250"
@@ -9235,7 +9235,7 @@ let emojiList = [
   {
     "name": "flag-dz",
     "unicode": "1f1e9-1f1ff",
-    "shortname": ":flag-dz:",
+    // "shortname": ":flag-dz:",
     "code_decimal": "&#127465;&#127487;",
     "category": "f",
     "emoji_order": "2251"
@@ -9243,7 +9243,7 @@ let emojiList = [
   {
     "name": "flag-ea",
     "unicode": "1f1ea-1f1e6",
-    "shortname": ":flag-ea:",
+    // "shortname": ":flag-ea:",
     "code_decimal": "&#127466;&#127462;",
     "category": "f",
     "emoji_order": "2252"
@@ -9251,7 +9251,7 @@ let emojiList = [
   {
     "name": "flag-ec",
     "unicode": "1f1ea-1f1e8",
-    "shortname": ":flag-ec:",
+    // "shortname": ":flag-ec:",
     "code_decimal": "&#127466;&#127464;",
     "category": "f",
     "emoji_order": "2253"
@@ -9259,7 +9259,7 @@ let emojiList = [
   {
     "name": "flag-ee",
     "unicode": "1f1ea-1f1ea",
-    "shortname": ":flag-ee:",
+    // "shortname": ":flag-ee:",
     "code_decimal": "&#127466;&#127466;",
     "category": "f",
     "emoji_order": "2254"
@@ -9267,7 +9267,7 @@ let emojiList = [
   {
     "name": "flag-eg",
     "unicode": "1f1ea-1f1ec",
-    "shortname": ":flag-eg:",
+    // "shortname": ":flag-eg:",
     "code_decimal": "&#127466;&#127468;",
     "category": "f",
     "emoji_order": "2255"
@@ -9275,7 +9275,7 @@ let emojiList = [
   {
     "name": "flag-eh",
     "unicode": "1f1ea-1f1ed",
-    "shortname": ":flag-eh:",
+    // "shortname": ":flag-eh:",
     "code_decimal": "&#127466;&#127469;",
     "category": "f",
     "emoji_order": "2256"
@@ -9283,7 +9283,7 @@ let emojiList = [
   {
     "name": "flag-er",
     "unicode": "1f1ea-1f1f7",
-    "shortname": ":flag-er:",
+    // "shortname": ":flag-er:",
     "code_decimal": "&#127466;&#127479;",
     "category": "f",
     "emoji_order": "2257"
@@ -9291,7 +9291,7 @@ let emojiList = [
   {
     "name": "flag-es",
     "unicode": "1f1ea-1f1f8",
-    "shortname": ":flag-es:",
+    // "shortname": ":flag-es:",
     "code_decimal": "&#127466;&#127480;",
     "category": "f",
     "emoji_order": "2258"
@@ -9299,7 +9299,7 @@ let emojiList = [
   {
     "name": "flag-et",
     "unicode": "1f1ea-1f1f9",
-    "shortname": ":flag-et:",
+    // "shortname": ":flag-et:",
     "code_decimal": "&#127466;&#127481;",
     "category": "f",
     "emoji_order": "2259"
@@ -9307,7 +9307,7 @@ let emojiList = [
   {
     "name": "flag-eu",
     "unicode": "1f1ea-1f1fa",
-    "shortname": ":flag-eu:",
+    // "shortname": ":flag-eu:",
     "code_decimal": "&#127466;&#127482;",
     "category": "f",
     "emoji_order": "2260"
@@ -9315,7 +9315,7 @@ let emojiList = [
   {
     "name": "flag-fi",
     "unicode": "1f1eb-1f1ee",
-    "shortname": ":flag-fi:",
+    // "shortname": ":flag-fi:",
     "code_decimal": "&#127467;&#127470;",
     "category": "f",
     "emoji_order": "2261"
@@ -9323,7 +9323,7 @@ let emojiList = [
   {
     "name": "flag-fj",
     "unicode": "1f1eb-1f1ef",
-    "shortname": ":flag-fj:",
+    // "shortname": ":flag-fj:",
     "code_decimal": "&#127467;&#127471;",
     "category": "f",
     "emoji_order": "2262"
@@ -9331,7 +9331,7 @@ let emojiList = [
   {
     "name": "flag-fk",
     "unicode": "1f1eb-1f1f0",
-    "shortname": ":flag-fk:",
+    // "shortname": ":flag-fk:",
     "code_decimal": "&#127467;&#127472;",
     "category": "f",
     "emoji_order": "2263"
@@ -9339,7 +9339,7 @@ let emojiList = [
   {
     "name": "flag-fm",
     "unicode": "1f1eb-1f1f2",
-    "shortname": ":flag-fm:",
+    // "shortname": ":flag-fm:",
     "code_decimal": "&#127467;&#127474;",
     "category": "f",
     "emoji_order": "2264"
@@ -9347,7 +9347,7 @@ let emojiList = [
   {
     "name": "flag-fo",
     "unicode": "1f1eb-1f1f4",
-    "shortname": ":flag-fo:",
+    // "shortname": ":flag-fo:",
     "code_decimal": "&#127467;&#127476;",
     "category": "f",
     "emoji_order": "2265"
@@ -9355,7 +9355,7 @@ let emojiList = [
   {
     "name": "flag-fr",
     "unicode": "1f1eb-1f1f7",
-    "shortname": ":flag-fr:",
+    // "shortname": ":flag-fr:",
     "code_decimal": "&#127467;&#127479;",
     "category": "f",
     "emoji_order": "2266"
@@ -9363,7 +9363,7 @@ let emojiList = [
   {
     "name": "flag-ga",
     "unicode": "1f1ec-1f1e6",
-    "shortname": ":flag-ga:",
+    // "shortname": ":flag-ga:",
     "code_decimal": "&#127468;&#127462;",
     "category": "f",
     "emoji_order": "2267"
@@ -9371,7 +9371,7 @@ let emojiList = [
   {
     "name": "flag-gb",
     "unicode": "1f1ec-1f1e7",
-    "shortname": ":flag-gb:",
+    // "shortname": ":flag-gb:",
     "code_decimal": "&#127468;&#127463;",
     "category": "f",
     "emoji_order": "2268"
@@ -9379,7 +9379,7 @@ let emojiList = [
   {
     "name": "flag-gd",
     "unicode": "1f1ec-1f1e9",
-    "shortname": ":flag-gd:",
+    // "shortname": ":flag-gd:",
     "code_decimal": "&#127468;&#127465;",
     "category": "f",
     "emoji_order": "2269"
@@ -9387,7 +9387,7 @@ let emojiList = [
   {
     "name": "flag-ge",
     "unicode": "1f1ec-1f1ea",
-    "shortname": ":flag-ge:",
+    // "shortname": ":flag-ge:",
     "code_decimal": "&#127468;&#127466;",
     "category": "f",
     "emoji_order": "2270"
@@ -9395,7 +9395,7 @@ let emojiList = [
   {
     "name": "flag-gf",
     "unicode": "1f1ec-1f1eb",
-    "shortname": ":flag-gf:",
+    // "shortname": ":flag-gf:",
     "code_decimal": "&#127468;&#127467;",
     "category": "f",
     "emoji_order": "2271"
@@ -9403,7 +9403,7 @@ let emojiList = [
   {
     "name": "flag-gg",
     "unicode": "1f1ec-1f1ec",
-    "shortname": ":flag-gg:",
+    // "shortname": ":flag-gg:",
     "code_decimal": "&#127468;&#127468;",
     "category": "f",
     "emoji_order": "2272"
@@ -9411,7 +9411,7 @@ let emojiList = [
   {
     "name": "flag-gh",
     "unicode": "1f1ec-1f1ed",
-    "shortname": ":flag-gh:",
+    // "shortname": ":flag-gh:",
     "code_decimal": "&#127468;&#127469;",
     "category": "f",
     "emoji_order": "2273"
@@ -9419,7 +9419,7 @@ let emojiList = [
   {
     "name": "flag-gi",
     "unicode": "1f1ec-1f1ee",
-    "shortname": ":flag-gi:",
+    // "shortname": ":flag-gi:",
     "code_decimal": "&#127468;&#127470;",
     "category": "f",
     "emoji_order": "2274"
@@ -9427,7 +9427,7 @@ let emojiList = [
   {
     "name": "flag-gl",
     "unicode": "1f1ec-1f1f1",
-    "shortname": ":flag-gl:",
+    // "shortname": ":flag-gl:",
     "code_decimal": "&#127468;&#127473;",
     "category": "f",
     "emoji_order": "2275"
@@ -9435,7 +9435,7 @@ let emojiList = [
   {
     "name": "flag-gm",
     "unicode": "1f1ec-1f1f2",
-    "shortname": ":flag-gm:",
+    // "shortname": ":flag-gm:",
     "code_decimal": "&#127468;&#127474;",
     "category": "f",
     "emoji_order": "2276"
@@ -9443,7 +9443,7 @@ let emojiList = [
   {
     "name": "flag-gn",
     "unicode": "1f1ec-1f1f3",
-    "shortname": ":flag-gn:",
+    // "shortname": ":flag-gn:",
     "code_decimal": "&#127468;&#127475;",
     "category": "f",
     "emoji_order": "2277"
@@ -9451,7 +9451,7 @@ let emojiList = [
   {
     "name": "flag-gp",
     "unicode": "1f1ec-1f1f5",
-    "shortname": ":flag-gp:",
+    // "shortname": ":flag-gp:",
     "code_decimal": "&#127468;&#127477;",
     "category": "f",
     "emoji_order": "2278"
@@ -9459,7 +9459,7 @@ let emojiList = [
   {
     "name": "flag-gq",
     "unicode": "1f1ec-1f1f6",
-    "shortname": ":flag-gq:",
+    // "shortname": ":flag-gq:",
     "code_decimal": "&#127468;&#127478;",
     "category": "f",
     "emoji_order": "2279"
@@ -9467,7 +9467,7 @@ let emojiList = [
   {
     "name": "flag-gr",
     "unicode": "1f1ec-1f1f7",
-    "shortname": ":flag-gr:",
+    // "shortname": ":flag-gr:",
     "code_decimal": "&#127468;&#127479;",
     "category": "f",
     "emoji_order": "2280"
@@ -9475,7 +9475,7 @@ let emojiList = [
   {
     "name": "flag-gs",
     "unicode": "1f1ec-1f1f8",
-    "shortname": ":flag-gs:",
+    // "shortname": ":flag-gs:",
     "code_decimal": "&#127468;&#127480;",
     "category": "f",
     "emoji_order": "2281"
@@ -9483,7 +9483,7 @@ let emojiList = [
   {
     "name": "flag-gt",
     "unicode": "1f1ec-1f1f9",
-    "shortname": ":flag-gt:",
+    // "shortname": ":flag-gt:",
     "code_decimal": "&#127468;&#127481;",
     "category": "f",
     "emoji_order": "2282"
@@ -9491,7 +9491,7 @@ let emojiList = [
   {
     "name": "flag-gu",
     "unicode": "1f1ec-1f1fa",
-    "shortname": ":flag-gu:",
+    // "shortname": ":flag-gu:",
     "code_decimal": "&#127468;&#127482;",
     "category": "f",
     "emoji_order": "2283"
@@ -9499,7 +9499,7 @@ let emojiList = [
   {
     "name": "flag-gw",
     "unicode": "1f1ec-1f1fc",
-    "shortname": ":flag-gw:",
+    // "shortname": ":flag-gw:",
     "code_decimal": "&#127468;&#127484;",
     "category": "f",
     "emoji_order": "2284"
@@ -9507,7 +9507,7 @@ let emojiList = [
   {
     "name": "flag-gy",
     "unicode": "1f1ec-1f1fe",
-    "shortname": ":flag-gy:",
+    // "shortname": ":flag-gy:",
     "code_decimal": "&#127468;&#127486;",
     "category": "f",
     "emoji_order": "2285"
@@ -9515,7 +9515,7 @@ let emojiList = [
   {
     "name": "flag-hk",
     "unicode": "1f1ed-1f1f0",
-    "shortname": ":flag-hk:",
+    // "shortname": ":flag-hk:",
     "code_decimal": "&#127469;&#127472;",
     "category": "f",
     "emoji_order": "2286"
@@ -9523,7 +9523,7 @@ let emojiList = [
   {
     "name": "flag-hm",
     "unicode": "1f1ed-1f1f2",
-    "shortname": ":flag-hm:",
+    // "shortname": ":flag-hm:",
     "code_decimal": "&#127469;&#127474;",
     "category": "f",
     "emoji_order": "2287"
@@ -9531,7 +9531,7 @@ let emojiList = [
   {
     "name": "flag-hn",
     "unicode": "1f1ed-1f1f3",
-    "shortname": ":flag-hn:",
+    // "shortname": ":flag-hn:",
     "code_decimal": "&#127469;&#127475;",
     "category": "f",
     "emoji_order": "2288"
@@ -9539,7 +9539,7 @@ let emojiList = [
   {
     "name": "flag-hr",
     "unicode": "1f1ed-1f1f7",
-    "shortname": ":flag-hr:",
+    // "shortname": ":flag-hr:",
     "code_decimal": "&#127469;&#127479;",
     "category": "f",
     "emoji_order": "2289"
@@ -9547,7 +9547,7 @@ let emojiList = [
   {
     "name": "flag-ht",
     "unicode": "1f1ed-1f1f9",
-    "shortname": ":flag-ht:",
+    // "shortname": ":flag-ht:",
     "code_decimal": "&#127469;&#127481;",
     "category": "f",
     "emoji_order": "2290"
@@ -9555,7 +9555,7 @@ let emojiList = [
   {
     "name": "flag-hu",
     "unicode": "1f1ed-1f1fa",
-    "shortname": ":flag-hu:",
+    // "shortname": ":flag-hu:",
     "code_decimal": "&#127469;&#127482;",
     "category": "f",
     "emoji_order": "2291"
@@ -9563,7 +9563,7 @@ let emojiList = [
   {
     "name": "flag-ic",
     "unicode": "1f1ee-1f1e8",
-    "shortname": ":flag-ic:",
+    // "shortname": ":flag-ic:",
     "code_decimal": "&#127470;&#127464;",
     "category": "f",
     "emoji_order": "2292"
@@ -9571,7 +9571,7 @@ let emojiList = [
   {
     "name": "flag-id",
     "unicode": "1f1ee-1f1e9",
-    "shortname": ":flag-id:",
+    // "shortname": ":flag-id:",
     "code_decimal": "&#127470;&#127465;",
     "category": "f",
     "emoji_order": "2293"
@@ -9579,7 +9579,7 @@ let emojiList = [
   {
     "name": "flag-ie",
     "unicode": "1f1ee-1f1ea",
-    "shortname": ":flag-ie:",
+    // "shortname": ":flag-ie:",
     "code_decimal": "&#127470;&#127466;",
     "category": "f",
     "emoji_order": "2294"
@@ -9587,7 +9587,7 @@ let emojiList = [
   {
     "name": "flag-il",
     "unicode": "1f1ee-1f1f1",
-    "shortname": ":flag-il:",
+    // "shortname": ":flag-il:",
     "code_decimal": "&#127470;&#127473;",
     "category": "f",
     "emoji_order": "2295"
@@ -9598,7 +9598,7 @@ let emojiList = [
   {
     "name": "flag-im",
     "unicode": "1f1ee-1f1f2",
-    "shortname": ":flag-im:",
+    // "shortname": ":flag-im:",
     "code_decimal": "&#127470;&#127474;",
     "category": "f",
     "emoji_order": "2296"
@@ -9606,7 +9606,7 @@ let emojiList = [
   {
     "name": "flag-in",
     "unicode": "1f1ee-1f1f3",
-    "shortname": ":flag-in:",
+    // "shortname": ":flag-in:",
     "code_decimal": "&#127470;&#127475;",
     "category": "f",
     "emoji_order": "2297"
@@ -9614,7 +9614,7 @@ let emojiList = [
   {
     "name": "flag-io",
     "unicode": "1f1ee-1f1f4",
-    "shortname": ":flag-io:",
+    // "shortname": ":flag-io:",
     "code_decimal": "&#127470;&#127476;",
     "category": "f",
     "emoji_order": "2298"
@@ -9622,7 +9622,7 @@ let emojiList = [
   {
     "name": "flag-iq",
     "unicode": "1f1ee-1f1f6",
-    "shortname": ":flag-iq:",
+    // "shortname": ":flag-iq:",
     "code_decimal": "&#127470;&#127478;",
     "category": "f",
     "emoji_order": "2299"
@@ -9630,7 +9630,7 @@ let emojiList = [
   {
     "name": "flag-ir",
     "unicode": "1f1ee-1f1f7",
-    "shortname": ":flag-ir:",
+    // "shortname": ":flag-ir:",
     "code_decimal": "&#127470;&#127479;",
     "category": "f",
     "emoji_order": "2300"
@@ -9638,7 +9638,7 @@ let emojiList = [
   {
     "name": "flag-is",
     "unicode": "1f1ee-1f1f8",
-    "shortname": ":flag-is:",
+    // "shortname": ":flag-is:",
     "code_decimal": "&#127470;&#127480;",
     "category": "f",
     "emoji_order": "2301"
@@ -9646,7 +9646,7 @@ let emojiList = [
   {
     "name": "flag-it",
     "unicode": "1f1ee-1f1f9",
-    "shortname": ":flag-it:",
+    // "shortname": ":flag-it:",
     "code_decimal": "&#127470;&#127481;",
     "category": "f",
     "emoji_order": "2302"
@@ -9654,7 +9654,7 @@ let emojiList = [
   {
     "name": "flag-je",
     "unicode": "1f1ef-1f1ea",
-    "shortname": ":flag-je:",
+    // "shortname": ":flag-je:",
     "code_decimal": "&#127471;&#127466;",
     "category": "f",
     "emoji_order": "2303"
@@ -9662,7 +9662,7 @@ let emojiList = [
   {
     "name": "flag-jm",
     "unicode": "1f1ef-1f1f2",
-    "shortname": ":flag-jm:",
+    // "shortname": ":flag-jm:",
     "code_decimal": "&#127471;&#127474;",
     "category": "f",
     "emoji_order": "2304"
@@ -9670,7 +9670,7 @@ let emojiList = [
   {
     "name": "flag-jo",
     "unicode": "1f1ef-1f1f4",
-    "shortname": ":flag-jo:",
+    // "shortname": ":flag-jo:",
     "code_decimal": "&#127471;&#127476;",
     "category": "f",
     "emoji_order": "2305"
@@ -9678,7 +9678,7 @@ let emojiList = [
   {
     "name": "flag-jp",
     "unicode": "1f1ef-1f1f5",
-    "shortname": ":flag-jp:",
+    // "shortname": ":flag-jp:",
     "code_decimal": "&#127471;&#127477;",
     "category": "f",
     "emoji_order": "2306"
@@ -9686,7 +9686,7 @@ let emojiList = [
   {
     "name": "flag-ke",
     "unicode": "1f1f0-1f1ea",
-    "shortname": ":flag-ke:",
+    // "shortname": ":flag-ke:",
     "code_decimal": "&#127472;&#127466;",
     "category": "f",
     "emoji_order": "2307"
@@ -9694,7 +9694,7 @@ let emojiList = [
   {
     "name": "flag-kg",
     "unicode": "1f1f0-1f1ec",
-    "shortname": ":flag-kg:",
+    // "shortname": ":flag-kg:",
     "code_decimal": "&#127472;&#127468;",
     "category": "f",
     "emoji_order": "2308"
@@ -9702,7 +9702,7 @@ let emojiList = [
   {
     "name": "flag-kh",
     "unicode": "1f1f0-1f1ed",
-    "shortname": ":flag-kh:",
+    // "shortname": ":flag-kh:",
     "code_decimal": "&#127472;&#127469;",
     "category": "f",
     "emoji_order": "2309"
@@ -9710,7 +9710,7 @@ let emojiList = [
   {
     "name": "flag-ki",
     "unicode": "1f1f0-1f1ee",
-    "shortname": ":flag-ki:",
+    // "shortname": ":flag-ki:",
     "code_decimal": "&#127472;&#127470;",
     "category": "f",
     "emoji_order": "2310"
@@ -9718,7 +9718,7 @@ let emojiList = [
   {
     "name": "flag-km",
     "unicode": "1f1f0-1f1f2",
-    "shortname": ":flag-km:",
+    // "shortname": ":flag-km:",
     "code_decimal": "&#127472;&#127474;",
     "category": "f",
     "emoji_order": "2311"
@@ -9726,7 +9726,7 @@ let emojiList = [
   {
     "name": "flag-kn",
     "unicode": "1f1f0-1f1f3",
-    "shortname": ":flag-kn:",
+    // "shortname": ":flag-kn:",
     "code_decimal": "&#127472;&#127475;",
     "category": "f",
     "emoji_order": "2312"
@@ -9734,7 +9734,7 @@ let emojiList = [
   {
     "name": "flag-kp",
     "unicode": "1f1f0-1f1f5",
-    "shortname": ":flag-kp:",
+    // "shortname": ":flag-kp:",
     "code_decimal": "&#127472;&#127477;",
     "category": "f",
     "emoji_order": "2313"
@@ -9742,7 +9742,7 @@ let emojiList = [
   {
     "name": "flag-kr",
     "unicode": "1f1f0-1f1f7",
-    "shortname": ":flag-kr:",
+    // "shortname": ":flag-kr:",
     "code_decimal": "&#127472;&#127479;",
     "category": "f",
     "emoji_order": "2314"
@@ -9750,7 +9750,7 @@ let emojiList = [
   {
     "name": "flag-kw",
     "unicode": "1f1f0-1f1fc",
-    "shortname": ":flag-kw:",
+    // "shortname": ":flag-kw:",
     "code_decimal": "&#127472;&#127484;",
     "category": "f",
     "emoji_order": "2315"
@@ -9758,7 +9758,7 @@ let emojiList = [
   {
     "name": "flag-ky",
     "unicode": "1f1f0-1f1fe",
-    "shortname": ":flag-ky:",
+    // "shortname": ":flag-ky:",
     "code_decimal": "&#127472;&#127486;",
     "category": "f",
     "emoji_order": "2316"
@@ -9766,7 +9766,7 @@ let emojiList = [
   {
     "name": "flag-kz",
     "unicode": "1f1f0-1f1ff",
-    "shortname": ":flag-kz:",
+    // "shortname": ":flag-kz:",
     "code_decimal": "&#127472;&#127487;",
     "category": "f",
     "emoji_order": "2317"
@@ -9774,7 +9774,7 @@ let emojiList = [
   {
     "name": "flag-la",
     "unicode": "1f1f1-1f1e6",
-    "shortname": ":flag-la:",
+    // "shortname": ":flag-la:",
     "code_decimal": "&#127473;&#127462;",
     "category": "f",
     "emoji_order": "2318"
@@ -9782,7 +9782,7 @@ let emojiList = [
   {
     "name": "flag-lb",
     "unicode": "1f1f1-1f1e7",
-    "shortname": ":flag-lb:",
+    // "shortname": ":flag-lb:",
     "code_decimal": "&#127473;&#127463;",
     "category": "f",
     "emoji_order": "2319"
@@ -9790,7 +9790,7 @@ let emojiList = [
   {
     "name": "flag-lc",
     "unicode": "1f1f1-1f1e8",
-    "shortname": ":flag-lc:",
+    // "shortname": ":flag-lc:",
     "code_decimal": "&#127473;&#127464;",
     "category": "f",
     "emoji_order": "2320"
@@ -9798,7 +9798,7 @@ let emojiList = [
   {
     "name": "flag-li",
     "unicode": "1f1f1-1f1ee",
-    "shortname": ":flag-li:",
+    // "shortname": ":flag-li:",
     "code_decimal": "&#127473;&#127470;",
     "category": "f",
     "emoji_order": "2321"
@@ -9806,7 +9806,7 @@ let emojiList = [
   {
     "name": "flag-lk",
     "unicode": "1f1f1-1f1f0",
-    "shortname": ":flag-lk:",
+    // "shortname": ":flag-lk:",
     "code_decimal": "&#127473;&#127472;",
     "category": "f",
     "emoji_order": "2322"
@@ -9814,7 +9814,7 @@ let emojiList = [
   {
     "name": "flag-lr",
     "unicode": "1f1f1-1f1f7",
-    "shortname": ":flag-lr:",
+    // "shortname": ":flag-lr:",
     "code_decimal": "&#127473;&#127479;",
     "category": "f",
     "emoji_order": "2323"
@@ -9822,7 +9822,7 @@ let emojiList = [
   {
     "name": "flag-ls",
     "unicode": "1f1f1-1f1f8",
-    "shortname": ":flag-ls:",
+    // "shortname": ":flag-ls:",
     "code_decimal": "&#127473;&#127480;",
     "category": "f",
     "emoji_order": "2324"
@@ -9830,7 +9830,7 @@ let emojiList = [
   {
     "name": "flag-lt",
     "unicode": "1f1f1-1f1f9",
-    "shortname": ":flag-lt:",
+    // "shortname": ":flag-lt:",
     "code_decimal": "&#127473;&#127481;",
     "category": "f",
     "emoji_order": "2325"
@@ -9838,7 +9838,7 @@ let emojiList = [
   {
     "name": "flag-lu",
     "unicode": "1f1f1-1f1fa",
-    "shortname": ":flag-lu:",
+    // "shortname": ":flag-lu:",
     "code_decimal": "&#127473;&#127482;",
     "category": "f",
     "emoji_order": "2326"
@@ -9846,7 +9846,7 @@ let emojiList = [
   {
     "name": "flag-lv",
     "unicode": "1f1f1-1f1fb",
-    "shortname": ":flag-lv:",
+    // "shortname": ":flag-lv:",
     "code_decimal": "&#127473;&#127483;",
     "category": "f",
     "emoji_order": "2327"
@@ -9854,7 +9854,7 @@ let emojiList = [
   {
     "name": "flag-ly",
     "unicode": "1f1f1-1f1fe",
-    "shortname": ":flag-ly:",
+    // "shortname": ":flag-ly:",
     "code_decimal": "&#127473;&#127486;",
     "category": "f",
     "emoji_order": "2328"
@@ -9862,7 +9862,7 @@ let emojiList = [
   {
     "name": "flag-ma",
     "unicode": "1f1f2-1f1e6",
-    "shortname": ":flag-ma:",
+    // "shortname": ":flag-ma:",
     "code_decimal": "&#127474;&#127462;",
     "category": "f",
     "emoji_order": "2329"
@@ -9870,7 +9870,7 @@ let emojiList = [
   {
     "name": "flag-mc",
     "unicode": "1f1f2-1f1e8",
-    "shortname": ":flag-mc:",
+    // "shortname": ":flag-mc:",
     "code_decimal": "&#127474;&#127464;",
     "category": "f",
     "emoji_order": "2330"
@@ -9878,7 +9878,7 @@ let emojiList = [
   {
     "name": "flag-md",
     "unicode": "1f1f2-1f1e9",
-    "shortname": ":flag-md:",
+    // "shortname": ":flag-md:",
     "code_decimal": "&#127474;&#127465;",
     "category": "f",
     "emoji_order": "2331"
@@ -9886,7 +9886,7 @@ let emojiList = [
   {
     "name": "flag-me",
     "unicode": "1f1f2-1f1ea",
-    "shortname": ":flag-me:",
+    // "shortname": ":flag-me:",
     "code_decimal": "&#127474;&#127466;",
     "category": "f",
     "emoji_order": "2332"
@@ -9894,7 +9894,7 @@ let emojiList = [
   {
     "name": "flag-mf",
     "unicode": "1f1f2-1f1eb",
-    "shortname": ":flag-mf:",
+    // "shortname": ":flag-mf:",
     "code_decimal": "&#127474;&#127467;",
     "category": "f",
     "emoji_order": "2333"
@@ -9902,7 +9902,7 @@ let emojiList = [
   {
     "name": "flag-mg",
     "unicode": "1f1f2-1f1ec",
-    "shortname": ":flag-mg:",
+    // "shortname": ":flag-mg:",
     "code_decimal": "&#127474;&#127468;",
     "category": "f",
     "emoji_order": "2334"
@@ -9910,7 +9910,7 @@ let emojiList = [
   {
     "name": "flag-mh",
     "unicode": "1f1f2-1f1ed",
-    "shortname": ":flag-mh:",
+    // "shortname": ":flag-mh:",
     "code_decimal": "&#127474;&#127469;",
     "category": "f",
     "emoji_order": "2335"
@@ -9918,7 +9918,7 @@ let emojiList = [
   {
     "name": "flag-mk",
     "unicode": "1f1f2-1f1f0",
-    "shortname": ":flag-mk:",
+    // "shortname": ":flag-mk:",
     "code_decimal": "&#127474;&#127472;",
     "category": "f",
     "emoji_order": "2336"
@@ -9926,7 +9926,7 @@ let emojiList = [
   {
     "name": "flag-ml",
     "unicode": "1f1f2-1f1f1",
-    "shortname": ":flag-ml:",
+    // "shortname": ":flag-ml:",
     "code_decimal": "&#127474;&#127473;",
     "category": "f",
     "emoji_order": "2337"
@@ -9934,7 +9934,7 @@ let emojiList = [
   {
     "name": "flag-mm",
     "unicode": "1f1f2-1f1f2",
-    "shortname": ":flag-mm:",
+    // "shortname": ":flag-mm:",
     "code_decimal": "&#127474;&#127474;",
     "category": "f",
     "emoji_order": "2338"
@@ -9942,7 +9942,7 @@ let emojiList = [
   {
     "name": "flag-mn",
     "unicode": "1f1f2-1f1f3",
-    "shortname": ":flag-mn:",
+    // "shortname": ":flag-mn:",
     "code_decimal": "&#127474;&#127475;",
     "category": "f",
     "emoji_order": "2339"
@@ -9950,7 +9950,7 @@ let emojiList = [
   {
     "name": "flag-mo",
     "unicode": "1f1f2-1f1f4",
-    "shortname": ":flag-mo:",
+    // "shortname": ":flag-mo:",
     "code_decimal": "&#127474;&#127476;",
     "category": "f",
     "emoji_order": "2340"
@@ -9958,7 +9958,7 @@ let emojiList = [
   {
     "name": "flag-mp",
     "unicode": "1f1f2-1f1f5",
-    "shortname": ":flag-mp:",
+    // "shortname": ":flag-mp:",
     "code_decimal": "&#127474;&#127477;",
     "category": "f",
     "emoji_order": "2341"
@@ -9966,7 +9966,7 @@ let emojiList = [
   {
     "name": "flag-mq",
     "unicode": "1f1f2-1f1f6",
-    "shortname": ":flag-mq:",
+    // "shortname": ":flag-mq:",
     "code_decimal": "&#127474;&#127478;",
     "category": "f",
     "emoji_order": "2342"
@@ -9974,7 +9974,7 @@ let emojiList = [
   {
     "name": "flag-mr",
     "unicode": "1f1f2-1f1f7",
-    "shortname": ":flag-mr:",
+    // "shortname": ":flag-mr:",
     "code_decimal": "&#127474;&#127479;",
     "category": "f",
     "emoji_order": "2343"
@@ -9982,7 +9982,7 @@ let emojiList = [
   {
     "name": "flag-ms",
     "unicode": "1f1f2-1f1f8",
-    "shortname": ":flag-ms:",
+    // "shortname": ":flag-ms:",
     "code_decimal": "&#127474;&#127480;",
     "category": "f",
     "emoji_order": "2344"
@@ -9990,7 +9990,7 @@ let emojiList = [
   {
     "name": "flag-mt",
     "unicode": "1f1f2-1f1f9",
-    "shortname": ":flag-mt:",
+    // "shortname": ":flag-mt:",
     "code_decimal": "&#127474;&#127481;",
     "category": "f",
     "emoji_order": "2345"
@@ -9998,7 +9998,7 @@ let emojiList = [
   {
     "name": "flag-mu",
     "unicode": "1f1f2-1f1fa",
-    "shortname": ":flag-mu:",
+    // "shortname": ":flag-mu:",
     "code_decimal": "&#127474;&#127482;",
     "category": "f",
     "emoji_order": "2346"
@@ -10006,7 +10006,7 @@ let emojiList = [
   {
     "name": "flag-mv",
     "unicode": "1f1f2-1f1fb",
-    "shortname": ":flag-mv:",
+    // "shortname": ":flag-mv:",
     "code_decimal": "&#127474;&#127483;",
     "category": "f",
     "emoji_order": "2347"
@@ -10014,7 +10014,7 @@ let emojiList = [
   {
     "name": "flag-mw",
     "unicode": "1f1f2-1f1fc",
-    "shortname": ":flag-mw:",
+    // "shortname": ":flag-mw:",
     "code_decimal": "&#127474;&#127484;",
     "category": "f",
     "emoji_order": "2348"
@@ -10022,7 +10022,7 @@ let emojiList = [
   {
     "name": "flag-mx",
     "unicode": "1f1f2-1f1fd",
-    "shortname": ":flag-mx:",
+    // "shortname": ":flag-mx:",
     "code_decimal": "&#127474;&#127485;",
     "category": "f",
     "emoji_order": "2349"
@@ -10030,7 +10030,7 @@ let emojiList = [
   {
     "name": "flag-my",
     "unicode": "1f1f2-1f1fe",
-    "shortname": ":flag-my:",
+    // "shortname": ":flag-my:",
     "code_decimal": "&#127474;&#127486;",
     "category": "f",
     "emoji_order": "2350"
@@ -10038,7 +10038,7 @@ let emojiList = [
   {
     "name": "flag-mz",
     "unicode": "1f1f2-1f1ff",
-    "shortname": ":flag-mz:",
+    // "shortname": ":flag-mz:",
     "code_decimal": "&#127474;&#127487;",
     "category": "f",
     "emoji_order": "2351"
@@ -10046,7 +10046,7 @@ let emojiList = [
   {
     "name": "flag-na",
     "unicode": "1f1f3-1f1e6",
-    "shortname": ":flag-na:",
+    // "shortname": ":flag-na:",
     "code_decimal": "&#127475;&#127462;",
     "category": "f",
     "emoji_order": "2352"
@@ -10054,7 +10054,7 @@ let emojiList = [
   {
     "name": "flag-nc",
     "unicode": "1f1f3-1f1e8",
-    "shortname": ":flag-nc:",
+    // "shortname": ":flag-nc:",
     "code_decimal": "&#127475;&#127464;",
     "category": "f",
     "emoji_order": "2353"
@@ -10062,7 +10062,7 @@ let emojiList = [
   {
     "name": "flag-ne",
     "unicode": "1f1f3-1f1ea",
-    "shortname": ":flag-ne:",
+    // "shortname": ":flag-ne:",
     "code_decimal": "&#127475;&#127466;",
     "category": "f",
     "emoji_order": "2354"
@@ -10070,7 +10070,7 @@ let emojiList = [
   {
     "name": "flag-nf",
     "unicode": "1f1f3-1f1eb",
-    "shortname": ":flag-nf:",
+    // "shortname": ":flag-nf:",
     "code_decimal": "&#127475;&#127467;",
     "category": "f",
     "emoji_order": "2355"
@@ -10078,7 +10078,7 @@ let emojiList = [
   {
     "name": "flag-ng",
     "unicode": "1f1f3-1f1ec",
-    "shortname": ":flag-ng:",
+    // "shortname": ":flag-ng:",
     "code_decimal": "&#127475;&#127468;",
     "category": "f",
     "emoji_order": "2356"
@@ -10086,7 +10086,7 @@ let emojiList = [
   {
     "name": "flag-ni",
     "unicode": "1f1f3-1f1ee",
-    "shortname": ":flag-ni:",
+    // "shortname": ":flag-ni:",
     "code_decimal": "&#127475;&#127470;",
     "category": "f",
     "emoji_order": "2357"
@@ -10094,7 +10094,7 @@ let emojiList = [
   {
     "name": "flag-nl",
     "unicode": "1f1f3-1f1f1",
-    "shortname": ":flag-nl:",
+    // "shortname": ":flag-nl:",
     "code_decimal": "&#127475;&#127473;",
     "category": "f",
     "emoji_order": "2358"
@@ -10102,7 +10102,7 @@ let emojiList = [
   {
     "name": "flag-no",
     "unicode": "1f1f3-1f1f4",
-    "shortname": ":flag-no:",
+    // "shortname": ":flag-no:",
     "code_decimal": "&#127475;&#127476;",
     "category": "f",
     "emoji_order": "2359"
@@ -10110,7 +10110,7 @@ let emojiList = [
   {
     "name": "flag-np",
     "unicode": "1f1f3-1f1f5",
-    "shortname": ":flag-np:",
+    // "shortname": ":flag-np:",
     "code_decimal": "&#127475;&#127477;",
     "category": "f",
     "emoji_order": "2360"
@@ -10118,7 +10118,7 @@ let emojiList = [
   {
     "name": "flag-nr",
     "unicode": "1f1f3-1f1f7",
-    "shortname": ":flag-nr:",
+    // "shortname": ":flag-nr:",
     "code_decimal": "&#127475;&#127479;",
     "category": "f",
     "emoji_order": "2361"
@@ -10126,7 +10126,7 @@ let emojiList = [
   {
     "name": "flag-nu",
     "unicode": "1f1f3-1f1fa",
-    "shortname": ":flag-nu:",
+    // "shortname": ":flag-nu:",
     "code_decimal": "&#127475;&#127482;",
     "category": "f",
     "emoji_order": "2362"
@@ -10134,7 +10134,7 @@ let emojiList = [
   {
     "name": "flag-nz",
     "unicode": "1f1f3-1f1ff",
-    "shortname": ":flag-nz:",
+    // "shortname": ":flag-nz:",
     "code_decimal": "&#127475;&#127487;",
     "category": "f",
     "emoji_order": "2363"
@@ -10142,7 +10142,7 @@ let emojiList = [
   {
     "name": "flag-om",
     "unicode": "1f1f4-1f1f2",
-    "shortname": ":flag-om:",
+    // "shortname": ":flag-om:",
     "code_decimal": "&#127476;&#127474;",
     "category": "f",
     "emoji_order": "2364"
@@ -10150,7 +10150,7 @@ let emojiList = [
   {
     "name": "flag-pa",
     "unicode": "1f1f5-1f1e6",
-    "shortname": ":flag-pa:",
+    // "shortname": ":flag-pa:",
     "code_decimal": "&#127477;&#127462;",
     "category": "f",
     "emoji_order": "2365"
@@ -10158,7 +10158,7 @@ let emojiList = [
   {
     "name": "flag-pe",
     "unicode": "1f1f5-1f1ea",
-    "shortname": ":flag-pe:",
+    // "shortname": ":flag-pe:",
     "code_decimal": "&#127477;&#127466;",
     "category": "f",
     "emoji_order": "2366"
@@ -10166,7 +10166,7 @@ let emojiList = [
   {
     "name": "flag-pf",
     "unicode": "1f1f5-1f1eb",
-    "shortname": ":flag-pf:",
+    // "shortname": ":flag-pf:",
     "code_decimal": "&#127477;&#127467;",
     "category": "f",
     "emoji_order": "2367"
@@ -10174,7 +10174,7 @@ let emojiList = [
   {
     "name": "flag-pg",
     "unicode": "1f1f5-1f1ec",
-    "shortname": ":flag-pg:",
+    // "shortname": ":flag-pg:",
     "code_decimal": "&#127477;&#127468;",
     "category": "f",
     "emoji_order": "2368"
@@ -10182,7 +10182,7 @@ let emojiList = [
   {
     "name": "flag-ph",
     "unicode": "1f1f5-1f1ed",
-    "shortname": ":flag-ph:",
+    // "shortname": ":flag-ph:",
     "code_decimal": "&#127477;&#127469;",
     "category": "f",
     "emoji_order": "2369"
@@ -10190,7 +10190,7 @@ let emojiList = [
   {
     "name": "flag-pk",
     "unicode": "1f1f5-1f1f0",
-    "shortname": ":flag-pk:",
+    // "shortname": ":flag-pk:",
     "code_decimal": "&#127477;&#127472;",
     "category": "f",
     "emoji_order": "2370"
@@ -10198,7 +10198,7 @@ let emojiList = [
   {
     "name": "flag-pl",
     "unicode": "1f1f5-1f1f1",
-    "shortname": ":flag-pl:",
+    // "shortname": ":flag-pl:",
     "code_decimal": "&#127477;&#127473;",
     "category": "f",
     "emoji_order": "2371"
@@ -10206,7 +10206,7 @@ let emojiList = [
   {
     "name": "flag-pm",
     "unicode": "1f1f5-1f1f2",
-    "shortname": ":flag-pm:",
+    // "shortname": ":flag-pm:",
     "code_decimal": "&#127477;&#127474;",
     "category": "f",
     "emoji_order": "2372"
@@ -10214,7 +10214,7 @@ let emojiList = [
   {
     "name": "flag-pn",
     "unicode": "1f1f5-1f1f3",
-    "shortname": ":flag-pn:",
+    // "shortname": ":flag-pn:",
     "code_decimal": "&#127477;&#127475;",
     "category": "f",
     "emoji_order": "2373"
@@ -10222,7 +10222,7 @@ let emojiList = [
   {
     "name": "flag-pr",
     "unicode": "1f1f5-1f1f7",
-    "shortname": ":flag-pr:",
+    // "shortname": ":flag-pr:",
     "code_decimal": "&#127477;&#127479;",
     "category": "f",
     "emoji_order": "2374"
@@ -10230,7 +10230,7 @@ let emojiList = [
   {
     "name": "flag-ps",
     "unicode": "1f1f5-1f1f8",
-    "shortname": ":flag-ps:",
+    // "shortname": ":flag-ps:",
     "code_decimal": "&#127477;&#127480;",
     "category": "f",
     "emoji_order": "2375"
@@ -10238,7 +10238,7 @@ let emojiList = [
   {
     "name": "flag-pt",
     "unicode": "1f1f5-1f1f9",
-    "shortname": ":flag-pt:",
+    // "shortname": ":flag-pt:",
     "code_decimal": "&#127477;&#127481;",
     "category": "f",
     "emoji_order": "2376"
@@ -10246,7 +10246,7 @@ let emojiList = [
   {
     "name": "flag-pw",
     "unicode": "1f1f5-1f1fc",
-    "shortname": ":flag-pw:",
+    // "shortname": ":flag-pw:",
     "code_decimal": "&#127477;&#127484;",
     "category": "f",
     "emoji_order": "2377"
@@ -10254,7 +10254,7 @@ let emojiList = [
   {
     "name": "flag-py",
     "unicode": "1f1f5-1f1fe",
-    "shortname": ":flag-py:",
+    // "shortname": ":flag-py:",
     "code_decimal": "&#127477;&#127486;",
     "category": "f",
     "emoji_order": "2378"
@@ -10262,7 +10262,7 @@ let emojiList = [
   {
     "name": "flag-qa",
     "unicode": "1f1f6-1f1e6",
-    "shortname": ":flag-qa:",
+    // "shortname": ":flag-qa:",
     "code_decimal": "&#127478;&#127462;",
     "category": "f",
     "emoji_order": "2379"
@@ -10270,7 +10270,7 @@ let emojiList = [
   {
     "name": "flag-re",
     "unicode": "1f1f7-1f1ea",
-    "shortname": ":flag-re:",
+    // "shortname": ":flag-re:",
     "code_decimal": "&#127479;&#127466;",
     "category": "f",
     "emoji_order": "2380"
@@ -10278,7 +10278,7 @@ let emojiList = [
   {
     "name": "flag-ro",
     "unicode": "1f1f7-1f1f4",
-    "shortname": ":flag-ro:",
+    // "shortname": ":flag-ro:",
     "code_decimal": "&#127479;&#127476;",
     "category": "f",
     "emoji_order": "2381"
@@ -10286,7 +10286,7 @@ let emojiList = [
   {
     "name": "flag-rs",
     "unicode": "1f1f7-1f1f8",
-    "shortname": ":flag-rs:",
+    // "shortname": ":flag-rs:",
     "code_decimal": "&#127479;&#127480;",
     "category": "f",
     "emoji_order": "2382"
@@ -10294,7 +10294,7 @@ let emojiList = [
   {
     "name": "flag-ru",
     "unicode": "1f1f7-1f1fa",
-    "shortname": ":flag-ru:",
+    // "shortname": ":flag-ru:",
     "code_decimal": "&#127479;&#127482;",
     "category": "f",
     "emoji_order": "2383"
@@ -10302,7 +10302,7 @@ let emojiList = [
   {
     "name": "flag-rw",
     "unicode": "1f1f7-1f1fc",
-    "shortname": ":flag-rw:",
+    // "shortname": ":flag-rw:",
     "code_decimal": "&#127479;&#127484;",
     "category": "f",
     "emoji_order": "2384"
@@ -10310,7 +10310,7 @@ let emojiList = [
   {
     "name": "flag-sa",
     "unicode": "1f1f8-1f1e6",
-    "shortname": ":flag-sa:",
+    // "shortname": ":flag-sa:",
     "code_decimal": "&#127480;&#127462;",
     "category": "f",
     "emoji_order": "2385"
@@ -10321,7 +10321,7 @@ let emojiList = [
   {
     "name": "flag-sb",
     "unicode": "1f1f8-1f1e7",
-    "shortname": ":flag-sb:",
+    // "shortname": ":flag-sb:",
     "code_decimal": "&#127480;&#127463;",
     "category": "f",
     "emoji_order": "2386"
@@ -10329,7 +10329,7 @@ let emojiList = [
   {
     "name": "flag-sc",
     "unicode": "1f1f8-1f1e8",
-    "shortname": ":flag-sc:",
+    // "shortname": ":flag-sc:",
     "code_decimal": "&#127480;&#127464;",
     "category": "f",
     "emoji_order": "2387"
@@ -10337,7 +10337,7 @@ let emojiList = [
   {
     "name": "flag-sd",
     "unicode": "1f1f8-1f1e9",
-    "shortname": ":flag-sd:",
+    // "shortname": ":flag-sd:",
     "code_decimal": "&#127480;&#127465;",
     "category": "f",
     "emoji_order": "2388"
@@ -10345,7 +10345,7 @@ let emojiList = [
   {
     "name": "flag-se",
     "unicode": "1f1f8-1f1ea",
-    "shortname": ":flag-se:",
+    // "shortname": ":flag-se:",
     "code_decimal": "&#127480;&#127466;",
     "category": "f",
     "emoji_order": "2389"
@@ -10353,7 +10353,7 @@ let emojiList = [
   {
     "name": "flag-sg",
     "unicode": "1f1f8-1f1ec",
-    "shortname": ":flag-sg:",
+    // "shortname": ":flag-sg:",
     "code_decimal": "&#127480;&#127468;",
     "category": "f",
     "emoji_order": "2390"
@@ -10361,7 +10361,7 @@ let emojiList = [
   {
     "name": "flag-sh",
     "unicode": "1f1f8-1f1ed",
-    "shortname": ":flag-sh:",
+    // "shortname": ":flag-sh:",
     "code_decimal": "&#127480;&#127469;",
     "category": "f",
     "emoji_order": "2391"
@@ -10369,7 +10369,7 @@ let emojiList = [
   {
     "name": "flag-si",
     "unicode": "1f1f8-1f1ee",
-    "shortname": ":flag-si:",
+    // "shortname": ":flag-si:",
     "code_decimal": "&#127480;&#127470;",
     "category": "f",
     "emoji_order": "2392"
@@ -10377,7 +10377,7 @@ let emojiList = [
   {
     "name": "flag-sj",
     "unicode": "1f1f8-1f1ef",
-    "shortname": ":flag-sj:",
+    // "shortname": ":flag-sj:",
     "code_decimal": "&#127480;&#127471;",
     "category": "f",
     "emoji_order": "2393"
@@ -10385,7 +10385,7 @@ let emojiList = [
   {
     "name": "flag-sk",
     "unicode": "1f1f8-1f1f0",
-    "shortname": ":flag-sk:",
+    // "shortname": ":flag-sk:",
     "code_decimal": "&#127480;&#127472;",
     "category": "f",
     "emoji_order": "2394"
@@ -10393,7 +10393,7 @@ let emojiList = [
   {
     "name": "flag-sl",
     "unicode": "1f1f8-1f1f1",
-    "shortname": ":flag-sl:",
+    // "shortname": ":flag-sl:",
     "code_decimal": "&#127480;&#127473;",
     "category": "f",
     "emoji_order": "2395"
@@ -10401,7 +10401,7 @@ let emojiList = [
   {
     "name": "flag-sm",
     "unicode": "1f1f8-1f1f2",
-    "shortname": ":flag-sm:",
+    // "shortname": ":flag-sm:",
     "code_decimal": "&#127480;&#127474;",
     "category": "f",
     "emoji_order": "2396"
@@ -10409,7 +10409,7 @@ let emojiList = [
   {
     "name": "flag-sn",
     "unicode": "1f1f8-1f1f3",
-    "shortname": ":flag-sn:",
+    // "shortname": ":flag-sn:",
     "code_decimal": "&#127480;&#127475;",
     "category": "f",
     "emoji_order": "2397"
@@ -10417,7 +10417,7 @@ let emojiList = [
   {
     "name": "flag-so",
     "unicode": "1f1f8-1f1f4",
-    "shortname": ":flag-so:",
+    // "shortname": ":flag-so:",
     "code_decimal": "&#127480;&#127476;",
     "category": "f",
     "emoji_order": "2398"
@@ -10425,7 +10425,7 @@ let emojiList = [
   {
     "name": "flag-sr",
     "unicode": "1f1f8-1f1f7",
-    "shortname": ":flag-sr:",
+    // "shortname": ":flag-sr:",
     "code_decimal": "&#127480;&#127479;",
     "category": "f",
     "emoji_order": "2399"
@@ -10433,7 +10433,7 @@ let emojiList = [
   {
     "name": "flag-ss",
     "unicode": "1f1f8-1f1f8",
-    "shortname": ":flag-ss:",
+    // "shortname": ":flag-ss:",
     "code_decimal": "&#127480;&#127480;",
     "category": "f",
     "emoji_order": "2400"
@@ -10441,7 +10441,7 @@ let emojiList = [
   {
     "name": "flag-st",
     "unicode": "1f1f8-1f1f9",
-    "shortname": ":flag-st:",
+    // "shortname": ":flag-st:",
     "code_decimal": "&#127480;&#127481;",
     "category": "f",
     "emoji_order": "2401"
@@ -10449,7 +10449,7 @@ let emojiList = [
   {
     "name": "flag-sv",
     "unicode": "1f1f8-1f1fb",
-    "shortname": ":flag-sv:",
+    // "shortname": ":flag-sv:",
     "code_decimal": "&#127480;&#127483;",
     "category": "f",
     "emoji_order": "2402"
@@ -10457,7 +10457,7 @@ let emojiList = [
   {
     "name": "flag-sx",
     "unicode": "1f1f8-1f1fd",
-    "shortname": ":flag-sx:",
+    // "shortname": ":flag-sx:",
     "code_decimal": "&#127480;&#127485;",
     "category": "f",
     "emoji_order": "2403"
@@ -10465,7 +10465,7 @@ let emojiList = [
   {
     "name": "flag-sy",
     "unicode": "1f1f8-1f1fe",
-    "shortname": ":flag-sy:",
+    // "shortname": ":flag-sy:",
     "code_decimal": "&#127480;&#127486;",
     "category": "f",
     "emoji_order": "2404"
@@ -10473,7 +10473,7 @@ let emojiList = [
   {
     "name": "flag-sz",
     "unicode": "1f1f8-1f1ff",
-    "shortname": ":flag-sz:",
+    // "shortname": ":flag-sz:",
     "code_decimal": "&#127480;&#127487;",
     "category": "f",
     "emoji_order": "2405"
@@ -10481,7 +10481,7 @@ let emojiList = [
   {
     "name": "flag-ta",
     "unicode": "1f1f9-1f1e6",
-    "shortname": ":flag-ta:",
+    // "shortname": ":flag-ta:",
     "code_decimal": "&#127481;&#127462;",
     "category": "f",
     "emoji_order": "2406"
@@ -10489,7 +10489,7 @@ let emojiList = [
   {
     "name": "flag-tc",
     "unicode": "1f1f9-1f1e8",
-    "shortname": ":flag-tc:",
+    // "shortname": ":flag-tc:",
     "code_decimal": "&#127481;&#127464;",
     "category": "f",
     "emoji_order": "2407"
@@ -10497,7 +10497,7 @@ let emojiList = [
   {
     "name": "flag-td",
     "unicode": "1f1f9-1f1e9",
-    "shortname": ":flag-td:",
+    // "shortname": ":flag-td:",
     "code_decimal": "&#127481;&#127465;",
     "category": "f",
     "emoji_order": "2408"
@@ -10505,7 +10505,7 @@ let emojiList = [
   {
     "name": "flag-tf",
     "unicode": "1f1f9-1f1eb",
-    "shortname": ":flag-tf:",
+    // "shortname": ":flag-tf:",
     "code_decimal": "&#127481;&#127467;",
     "category": "f",
     "emoji_order": "2409"
@@ -10513,7 +10513,7 @@ let emojiList = [
   {
     "name": "flag-tg",
     "unicode": "1f1f9-1f1ec",
-    "shortname": ":flag-tg:",
+    // "shortname": ":flag-tg:",
     "code_decimal": "&#127481;&#127468;",
     "category": "f",
     "emoji_order": "2410"
@@ -10521,7 +10521,7 @@ let emojiList = [
   {
     "name": "flag-th",
     "unicode": "1f1f9-1f1ed",
-    "shortname": ":flag-th:",
+    // "shortname": ":flag-th:",
     "code_decimal": "&#127481;&#127469;",
     "category": "f",
     "emoji_order": "2411"
@@ -10529,7 +10529,7 @@ let emojiList = [
   {
     "name": "flag-tj",
     "unicode": "1f1f9-1f1ef",
-    "shortname": ":flag-tj:",
+    // "shortname": ":flag-tj:",
     "code_decimal": "&#127481;&#127471;",
     "category": "f",
     "emoji_order": "2412"
@@ -10537,7 +10537,7 @@ let emojiList = [
   {
     "name": "flag-tk",
     "unicode": "1f1f9-1f1f0",
-    "shortname": ":flag-tk:",
+    // "shortname": ":flag-tk:",
     "code_decimal": "&#127481;&#127472;",
     "category": "f",
     "emoji_order": "2413"
@@ -10545,7 +10545,7 @@ let emojiList = [
   {
     "name": "flag-tl",
     "unicode": "1f1f9-1f1f1",
-    "shortname": ":flag-tl:",
+    // "shortname": ":flag-tl:",
     "code_decimal": "&#127481;&#127473;",
     "category": "f",
     "emoji_order": "2414"
@@ -10553,7 +10553,7 @@ let emojiList = [
   {
     "name": "flag-tm",
     "unicode": "1f1f9-1f1f2",
-    "shortname": ":flag-tm:",
+    // "shortname": ":flag-tm:",
     "code_decimal": "&#127481;&#127474;",
     "category": "f",
     "emoji_order": "2415"
@@ -10561,7 +10561,7 @@ let emojiList = [
   {
     "name": "flag-tn",
     "unicode": "1f1f9-1f1f3",
-    "shortname": ":flag-tn:",
+    // "shortname": ":flag-tn:",
     "code_decimal": "&#127481;&#127475;",
     "category": "f",
     "emoji_order": "2416"
@@ -10569,7 +10569,7 @@ let emojiList = [
   {
     "name": "flag-to",
     "unicode": "1f1f9-1f1f4",
-    "shortname": ":flag-to:",
+    // "shortname": ":flag-to:",
     "code_decimal": "&#127481;&#127476;",
     "category": "f",
     "emoji_order": "2417"
@@ -10577,7 +10577,7 @@ let emojiList = [
   {
     "name": "flag-tr",
     "unicode": "1f1f9-1f1f7",
-    "shortname": ":flag-tr:",
+    // "shortname": ":flag-tr:",
     "code_decimal": "&#127481;&#127479;",
     "category": "f",
     "emoji_order": "2418"
@@ -10585,7 +10585,7 @@ let emojiList = [
   {
     "name": "flag-tt",
     "unicode": "1f1f9-1f1f9",
-    "shortname": ":flag-tt:",
+    // "shortname": ":flag-tt:",
     "code_decimal": "&#127481;&#127481;",
     "category": "f",
     "emoji_order": "2419"
@@ -10593,7 +10593,7 @@ let emojiList = [
   {
     "name": "flag-tv",
     "unicode": "1f1f9-1f1fb",
-    "shortname": ":flag-tv:",
+    // "shortname": ":flag-tv:",
     "code_decimal": "&#127481;&#127483;",
     "category": "f",
     "emoji_order": "2420"
@@ -10601,7 +10601,7 @@ let emojiList = [
   {
     "name": "flag-tw",
     "unicode": "1f1f9-1f1fc",
-    "shortname": ":flag-tw:",
+    // "shortname": ":flag-tw:",
     "code_decimal": "&#127481;&#127484;",
     "category": "f",
     "emoji_order": "2421"
@@ -10609,7 +10609,7 @@ let emojiList = [
   {
     "name": "flag-tz",
     "unicode": "1f1f9-1f1ff",
-    "shortname": ":flag-tz:",
+    // "shortname": ":flag-tz:",
     "code_decimal": "&#127481;&#127487;",
     "category": "f",
     "emoji_order": "2422"
@@ -10617,7 +10617,7 @@ let emojiList = [
   {
     "name": "flag-ua",
     "unicode": "1f1fa-1f1e6",
-    "shortname": ":flag-ua:",
+    // "shortname": ":flag-ua:",
     "code_decimal": "&#127482;&#127462;",
     "category": "f",
     "emoji_order": "2423"
@@ -10625,7 +10625,7 @@ let emojiList = [
   {
     "name": "flag-ug",
     "unicode": "1f1fa-1f1ec",
-    "shortname": ":flag-ug:",
+    // "shortname": ":flag-ug:",
     "code_decimal": "&#127482;&#127468;",
     "category": "f",
     "emoji_order": "2424"
@@ -10633,7 +10633,7 @@ let emojiList = [
   {
     "name": "flag-um",
     "unicode": "1f1fa-1f1f2",
-    "shortname": ":flag-um:",
+    // "shortname": ":flag-um:",
     "code_decimal": "&#127482;&#127474;",
     "category": "f",
     "emoji_order": "2425"
@@ -10641,7 +10641,7 @@ let emojiList = [
   {
     "name": "flag-us",
     "unicode": "1f1fa-1f1f8",
-    "shortname": ":flag-us:",
+    // "shortname": ":flag-us:",
     "code_decimal": "&#127482;&#127480;",
     "category": "f",
     "emoji_order": "2427"
@@ -10649,7 +10649,7 @@ let emojiList = [
   {
     "name": "flag-uy",
     "unicode": "1f1fa-1f1fe",
-    "shortname": ":flag-uy:",
+    // "shortname": ":flag-uy:",
     "code_decimal": "&#127482;&#127486;",
     "category": "f",
     "emoji_order": "2428"
@@ -10657,7 +10657,7 @@ let emojiList = [
   {
     "name": "flag-uz",
     "unicode": "1f1fa-1f1ff",
-    "shortname": ":flag-uz:",
+    // "shortname": ":flag-uz:",
     "code_decimal": "&#127482;&#127487;",
     "category": "f",
     "emoji_order": "2429"
@@ -10665,7 +10665,7 @@ let emojiList = [
   {
     "name": "flag-va",
     "unicode": "1f1fb-1f1e6",
-    "shortname": ":flag-va:",
+    // "shortname": ":flag-va:",
     "code_decimal": "&#127483;&#127462;",
     "category": "f",
     "emoji_order": "2430"
@@ -10673,7 +10673,7 @@ let emojiList = [
   {
     "name": "flag-vc",
     "unicode": "1f1fb-1f1e8",
-    "shortname": ":flag-vc:",
+    // "shortname": ":flag-vc:",
     "code_decimal": "&#127483;&#127464;",
     "category": "f",
     "emoji_order": "2431"
@@ -10681,7 +10681,7 @@ let emojiList = [
   {
     "name": "flag-ve",
     "unicode": "1f1fb-1f1ea",
-    "shortname": ":flag-ve:",
+    // "shortname": ":flag-ve:",
     "code_decimal": "&#127483;&#127466;",
     "category": "f",
     "emoji_order": "2432"
@@ -10689,7 +10689,7 @@ let emojiList = [
   {
     "name": "flag-vg",
     "unicode": "1f1fb-1f1ec",
-    "shortname": ":flag-vg:",
+    // "shortname": ":flag-vg:",
     "code_decimal": "&#127483;&#127468;",
     "category": "f",
     "emoji_order": "2433"
@@ -10697,7 +10697,7 @@ let emojiList = [
   {
     "name": "flag-vi",
     "unicode": "1f1fb-1f1ee",
-    "shortname": ":flag-vi:",
+    // "shortname": ":flag-vi:",
     "code_decimal": "&#127483;&#127470;",
     "category": "f",
     "emoji_order": "2434"
@@ -10705,7 +10705,7 @@ let emojiList = [
   {
     "name": "flag-vn",
     "unicode": "1f1fb-1f1f3",
-    "shortname": ":flag-vn:",
+    // "shortname": ":flag-vn:",
     "code_decimal": "&#127483;&#127475;",
     "category": "f",
     "emoji_order": "2435"
@@ -10714,7 +10714,7 @@ let emojiList = [
   {
     "name": "flag-vu",
     "unicode": "1f1fb-1f1fa",
-    "shortname": ":flag_vu:",
+    // "shortname": ":flag_vu:",
     "code_decimal": "&#127483;&#127482;",
     "category": "f",
     "emoji_order": "2436"
@@ -10722,7 +10722,7 @@ let emojiList = [
   {
     "name": "flag-wf",
     "unicode": "1f1fc-1f1eb",
-    "shortname": ":flag_wf:",
+    // "shortname": ":flag_wf:",
     "code_decimal": "&#127484;&#127467;",
     "category": "f",
     "emoji_order": "2437"
@@ -10730,7 +10730,7 @@ let emojiList = [
   {
     "name": "flag-ws",
     "unicode": "1f1fc-1f1f8",
-    "shortname": ":flag_ws:",
+    // "shortname": ":flag_ws:",
     "code_decimal": "&#127484;&#127480;",
     "category": "f",
     "emoji_order": "2438"
@@ -10738,7 +10738,7 @@ let emojiList = [
   {
     "name": "flag-xk",
     "unicode": "1f1fd-1f1f0",
-    "shortname": ":flag_xk:",
+    // "shortname": ":flag_xk:",
     "code_decimal": "&#127485;&#127472;",
     "category": "f",
     "emoji_order": "2439"
@@ -10746,7 +10746,7 @@ let emojiList = [
   {
     "name": "flag-ye",
     "unicode": "1f1fe-1f1ea",
-    "shortname": ":flag_ye:",
+    // "shortname": ":flag_ye:",
     "code_decimal": "&#127486;&#127466;",
     "category": "f",
     "emoji_order": "2440"
@@ -10754,7 +10754,7 @@ let emojiList = [
   {
     "name": "flag-yt",
     "unicode": "1f1fe-1f1f9",
-    "shortname": ":flag_yt:",
+    // "shortname": ":flag_yt:",
     "code_decimal": "&#127486;&#127481;",
     "category": "f",
     "emoji_order": "2441"
@@ -10762,7 +10762,7 @@ let emojiList = [
   {
     "name": "flag-za",
     "unicode": "1f1ff-1f1e6",
-    "shortname": ":flag_za:",
+    // "shortname": ":flag_za:",
     "code_decimal": "&#127487;&#127462;",
     "category": "f",
     "emoji_order": "2442"
@@ -10770,7 +10770,7 @@ let emojiList = [
   {
     "name": "flag-zm",
     "unicode": "1f1ff-1f1f2",
-    "shortname": ":flag_zm:",
+    // "shortname": ":flag_zm:",
     "code_decimal": "&#127487;&#127474;",
     "category": "f",
     "emoji_order": "2443"
@@ -10778,7 +10778,7 @@ let emojiList = [
   {
     "name": "flag-zw",
     "unicode": "1f1ff-1f1fc",
-    "shortname": ":flag_zw:",
+    // "shortname": ":flag_zw:",
     "code_decimal": "&#127487;&#127484;",
     "category": "f",
     "emoji_order": "2444"
@@ -10786,7 +10786,7 @@ let emojiList = [
   {
     "name": "speech",
     "unicode": "1f600",
-    "shortname": ":speech:",
+    // "shortname": ":speech:",
     "code_decimal": "&#128172;",
     "category": "p",
     "emoji_order": "1"

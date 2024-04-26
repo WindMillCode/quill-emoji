@@ -1,8 +1,8 @@
 @import './variables';
 
 
-    // Emoji styles & image sheets sourced from: https://github.com/markygriff/Website.git
-    // TODO: Update with a more contemporary sprite and css
+// Emoji styles & image sheets sourced from: https://github.com/markygriff/Website.git
+// TODO: Update with a more contemporary sprite and css
 
 
 
@@ -10,13 +10,11 @@
     display: inline-flex;
     height: 20px;
     width: 20px;
-    background-image: url('../sheet_apple_16.png');
+    background-image: url('../sheet_apple_16_optimized.png');
     background-size: 820px;
     background-repeat: no-repeat;
     text-indent: -999px;
-    // padding-left: 20px;
     box-sizing: border-box;
-    // For emoji fallback
     font-size: 20px;
     line-height: 1;
     overflow: hidden;

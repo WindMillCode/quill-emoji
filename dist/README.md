@@ -5,8 +5,7 @@
 version will be based on version starting with  2.0.0000
   * [2.0.0] - is the quill version
   * [000] - is the major minor patch version of our library
-  * meaning we only have 9 digits avaialble for major,minor and patch before we have to wait for qull library to update hopefully it does not come to that
-  * however according to the semver spec the there cant be trailing zeros so for 2.0.0 there will be patch  updates until 2.x.x comes out
+  meaning we only have 9 digits avaialble for major,minor and patch before we have to wait for qull library to update hopefully it does not come to that
   * for every new version of quill down to its patch there will be new release hopefully on the same day
 * there is no testing but minimal modification from quill emoji to get things to work with quill 2.0.0 feel free to add test cases and open a PR
 * cant copy emojis open a PR as necessary

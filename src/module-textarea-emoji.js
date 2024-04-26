@@ -4,7 +4,6 @@ import emojiList from './emoji-list.js';
 
 
 
-const Delta = Quill.default.import('delta');
 const Module = Quill.default.import('core/module');
 
 class TextAreaEmoji extends Module {
@@ -12,13 +11,12 @@ class TextAreaEmoji extends Module {
         super(quill, options);
 
         this.quill = quill;
-        this.container  = document.createElement('div');
+        this.container  = document.createElement('button');
         this.container.classList.add('textarea-emoji-control');
-        this.container.style.position   = "absolute";
+        this.container.classList.add('ql-list');
         this.container.innerHTML = options.buttonIcon;
-        this.quill.container.appendChild(this.container);
+        this.quill.container.parentElement.querySelector(".ql-toolbar > .ql-formats:last-child").appendChild(this.container)
         this.container.addEventListener('click', this.checkEmojiBoxExist.bind(this),false);
-
         this.quill.root.addEventListener("click",fn_close.bind(this),false)
     }
 
@@ -30,7 +28,7 @@ class TextAreaEmoji extends Module {
         else{
             let ele_emoji_area = document.createElement('div');
             ele_emoji_area.id = 'textarea-emoji';
-            this.quill.container.appendChild(ele_emoji_area);
+            this.quill.container.parentElement.querySelector(".ql-toolbar").appendChild(ele_emoji_area)
             let tabToolbar = document.createElement('div');
             tabToolbar.id="tab-toolbar";
             ele_emoji_area.appendChild(tabToolbar);

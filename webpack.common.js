@@ -38,7 +38,7 @@ export  let common = {
           from: 'package.json',
           to: 'package.json',
           transform: (content, path) => {
- 
+
             const packageJson = JSON.parse(content.toString());
             packageJson.main = 'quill-emoji.js';
             delete packageJson.scripts;
@@ -46,7 +46,15 @@ export  let common = {
             return JSON.stringify(packageJson, null, 2);
           }
         },
-        // You can also copy other necessary files like README, LICENSE, etc.
+        {
+          from:'README.md',
+          to:'README.md'
+        },
+        {
+          from:'LICENSE',
+          to:'LICENSE',
+          toType: 'file'
+        }
       ],
     })
   ],
@@ -56,7 +64,7 @@ export  let common = {
         test: /\.(scss|css)$/i,
         use: [
           MiniCssExtractPlugin.loader,
-          // 'style-loader',
+           // 'style-loader',
           'css-loader',
           'sass-loader'
         ]

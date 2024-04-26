@@ -16,12 +16,29 @@ to run its preferred to use  our vscode launch.json "Run Development" Command or
 ```sh
 npm run start
 ```
-the cd to the dist folder and do
+
+in the package do
 ```sh
+cd dist;
 npm link
 ```
 
 * in the consumer application do
+```sh
+npm link @windmillcode/quill-emoji --save
+```
+
+###  to remove
+* in the consumer application do
+```sh
+npm unlink @windmillcode/quill-emoji
+```
+
+* in the package do
+```ts
+cd dist;
+npm unlink -g 
+```
 
 ## Maintainers
 
