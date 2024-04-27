@@ -34,6 +34,7 @@ npm install  @windmillcode/quill-emoji
 
 ```javascript
 // someone can contribute and make ShortNameEmoji work
+import Quill from 'quill';
 import * as Emoji from "@windmillcode/quill-emoji";
 let  {EmojiBlot,
 // ShortNameEmoji,
