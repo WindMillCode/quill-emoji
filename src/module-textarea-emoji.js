@@ -4,7 +4,7 @@ import emojiList from './emoji-list.js';
 
 
 
-const Module = Quill.default.import('core/module');
+const Module = Quill.import('core/module');
 
 class TextAreaEmoji extends Module {
     constructor(quill, options){
@@ -149,7 +149,7 @@ function fn_emojiElementsToPanel(type,panel,quill){
             customButton.addEventListener('click', function() {
 
 
-                quill.insertEmbed(range.index, 'emoji', emoji, Quill.default.sources.USER);
+                quill.insertEmbed(range.index, 'emoji', emoji, Quill.sources.USER);
                 range.index += 1;
                 setTimeout(() => quill.setSelection(range.index + 1), 0);
             });

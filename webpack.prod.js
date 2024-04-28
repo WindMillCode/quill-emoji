@@ -1,5 +1,5 @@
 import { merge } from 'webpack-merge';
-import {common} from './webpack.common.js';
+import {common} from './webpack.module.js';
 import CssMinimizerPlugin from "css-minimizer-webpack-plugin"
 import TerserPlugin from 'terser-webpack-plugin';
 import MiniCssExtractPlugin from 'mini-css-extract-plugin';

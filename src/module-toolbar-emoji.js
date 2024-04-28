@@ -2,7 +2,7 @@ import Quill from 'quill';
 import Fuse from 'fuse.js';
 import emojiList from './emoji-list.js';
 
-const Module = Quill.default.import('core/module');
+const Module = Quill.import('core/module');
 
 
 class ToolbarEmoji extends Module {
@@ -170,7 +170,7 @@ function fn_emojiElementsToPanel(type, panel, quill) {
     if (customButton) {
       customButton.addEventListener('click', function () {
         makeElement("span", {className: "ico", innerHTML: '' + emoji.code_decimal + ' '});
-        quill.insertEmbed(range.index, 'emoji', emoji, Quill.default.sources.USER);
+        quill.insertEmbed(range.index, 'emoji', emoji, Quill.sources.USER);
         setTimeout(() => quill.setSelection(range.index + 1), 0);
         fn_close();
       });

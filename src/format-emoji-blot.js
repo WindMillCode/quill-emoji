@@ -1,6 +1,6 @@
 import emojiMap from "./emoji-map";
 import Quill from 'quill';
-const Embed = Quill.default.import('blots/embed');
+const Embed = Quill.import('blots/embed');
 
 
 

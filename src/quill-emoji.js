@@ -5,4 +5,4 @@ import  TextAreaEmoji from './module-textarea-emoji';
 import './scss/quill-emoji.scss';
 
 
-export default { EmojiBlot, ToolbarEmoji, TextAreaEmoji };
+export { EmojiBlot, ToolbarEmoji, TextAreaEmoji };

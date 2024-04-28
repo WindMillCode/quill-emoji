@@ -6,7 +6,7 @@
   "private": false,
   "scripts": {
     "start": "webpack serve  --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js",
+    "build": "rm -r dist && webpack --config webpack.prod.js",
     "build:dev": "webpack --config webpack.dev.js",
     "publish": "cd dist && npm publish --access=public"
   },
