@@ -1,6 +1,6 @@
 {
   "name": "@windmillcode/quill-emoji",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Quill Extension for Emoji Selection",
   "main": "dist/quill-emoji.js",
   "private": false,
