@@ -1,12 +1,12 @@
 {
   "name": "@windmillcode/quill-emoji",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Quill Extension for Emoji Selection",
   "main": "dist/quill-emoji.js",
   "private": false,
   "scripts": {
-    "start": "webpack serve  --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js",
+    "start": "rimraf dist && webpack serve  --config webpack.dev.js",
+    "build": "rimraf dist && webpack --config webpack.prod.js",
     "build:dev": "webpack --config webpack.dev.js",
     "publish": "cd dist && npm publish --access=public"
   },
@@ -31,6 +31,7 @@
     "imagemin-svgo": "^10.0.1",
     "mini-css-extract-plugin": "^2.9.0",
     "resolve-url-loader": "^3.1.5",
+    "rimraf": "^5.0.5",
     "sass": "^1.75.0",
     "sass-loader": "^14.2.1",
     "style-loader": "^4.0.0",

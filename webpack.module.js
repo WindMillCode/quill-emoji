@@ -1,31 +1,32 @@
-
 import MiniCssExtractPlugin from 'mini-css-extract-plugin';
-import CopyPlugin from 'copy-webpack-plugin'
-import {distPath} from './helper.js'
+import CopyPlugin from 'copy-webpack-plugin';
+import { distPath } from './helper.js';
 
-
-export  let common = {
-  entry:{
+export let common = {
+  entry: {
     "quill-emoji": './src/quill-emoji.js'
+  },
+  experiments:{
+    outputModule:true
   },
   resolve: {
     extensions: ['.ts', '.js'],
-    fullySpecified:false
+    fullySpecified: false
   },
   output: {
     filename: 'quill-emoji.js',
     path: distPath,
     clean: true,
-    library:{
-      name:"WMLQuillEmoji",
-      type:"umd",
-      umdNamedDefine: true
+    library: {
+      // name:"WMLQuillEmoji",
+      type: "module", // This specifies that the output should be ESM
+      // export: 'default',
     },
     globalObject: 'this',
   },
   target: 'web',
   externals: {
-    quill:"Quill",
+    quill: "Quill",
   },
   plugins: [
     new MiniCssExtractPlugin({
@@ -38,7 +39,6 @@ export  let common = {
           from: 'package.json',
           to: 'package.json',
           transform: (content, path) => {
-
             const packageJson = JSON.parse(content.toString());
             packageJson.main = 'quill-emoji.js';
             delete packageJson.scripts;
@@ -46,15 +46,8 @@ export  let common = {
             return JSON.stringify(packageJson, null, 2);
           }
         },
-        {
-          from:'README.md',
-          to:'README.md'
-        },
-        {
-          from:'LICENSE',
-          to:'LICENSE',
-          toType: 'file'
-        }
+        { from: 'README.md', to: 'README.md' },
+        { from: 'LICENSE', to: 'LICENSE', toType: 'file' }
       ],
     })
   ],
@@ -64,7 +57,6 @@ export  let common = {
         test: /\.(scss|css)$/i,
         use: [
           MiniCssExtractPlugin.loader,
-           // 'style-loader',
           'css-loader',
           'sass-loader'
         ]
@@ -73,13 +65,16 @@ export  let common = {
         test: /\.(png|svg|jpg|jpeg|gif)$/i,
         type: 'asset/resource',
       },
+
       {
         test: /\.js$/,
         use: [
           {
             loader: 'babel-loader',
             options: {
-              presets: ['@babel/preset-env']
+              presets: [
+                ['@babel/preset-env', { modules: false }] // Ensure Babel does not transform modules
+              ]
             }
           }
         ],
@@ -91,4 +86,3 @@ export  let common = {
     ]
   }
 };
-

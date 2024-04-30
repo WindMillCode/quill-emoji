@@ -1,7 +1,7 @@
 import Quill from 'quill';
 import Fuse from 'fuse.js';
 import emojiList from './emoji-list.js';
-const Module = Quill.default.import('core/module');
+const Module = Quill.import('core/module');
 
 
 class ShortNameEmoji extends Module {
@@ -61,12 +61,12 @@ class ShortNameEmoji extends Module {
   triggerPicker(range, context) {
     if (this.open) return true;
     if (range.length > 0) {
-      this.quill.deleteText(range.index, range.length, Quill.default.sources.USER);
+      this.quill.deleteText(range.index, range.length, Quill.sources.USER);
     }
 
-    this.quill.insertText(range.index, ":", "emoji-shortname", Quill.default.sources.USER);
+    this.quill.insertText(range.index, ":", "emoji-shortname", Quill.sources.USER);
     const atSignBounds = this.quill.getBounds(range.index);
-    this.quill.setSelection(range.index + 1, Quill.default.sources.SILENT);
+    this.quill.setSelection(range.index + 1, Quill.sources.SILENT);
 
     this.atIndex = range.index;
 
@@ -193,7 +193,7 @@ class ShortNameEmoji extends Module {
         'li', {},
         makeElement(
           'button', {type: "button"},
-          makeElement("span", {className: "button-emoji ap ap-" + emoji.name, innerHTML: emoji.code_decimal }),
+          makeElement("span", {className: "button-emoji ap", innerHTML: emoji.unicode }),
           //makeElement('span', {className: "matched"}, this.query),
           //makeElement('span', {className: "unmatched"}, emoji.shortname.slice(this.query.length+1))
           makeElement('span', {className: "unmatched"}, emoji.shortname)
@@ -234,8 +234,8 @@ class ShortNameEmoji extends Module {
     this.quill.off('selection-change', this.onSelectionChange);
     this.quill.off('text-change', this.onTextChange);
     if (value) {
-      this.quill.deleteText(this.atIndex, this.query.length + 1 + trailingDelete, Quill.default.sources.USER);
-      this.quill.insertEmbed(this.atIndex, 'emoji', value, Quill.default.sources.USER);
+      this.quill.deleteText(this.atIndex, this.query.length + 1 + trailingDelete, Quill.sources.USER);
+      this.quill.insertText(this.atIndex, value.unicode, Quill.sources.USER);
       setTimeout(() => this.quill.setSelection(this.atIndex + 1), 0);
     }
     this.quill.focus();

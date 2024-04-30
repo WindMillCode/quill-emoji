@@ -1,9 +1,9 @@
 import emojiMap from "./emoji-map";
 import Quill from 'quill';
-const Embed = Quill.default.import('blots/embed');
+const Embed = Quill.import('blots/embed');
 
 
-
+// this whole class may be uncessary
 class EmojiBlot extends Embed {
   static blotName = 'emoji';
   static className = 'ql-emojiblot';
@@ -36,7 +36,6 @@ class EmojiBlot extends Embed {
     let emojiSpan = document.createElement('span');
     emojiSpan.classList.add(this.emojiClass);
     emojiSpan.classList.add(this.emojiPrefix + value.name);
-    // unicode can be '1f1f5-1f1ea',see emoji-list.js.
     emojiSpan.innerText = String.fromCodePoint(...EmojiBlot.parseUnicode(value.unicode));
     node.appendChild(emojiSpan);
   }
