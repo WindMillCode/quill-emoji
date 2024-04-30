@@ -152,7 +152,7 @@ function fn_emojiElementsToPanel(type, panel, quill) {
   });
 
   quill.focus();
-  let range = quill.getSelection();
+
 
   result.map(function (emoji) {
     let span = document.createElement('span');
@@ -161,16 +161,16 @@ function fn_emojiElementsToPanel(type, panel, quill) {
     span.classList.add('bem');
     span.classList.add('bem-' + emoji.name);
     span.classList.add('ap');
-    span.classList.add('ap-' + emoji.name);
-    let output = '' + emoji.code_decimal + '';
+    let output = '' + emoji.unicode + '';
     span.innerHTML = output + ' ';
     panel.appendChild(span);
 
     let customButton = document.querySelector('.bem-' + emoji.name);
     if (customButton) {
       customButton.addEventListener('click', function () {
-        makeElement("span", {className: "ico", innerHTML: '' + emoji.code_decimal + ' '});
-        quill.insertEmbed(range.index, 'emoji', emoji, Quill.sources.USER);
+        let range = quill.getSelection(true);
+        makeElement("span", {className: "ico", innerHTML: '' + emoji.unicode + ' '});
+        quill.insertText(range.index, emoji.unicode, Quill.sources.USER);
         setTimeout(() => quill.setSelection(range.index + 1), 0);
         fn_close();
       });

@@ -11,12 +11,12 @@
   border: 1px solid rgba(0, 0, 0, 0.15);
 }
 .bem {
-  font-size: 24px;
-  width: 34px;
+  font-size: calc(24/10.6 * 1em);
+  // width: 34px;
   display: inline-block;
   text-align: center;
   cursor: pointer;
-  margin: 2px;
+  // margin: 2px;
 }
 
 .emoji-tab {
@@ -45,7 +45,7 @@
   justify-content: center;
   max-height: 220px;
   overflow-y: scroll;
-  padding: 2px;
+  padding: calc(10/10.6 * 1em);
   background: $white;
 }
 

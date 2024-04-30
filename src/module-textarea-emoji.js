@@ -99,10 +99,6 @@ function fn_close(){
     if (ele_emoji_plate) {ele_emoji_plate.remove()}
 }
 
-function fn_updateRange(quill){
-    let range = quill.getSelection();
-    return range;
-}
 
 function fn_emojiPanelInit(panel,quill){
     fn_emojiElementsToPanel('p', panel, quill);
@@ -127,9 +123,7 @@ function fn_emojiElementsToPanel(type,panel,quill){
     result.sort(function (a, b) {
       return a.emoji_order - b.emoji_order;
     });
-
-    quill.focus();
-    let range = fn_updateRange(quill);
+    quill.focus()
 
     result.map((emojiItem)=> {
         let emoji = emojiItem.item
@@ -139,17 +133,15 @@ function fn_emojiElementsToPanel(type,panel,quill){
         span.classList.add('bem');
         span.classList.add('bem-' + emoji.name);
         span.classList.add('ap');
-        span.classList.add('ap-'+emoji.name);
-        let output = ''+emoji.code_decimal+'';
-        span.innerHTML = output + ' ';
+        span.innerText = emoji.unicode;
         panel.appendChild(span);
 
         let customButton = document.querySelector('.bem-' + emoji.name);
         if (customButton) {
             customButton.addEventListener('click', function() {
-
-
-                quill.insertEmbed(range.index, 'emoji', emoji, Quill.sources.USER);
+                let range = quill.getSelection(true);
+                console.log(emoji.unicode)
+                quill.insertText(range.index, emoji.unicode, Quill.sources.USER);
                 range.index += 1;
                 setTimeout(() => quill.setSelection(range.index + 1), 0);
             });

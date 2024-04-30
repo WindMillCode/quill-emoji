@@ -34,12 +34,18 @@ npm install  @windmillcode/quill-emoji
 
 ```javascript
 // someone can contribute and make ShortNameEmoji work
+// itseems the only emoji needed is text area
 import Quill from 'quill';
-import {EmojiBlot,ToolbarEmoji,TextAreaEmoji }from "@windmillcode/quill-emoji";
+import {
+// ShortNameEmoji
+// EmojiBlot
+// ToolbarEmoji
+  TextAreaEmoji }from "@windmillcode/quill-emoji";
 
-Quill.register(EmojiBlot)
+
+// Quill.register(EmojiBlot)
 // Quill.register('modules/emoji-shortname', ShortNameEmoji,true)
-Quill.register('modules/emoji-toolbar', ToolbarEmoji,true)
+// Quill.register('modules/emoji-toolbar', ToolbarEmoji,true)
 Quill.register('modules/emoji-textarea', TextAreaEmoji,true)
 ```
 
