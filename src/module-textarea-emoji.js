@@ -17,7 +17,7 @@ class TextAreaEmoji extends Module {
         this.container.innerHTML = options.buttonIcon;
         this.quill.container.parentElement.querySelector(".ql-toolbar > .ql-formats:last-child").appendChild(this.container)
         this.container.addEventListener('click', this.checkEmojiBoxExist.bind(this),false);
-        this.quill.root.addEventListener("click",fn_close.bind(this),false)
+        // this.quill.root.addEventListener("click",fn_close.bind(this),false)
     }
 
     checkEmojiBoxExist(){
@@ -140,7 +140,6 @@ function fn_emojiElementsToPanel(type,panel,quill){
         if (customButton) {
             customButton.addEventListener('click', function() {
                 let range = quill.getSelection(true);
-                console.log(emoji.unicode)
                 quill.insertText(range.index, emoji.unicode, Quill.sources.USER);
                 range.index += 1;
                 setTimeout(() => quill.setSelection(range.index + 1), 0);
