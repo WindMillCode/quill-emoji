@@ -1,6 +1,6 @@
 {
   "name": "@windmillcode/quill-emoji",
-  "version": "2.0.4",
+  "version": "2.0.1000",
   "description": "Quill Extension for Emoji Selection",
   "main": "dist/quill-emoji.js",
   "private": false,
@@ -64,7 +64,7 @@
     "node": "18.x || 20.x"
   },
   "peerDependencies": {
-    "quill": "^2.0.0"
+    "quill": "^2.0.1"
   },
   "sideEffects": [
     "*.scss"

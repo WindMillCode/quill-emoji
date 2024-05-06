@@ -19,3 +19,6 @@
 ## 2.0.4
 
 [BREAKING CHANGE] - for the textarea module if you click your cursor in the text area the emoji toolbar does not go away only when you click on the toobar icon to make it go away it will go away
+
+## 2.0.1000
+[UPDATE] to conform to quill v2.0.1
