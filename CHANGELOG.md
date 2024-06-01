@@ -22,3 +22,6 @@
 
 ## 2.0.1000
 [UPDATE] to conform to quill v2.0.1
+
+## 2.0.2000
+[UPDATE] to conform to quill v2.0.2
