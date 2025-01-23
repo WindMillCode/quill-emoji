@@ -26,7 +26,7 @@ export let common = {
   },
   target: 'web',
   externals: {
-    quill: "Quill",
+    quill: "quill",
   },
   plugins: [
     new MiniCssExtractPlugin({
