@@ -148,13 +148,15 @@ function fn_emojiElementsToPanel(type, panel, quill) {
   let fuse = new Fuse(emojiList, fuseOptions);
   let result = fuse.search(type);
   result.sort(function (a, b) {
-    return a.emoji_order - b.emoji_order;
+    return a.item.emoji_order - b.item.emoji_order;
   });
 
   quill.focus();
 
 
-  result.map(function (emoji) {
+result.map(function (emojiResult) {
+  let emoji = emojiResult.item; 
+
     let span = document.createElement('span');
     let t = document.createTextNode(emoji.shortname);
     span.appendChild(t);
